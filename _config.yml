@@ -24,7 +24,7 @@ description: a curation of audio/visual works of art through a digital medium
 # List of links in the navigation bar
 navbar-links:
   About: 
-    - About rwz: "aboutme"
+    - About rwz: "about"
     - Our Ethos: "our-ethos"
     - Weekly Schedule: "weekly-sched"
     - FAQs: "faqs"
