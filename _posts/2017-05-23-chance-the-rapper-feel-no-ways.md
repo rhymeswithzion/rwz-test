@@ -3,21 +3,22 @@ layout: post
 published: true
 title: Chance the Rapper - Feel No Ways
 date: '2017-01-06'
-subtitle: Chancellor Bennet and the Social Experiment's incredible live of the floor
+subtitle: >-
+  Chancellor Bennet and the Social Experiment's incredible live of the floor
   cover of Drake's 'Feel No Ways' on BBC Radio 1Xtra Live Lounge
-image: http://img.youtube.com/vi/8fnMhKIqS3o/0.jpg
+image: 'http://img.youtube.com/vi/8fnMhKIqS3o/0.jpg'
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8fnMhKIqS3o?rel=0&amp;showinfo=0" width="560"></iframe></div>
-
+<br>
 <h5 style="text-align: center;">
 Artist: Chance the Rapper and the Social Experiment <br>
  <br>
 Location: Chicago Native | Filmed in London <br>
 Year: 2016
 </h5>
-
+<br>
 
 For Rhymes with Zion's first __**live of the floor friday**__ this performance fits the bill as an audio/visual work of art capturing a live performance you can immerse yourself in. This is such an awesome cover from Drake's 'Feel no Ways' on his *Views from the 6* album. The Social Experiment's rendition really makes you appreciate the work put in on the production of the original song and how it can be so beautifully iterated with live instruments.  
 
@@ -51,4 +52,3 @@ Special thanks to Chancellor Bennett on the vocals, Nico Segal (a.k.a Donnie Tru
 <a class="fa fa-twitter" href="https://twitter.com/1XTRA" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/user/bbcradio1" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/bbcradio1/" target="_blank"> Instagram </a>
-
