@@ -2,13 +2,12 @@
 layout: post
 published: true
 title: Isaiah Rashad - 4r Da Squaw
-image: 'http://img.youtube.com/vi/nppKPgdc_u0/0.jpg'
+image: http://img.youtube.com/vi/nppKPgdc_u0/0.jpg
 date: '2017-01-16'
-subtitle: >-
-  The Sun's Tirade is a critically acclaimed album, so of course the opening
-  song and accompanying visuals have to come through with something special.
-  This music video does just that with its subtleness and simplistic mellow
-  vibes that make it an audivisual masterpiece.
+subtitle: The Sun's Tirade is a critically acclaimed album, so of course the opening
+  song and accompanying visuals have to come through with something special. This
+  music video does just that with its subtleness and simplistic mellow vibes that
+  make it an audivisual masterpiece.
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">

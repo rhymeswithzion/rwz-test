@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Ethos
-subtitle: Collaboration, 
+subtitle: Collaboration,
 ---
 
 

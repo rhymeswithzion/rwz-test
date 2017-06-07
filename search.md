@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Search rwz.io"
+title: Search rwz.io
 css: "/css/search.css"
 ---
 
