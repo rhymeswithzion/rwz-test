@@ -2,12 +2,11 @@
 layout: post
 published: true
 title: The Internet - Special Affair / Curse
-subtitle: >-
-  Ego Death is an experience to listen to, these complimentary visuals that
-  create this two-part music video reflects the chill vibes and melodic
-  instrumentation that the Internet brings.
+subtitle: Ego Death is an experience to listen to, these complimentary visuals that
+  create this two-part music video reflects the chill vibes and melodic instrumentation
+  that the Internet brings.
 date: '2017-01-23'
-image: 'http://img.youtube.com/vi/CNJkas_LiCM/0.jpg'
+image: http://img.youtube.com/vi/CNJkas_LiCM/0.jpg
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
