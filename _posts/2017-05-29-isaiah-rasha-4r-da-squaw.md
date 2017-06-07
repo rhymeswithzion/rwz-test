@@ -35,7 +35,7 @@ Isaiah Rashad's **The Sun's Tirade** is a great album, and obviously the opening
 
 #### Attributions
 
-Thank you Dave Free of the little homies & Christian Sutton for directing the visuals. Respect to Top Dawg Entertainment for constantly delivering flawless talent, and of course big-ups to the artist Isaiah Rashad for all the great music.
+Thank you Dave Free of the little homies & Christian Sutton for directing the visuals. Respect to Top Dawg Entertainment for constantly delivering flawless talent, FrancisGotHeat for the production, and of course big-ups to the artist Isaiah Rashad and his son for being the lead role in video.
 
 #### Connect with Isaiah Rashad
 
@@ -54,4 +54,4 @@ Thank you Dave Free of the little homies & Christian Sutton for directing the vi
 <a class="fa fa-twitter" href="https://twitter.com/topdawgent" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://youtube.com/TopDawgEntTDE" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/topdawgent" target="_blank"> Instagram </a> | 
-<a class="fa fa-soundcloud" href="https://soundcloud.com/topdawgent" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/topdawgent" target="_blank"> Soundcloud </a>
