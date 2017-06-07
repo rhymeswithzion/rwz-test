@@ -12,14 +12,14 @@ image: 'http://img.youtube.com/vi/wvFDXV0VBg4/0.jpg'
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/wvFDXV0VBg4?rel=0&amp;showinfo=0" width="560"></iframe></div>
-
+<br>
 <h5 style="text-align: center;">
 Artist: J. Cole <br>
 Label: Dreamville <br>
 Location: Fayetteville, North Carolina <br>
 Year: 2016
 </h5>
-
+<br>
 
 
 #### Why it rhymes with zion?
@@ -61,4 +61,4 @@ Shout out to Freddie Juachim for the sample 'Waves', J.Cole for looping and drop
 <a class="fa fa-twitter" href="https://twitter.com/dreamville" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/user/dreamvillerecords" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/dreamville/" target="_blank"> Instagram </a>
-<a class="fa fa-soundcloud" href="https://soundcloud.com/dreamvillerecords" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/dreamvillerecords" target="_blank"> Soundcloud </a>
