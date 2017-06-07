@@ -48,6 +48,4 @@ This goes more in depth into the intro blurb, still should not be more than a pa
 <a class="fa fa-twitter" href="https://twitter.com/intanetz" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCpK4kopnqu-gexm5HWOEE3A" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/theinternet" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/internet-band" target="_blank"> Soundcloud </a> 
-
-
+<a class="fa fa-soundcloud" href="https://soundcloud.com/internet-band" target="_blank"> Soundcloud </a>
