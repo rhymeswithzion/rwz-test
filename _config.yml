@@ -17,7 +17,7 @@ baseurl: ""
 title: rhymes with zion
 
 # Short description of your site
-description: a curation of audio/visual works of art through a digital medium
+description: a curation of audio/visual works of art
 
 # --- Navigation bar options --- #
 
@@ -115,7 +115,7 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: "|"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
