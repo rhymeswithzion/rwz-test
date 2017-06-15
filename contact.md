@@ -14,7 +14,7 @@ header: true
 		<p id="failure">Oopsie...message not sent.</p>  
 		<p id="success">Your message was sent successfully. Thank you!</p>
 
-		   <form method="post" action="mailto:rhymeswithzion@gmail.com">
+		   <form method="post" action="https://formspree.io/rhymeswithzion@gmail.com">
 			<div>
 		      <label for="name">
 		      	<span class="required">Name: *</span> 
