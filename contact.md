@@ -1,9 +1,9 @@
 ---
-layout: minimal
+layout: page
 title: Contact Us
 subtitle: 
 css: "/css/contact.css"
-header: true
+footer: false
 ---
 
 <div id="contact-form">
