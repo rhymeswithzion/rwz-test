@@ -1,54 +1,54 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400);
 
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
-  color: #aca49c;
+  color: #fff;
   font-size: 0.875em;
 }
 
 input:focus::-webkit-input-placeholder, textarea:focus::-webkit-input-placeholder {
-  color: #bbb5af;
+  color: #808080;
 }
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  color: #aca49c;
+  color: #808080;
   font-size: 0.875em;
 }
 
 input:focus::-moz-placeholder, textarea:focus::-moz-placeholder {
-  color: #bbb5af;
+  color: #808080;
 }
 
 input::placeholder, textarea::placeholder {
-  color: #aca49c;
+  color: #808080;
   font-size: 0.875em;
 }
 
 input:focus::placeholder, textarea::focus:placeholder {
-  color: #bbb5af;
+  color: #080808;
 }
 
 input::-ms-placeholder, textarea::-ms-placeholder {
-  color: #aca49c;
+  color: #080808;
   font-size: 0.875em;
 }
 
 input:focus::-ms-placeholder, textarea:focus::-ms-placeholder {
-  color: #bbb5af;
+  color: #080808;
 }
 
 /* on hover placeholder */
 
 input:hover::-webkit-input-placeholder, textarea:hover::-webkit-input-placeholder {
-  color: #e2dedb;
+  color: #f5f5f5;
   font-size: 0.875em;
 }
 
 input:hover:focus::-webkit-input-placeholder, textarea:hover:focus::-webkit-input-placeholder {
-  color: #cbc6c1;
+  color: #f5f5f5;
 }
 
 input:hover::-moz-placeholder, textarea:hover::-moz-placeholder {
-  color: #e2dedb;
+  color: #f5f5f5;
   font-size: 0.875em;
 }
 
@@ -76,8 +76,8 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 
 body {
   font-family: 'Lato', sans-serif;
-  background: #e2dedb;
-  color: #b3aca7;
+  background: #f5f5f5;
+  color: #080808;
 }
 
 header {
@@ -103,7 +103,7 @@ input {
   
   background: transparent;
   outline: none;
-  color: #726659;
+  color: #080808;
   
   border: solid 1px #b3aca7;
   border-bottom: none;
@@ -115,8 +115,8 @@ input {
 }
 
 input:hover {
-  background: #b3aca7;
-  color: #e2dedb;
+  background: #080808;
+  color: #f5f5f5;
 }
 
 textarea {
@@ -129,7 +129,7 @@ textarea {
   background: transparent;
   outline: none;
   
-  color: #726659;
+  color: #080808;
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
   
@@ -142,8 +142,8 @@ textarea {
 }
 
 textarea:hover {
-  background: #b3aca7;
-  color: #e2dedb;
+  background: #080808;
+  color: #f5f5f5;
 }
 
 #submit {
@@ -154,15 +154,17 @@ textarea:hover {
   
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
-  color: #b3aca7;
+  color: #f4f4f4;
+  background: #080808;
   
   outline:none;
   cursor: pointer;
   
-  border: solid 1px #b3aca7;
+  border: solid 1px #f8f8f8;
   border-top: none;
 }
 
 #submit:hover {
-  color: #e2dedb;
+  color: #000000;
+  background: #f8f8f8
 }
