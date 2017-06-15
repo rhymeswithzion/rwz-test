@@ -2,6 +2,7 @@
 layout: page
 title: Contact Us
 subtitle: 
+css: "css/contact.css"
 ---
 
 #### Contact RWZ.IO
