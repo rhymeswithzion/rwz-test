@@ -4,6 +4,8 @@ title: Contact Us
 subtitle: 
 css: "/css/contact.css"
 
+navbar: true
+
 ---
 
 <div id="form-main">
