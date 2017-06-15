@@ -33,6 +33,8 @@ navbar: true
       </div>
     </form>
   </div>
+<br>
+<br>
 
 Thank you for getting in touch
 
