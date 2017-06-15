@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 subtitle: 
 css: "/css/contact.css"
-footer: false
+footer: "false"
 ---
 
 <div id="contact-form">
