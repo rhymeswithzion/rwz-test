@@ -5,16 +5,17 @@ subtitle:
 css: "/css/contact.css"
 ---
 
-<header>Contact RWZ.IO</header>
-  
- <form id="form" class="topBefore" action="https://formspree.io/rhymeswithzion@gmail.com" method="POST">
- 		
- 		<input id="name" name="name" type="text" placeholder="name">
- 		<input id="email" name="email" type="text" placeholder="email">
- 		<textarea id="message" name="text" type="text" placeholder="message"></textarea>
-    <input id="submit" type="submit" value="send">
-  
- </form>
-
+<h1>RWZ.IO Contact Form</h1>
+<form id="form" form class="cf"  action="https://formspree.io/rhymeswithzion@gmail.com" method="POST">
+  <div class="half left cf">
+    <input type="text" id="input-name" placeholder="Name" name="name">
+    <input type="email" id="input-email" placeholder="Email address" name="email">
+    <input type="text" id="input-subject" placeholder="Subject" name="subject">
+  </div>
+  <div class="half right cf">
+    <textarea name="message" type="text" id="input-message" placeholder="Message" name="message"></textarea>
+  </div>  
+  <input type="submit" value="Submit" id="input-submit">
+</form>
 
 #### This page is under construction
