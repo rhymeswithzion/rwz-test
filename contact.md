@@ -3,6 +3,7 @@ layout: minimal
 title: Contact Us
 subtitle: 
 css: "/css/contact.css"
+header: true
 ---
 
 <div id="contact-form">
