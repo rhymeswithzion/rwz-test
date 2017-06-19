@@ -90,14 +90,14 @@ header {
 
 #form {
   position: relative;
-  width: 75%;
+  width: 88%;
   margin: 50px auto 100px auto;
 }
 
 input {
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
-  width: 75%;
+  width: 88%;
   height: 50px;
   padding: 0px 15px 0px 15px;
   
@@ -120,8 +120,8 @@ input:hover {
 }
 
 textarea {
-  width: 75%;
-  max-width: 75%;
+  width: 88%;
+  max-width: 88%;
   height: 110px;
   max-height: 110px;
   padding: 15px;
@@ -147,7 +147,7 @@ textarea:hover {
 }
 
 #submit {
-  width: 75%;
+  width: 88%;
   
   padding: 0;
   margin: -5px 0px 0px 0px;
