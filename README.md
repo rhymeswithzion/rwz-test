@@ -1,8 +1,6 @@
 <p align="center"><img src="img/rwz-small-logo.png"></p>
 <h1 align="center">Rhymes with Zion</h1>
 
-<br>
-
 * [Introduction](#introduction)
    * [Purpose](#purpose)
    * [Who is it for?](#who-is-it-for)
