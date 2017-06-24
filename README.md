@@ -20,7 +20,6 @@
    * [How to get in touch](#how-to-get-in-touch)
    * [Connect accross the web](#connect-accross-the-web)
 * [Credits](#credits)
-  
 * [License](#license)
 
 ## Introduction
