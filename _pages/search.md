@@ -6,7 +6,6 @@ css: "/css/search.css"
 
 # Search Rhymes With Zion
 
-### Using the Amazing Google
 
 <div id="google-custom-search">
 
