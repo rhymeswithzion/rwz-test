@@ -7,4 +7,4 @@ title: feedback form
 
 ### Thank you for your feedback
 
-If you have an idea you would like to share, are interested in getting involved, or would just like to chat please do not hesitate to [contact us](http://www.rwz.io/contact/).
+If you have an idea you would like to share or would just like to chat, please do not hesitate to [contact us](http://www.rwz.io/contact/).
