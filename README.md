@@ -24,11 +24,19 @@
 
 ## Introduction
 
-Rhymes with Zion is a website 
+There are plenty of platforms to build a website with user-friendly and intuitive interfaces that enable people with little to no coding skills. Many of these platforms have costs for hosting, templates, and content management systems that can add up to become quite expensive for running a website. Although there are completely free platforms, they usually have limitation when in comes to design and features.
+
+That being said, there are free and open source options that meet the needs of this website.
+* [Github Pages](https://pages.github.com/) for free hosting
+* [Jekyll](https://jekyllrb.com/) static-website generator, enables you to build directly from a github repository.
+* [Beautiful-Jekyll](https://github.com/daattali/beautiful-jekyll) template by [Dean Attali](http://deanattali.com) who provides a brilliant guide on how to set-up your own website just like this one.  
+* [Prose.io](http://prose.io) Content management system
+
+Rhymes with Zion is built, designed, and managed completely on a web-browser (even the and the only money spent was on the domain name (which is unavoidable but purchased for an affordable price through [NameCheap](http://namecheap.com/))
 
 ### Purpose
 
-Rhymes with zion provides a digital place for the curation of audio-visual works of art. 
+Rhymes with zion provides a digital place for the curation of audio-visual works of art. It is a collaborative project which aims to post one work of art each day for 2017.
 
 ### Who is it for?
 
