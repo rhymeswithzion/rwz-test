@@ -8,7 +8,7 @@ published: true
 ---
 
 
-The works of art shared on [Rhymes with Zion](http://rwz.io) will mostly consists of videos but on the rare occasion may be an audio with a separate visual that accompanies it (i.e. an audio only song with an unrelated gif). To make things more engaging, there is a theme for each day of the week. The weekly schedule is as follows: 
+The works of art shared on [rhymes with zion](http://rwz.io) will mostly consists of videos but on the rare occasion may be an audio with a separate visual that accompanies it (i.e. an audio only song with an unrelated gif). To make things more engaging, there is a theme for each day of the week. The weekly schedule is as follows: 
 
 #### Mellow Monday
 
@@ -20,17 +20,17 @@ This is a day that focuses on low to no budget videos. This is not to say poor q
 
 The name ‘toonie’ tuesday is an homage to my Canadian roots. It never occured to me how strange the usage of the word [toonie](https://en.wikipedia.org/wiki/Toonie) is until I moved overseas
 
-##### Wildcard Wednesday
+#### Wildcard Wednesday
 
 This was the toughest day to decide on a theme, so went for a bit of a cop-out with a wildcard day that any audio/visual work of art can be posted.
 
 #### Throwback Thursday
 
-Anything that has a classic vibe of a previous era.
+Anything that has a classic vibe of a previous era. 
 
 #### Live of the Floor Fridays
 
-
+Friday is dedicated to anything that involves some type of live performance. This can range from freestyles, live-of-the-floor recordings, live sets performed at a radio station or concert, etc. Anything posted on friday should have some form of live elements recorded within the audio-visual work of art. 
 
 #### Animated Saturdays
 
@@ -38,10 +38,10 @@ Everything and anything that involves animation. Whether it is hand-drawn illust
 
 #### Safe Sunday
 
-This is a day to post anything and everything that is cool within the space of audio-visual works of art. Just like how [Toonie Tuesday] (#toonie-tuesday) pays homage to my Canadian roots, <a href=”http://www.urbandictionary.com/define.php?term=safe” target=”_blank”>Safe</a> is slang used in the place where I currently reside.
+This is a day to post anything and everything that is cool within the space of audio-visual works of art. Just like how [Toonie Tuesday](#toonie-tuesday) pays homage to my Canadian roots, <a href=”http://www.urbandictionary.com/define.php?term=safe” target=”_blank”>Safe</a> is slang used in the place where I currently reside.
 
 _**Please note:**_ 
 
 This weekly schedule is simply used as guidance and not strictly followed, as the majority of content posted intersect and one post could fit into many of the themed days.
 
-Rhymes with zion embraces collaboration and continuous improvement, so this weekly schedule is subject to change. Contributors that curate [Rhymes with Zion](http://www.rwz.io) may choose to do so in a completely different way and some weeks may take on a different theme altogether. 
+Rhymes with zion embraces collaboration and continuous improvement, so this weekly schedule is subject to change. Contributors that curate [rwz.io](http://www.rwz.io) may choose to do so in a completely different way and some weeks may take on a different theme altogether. 
