@@ -18,7 +18,7 @@ Mondays can be rough so why not relax and embrace the present with a melodic vib
 
 This is a day that focuses on low to no budget videos. This is not to say poor quality videos, but videos that are made with limited funds. These days with some creativity, a decent camera and some video editing skills, you can make an audio/visual masterpiece with little to no budget. 
 
-The name ‘toonie’ tuesday is an homage to my Canadian roots. It never occured to me how strange the usage of the word <a href="https://en.wikipedia.org/wiki/Toonie" target="_blank">toonie</a>[toonie] is until I moved overseas
+The name ‘toonie’ tuesday is an homage to my Canadian roots. It never occured to me how strange the usage of the word <a href="https://en.wikipedia.org/wiki/Toonie" target="_blank">toonie</a> is until I moved overseas
 
 #### Wildcard Wednesday
 
