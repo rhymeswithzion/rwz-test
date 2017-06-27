@@ -8,7 +8,7 @@ published: true
 ---
 
 
-The works of art shared on [rhymes with zion](http://rwz.io) will mostly consists of videos but on the rare occasion may be an audio with a separate visual that accompanies it (i.e. an audio only song with an unrelated gif). To make things more engaging, there is a theme for each day of the week. The weekly schedule is as follows: 
+The works of art shared on rhymes with zion will mostly consists of videos but on the rare occasion may be an audio with a separate visual that accompanies it (i.e. an audio only song with an unrelated gif). To make things more engaging, there is a theme for each day of the week. The weekly schedule is as follows: 
 
 #### Mellow Monday
 
