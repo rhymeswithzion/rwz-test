@@ -18,7 +18,7 @@ Mondays can be rough so why not relax and embrace the present with a melodic vib
 
 This is a day that focuses on low to no budget videos. This is not to say poor quality videos, but videos that are made with limited funds. These days with some creativity, a decent camera and some video editing skills, you can make an audio/visual masterpiece with little to no budget. 
 
-The name ‘toonie’ tuesday is an homage to my Canadian roots. It never occured to me how strange the usage of the word [toonie](https://en.wikipedia.org/wiki/Toonie) is until I moved overseas
+The name ‘toonie’ tuesday is an homage to my Canadian roots. It never occured to me how strange the usage of the word <a href="https://en.wikipedia.org/wiki/Toonie" target="_blank">toonie</a>[toonie] is until I moved overseas
 
 #### Wildcard Wednesday
 
@@ -38,7 +38,7 @@ Everything and anything that involves animation. Whether it is hand-drawn illust
 
 #### Safe Sunday
 
-This is a day to post anything and everything that is cool within the space of audio-visual works of art. Just like how [Toonie Tuesday](#toonie-tuesday) pays homage to my Canadian roots, <a href=”http://www.urbandictionary.com/define.php?term=safe” target=”_blank”>Safe</a> is slang used in the place where I currently reside.
+This is a day to post anything and everything that is cool within the space of audio-visual works of art. Just like how [Toonie Tuesday](#toonie-tuesday) pays homage to my Canadian roots, <a href="http://www.urbandictionary.com/define.php?term=safe" target="_blank">Safe</a> is slang used in the place where I currently reside.
 
 _**Please note:**_ 
 
