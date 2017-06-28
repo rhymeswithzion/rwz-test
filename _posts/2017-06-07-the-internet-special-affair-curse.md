@@ -15,14 +15,14 @@ subtitle: >-
 <br>
 <h5 style="text-align: center;">
 Artist: The Internet <br>
+Director: Calmatic <br>
 Location: Los Angeles, California <br>
-Album: Ego Death
+Album: Ego Death <br>
 Year: 2015 (album released) | 2016 (music video released)
 </h5>
 <br>
 
 
-#### Why it rhymes with zion?
 
 This goes more in depth into the intro blurb, still should not be more than a paragrpah;- The instrumental, what is so great about the beat/tune
 
@@ -31,11 +31,11 @@ This goes more in depth into the intro blurb, still should not be more than a pa
 - the video, what makes
 
 
-#### Artist Bio
+#### The Internet Bio
 
 **The Internet** 
 
-[Read more about The Internet on Wikipedia](http://bit.ly/2qzp2Hq)
+[Read more about The Internet on Wikipedia](http://bit.ly/1N0pdFI)
 
 #### Attributions
 
@@ -49,3 +49,12 @@ This goes more in depth into the intro blurb, still should not be more than a pa
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCpK4kopnqu-gexm5HWOEE3A" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/theinternet" target="_blank"> Instagram </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/internet-band" target="_blank"> Soundcloud </a>
+
+#### Connect with Calmatic
+
+<a class="fa fa-globe" href="http://www.calmatic.net/" target="_blank"> Website </a> |
+<a class="fa fa-vimeo" href="https://www.vimeo.com/calmatic/" target="_blank"> Vimeo </a> |
+<a class="fa fa-twitter" href="https://twitter.com/calmatic" target="_blank"> Twitter </a> |
+<a class="fa fa-youtube" href="https://www.youtube.com/user/calmatic1" target="_blank"> Youtube </a> |
+<a class="fa fa-instagram" href="https://www.instagram.com/calmatic" target="_blank"> Instagram </a> 
+
