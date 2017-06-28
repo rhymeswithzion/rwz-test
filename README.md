@@ -9,11 +9,10 @@
    * [Our Ethos](#our-ethos)
    * [Weekly Schedule](#importing-vcards-cli-only)
 * [Get Involved](#get-involved)
-   * [How to get Involved](#setup-monica)
+   * [How to get Involved](#how-to-get-involved)
    * [Feedback](#feedback)
+   * [Posting Template](#posting-template)
    * [Submissions](#submissions)
-      * [Posting Template](#posting-template)
-      * [Individual Submission](#individual-submission)
    * [Curate](#curate)
    * [Other ways to Support](#statistics)
 * [Contact](#contact)
@@ -40,7 +39,7 @@ Rhymes with zion provides a digital place for the curation of audio-visual works
 
 ### Who is it for?
 
-This website   
+This website remains as inclusive as possible and tries it's best to be accessible to anyone with access to the internet. Whether you are a passive viewer exploring the web looking for cool and interesting content to surf through, or actively engaged wanting to [get involved](#get-involved)
 
 ### What Rhymes with Zion isn't
 
@@ -52,7 +51,7 @@ This website
 
 ### Our Ethos
 
-####
+#### Openness
 
 #### Collaboration
 
@@ -69,15 +68,13 @@ Interested in being more than just a passive viewer and want to actively get inv
 
 ### How to get involved
 
-
+There are plenty of ways to get involved in this website. Whether you are a creative, developer, or . The main way to get involved is to contribute, whether it be content through your submissions, becoming a curator, a developer who has suggestions on how the website build could be improved or killer features that could be implemented
 
 ### Feedback
 
 
 
-### Submissions
-
-#### Posting Template
+### Posting Template
 
 Posts are have a standard format and are written in markdown. Here is an example post:
 
@@ -140,7 +137,7 @@ Little bio and relevant links for author /curator / person who submitted content
 
 It should be easy to write-up a post based on that example. The links at the bottom need to be filled with relevent info and content needs to be replaced with sample writing. The majority of videos are in youtube, so the example is for embedding youtube videos. You would do this bey replacing '#YoutubeID' with relevant Youtube video ID, if you don't know how to find it then <a href="http://lmgtfy.com/?q=how+to+find+youtube+video+id" target="_blank">this may help you</a>. It is possible to do this with other video streaming platforms like video, just get the video link and then please <a href="http://embedresponsively.com/" target="_blank">embed responsively</a>.
 
-#### Individual Submissions
+### Submissions
 
 There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out the <a href="http://lmgtfy.com/?q=how+to+find+youtube+video+id" target="_blank">submission form</a>. If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than email it to rhymeswithzion [at] gmail.com
 
@@ -154,7 +151,10 @@ If you are interested in become a contributor and curate rhymes with zion's audi
 
 ### Other ways to support
 
+If you are not interested in contributing to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
 
+* Share it with others, tell people how awesome this website is (and if you don't think it is awesome tell us how we can improve)
+* [Connect with us across the web](#connect-across-the-web)
 
 ## Contact
 
