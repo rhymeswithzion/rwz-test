@@ -3,7 +3,7 @@ layout: post
 published: true
 title: River Tiber - Acid Test
 date: '2017-01-28'
-image: '''http://img.youtube.com/vi/6Dj14UqY1kY/0.jpg'''
+image: 'http://img.youtube.com/vi/6Dj14UqY1kY/0.jpg'
 subtitle: >-
   One or two lines which explain how this post is sharing an audio-visual work
   of art.
