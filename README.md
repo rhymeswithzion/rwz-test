@@ -135,11 +135,11 @@ Provide attributions on what is known about the video, most importantly the DIRE
 Little bio and relevant links for author /curator / person who submitted content being shared
 ```
 
-It should be easy to write-up a post based on that example. The links at the bottom need to be filled with relevent info and content needs to be replaced with sample writing. The majority of videos are in youtube, so the example is for embedding youtube videos. You would do this bey replacing '#YoutubeID' with relevant Youtube video ID, if you don't know how to find it then <a href="http://lmgtfy.com/?q=how+to+find+youtube+video+id" target="_blank">this may help you</a>. It is possible to do this with other video streaming platforms like video, just get the video link and then please <a href="http://embedresponsively.com/" target="_blank">embed responsively</a>.
+It should be easy to write-up a post based on that example. The sample writing needs to be replaced with your content. The links need to be changed to relevant URLs. The majority of videos are from youtube, so the example is for embedding youtube videos. You would do this by replacing the two '#YoutubeID' written in the example with the relevant Youtube video ID, if you don't know how to find it then <a href="http://lmgtfy.com/?q=how+to+find+youtube+video+id" target="_blank">this may help you</a>. It is possible to do this with other video streaming platforms like vimeo, just get the video link and then please <a href="http://embedresponsively.com/" target="_blank">embed responsively</a>.
 
 ### Submissions
 
-There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out the <a href="http://lmgtfy.com/?q=how+to+find+youtube+video+id" target="_blank">submission form</a>. If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than email it to rhymeswithzion [at] gmail.com
+There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a>. If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than email it to rhymeswithzion [at] gmail.com
 
 ### Curate
 
