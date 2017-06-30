@@ -26,7 +26,8 @@ RWZ.IO strives for continuous improvement of the content, collaborations, design
   <br>
   <textarea id="message" type="text" placeholder="Tell us your thoughts on how your experience on the website could be better" name="Improve"></textarea>
   <br>
-  <input id="submit" type="submit" value="Send">
+  <br>
+  <input id="submit" type="submit your feedback" value="Send">
   
 </form>
 
