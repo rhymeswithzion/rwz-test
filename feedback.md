@@ -5,8 +5,10 @@ css: "/css/contact.css"
 
 ---
 
-RWZ.IO strives for continuous improvement of the content, collaborations, design, and overall user experience.
+We strive for continuous improvement of the content, collaborations, design, and overall user experience.
+
 Feedback is valuable for improving the website and is greatly appreciated.
+
 __*Please answer these three questions below to help improve your experience on rhymes with zion*__:
 
 <form id="form" class="topBefore" action="https://formspree.io/feedback@rwz.io"
