@@ -291,8 +291,9 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 
 body {
   font-family: 'Lato', sans-serif;
-  background: #f5f5f5;
-  color: #080808;
+  font-size: 18px
+  background: #fff;
+  color: #404040;
 }
 
 header {
