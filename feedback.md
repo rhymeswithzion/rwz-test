@@ -1,15 +1,13 @@
 ---
 layout: page
-title: feedback form
+title: Feedback
 css: "/css/contact.css"
 
 ---
 
-Feedback is valuable for improving the website and is greatly appreciated.
-
 RWZ.IO strives for continuous improvement of the content, collaborations, design, and overall user experience.
-
-#### Please fill out this short feedback form to help improve your experience on rhymes with zion.
+Feedback is valuable for improving the website and is greatly appreciated.
+__*Please answer these three questions below to help improve your experience on rhymes with zion*__:
 
 <form id="form" class="topBefore" action="https://formspree.io/feedback@rwz.io"
       method="POST">
@@ -33,6 +31,6 @@ RWZ.IO strives for continuous improvement of the content, collaborations, design
 
 
 
-### Thank you for your feedback
+#### Thank you for your feedback
 
 If you have an idea you would like to share or would just like to chat, please do not hesitate to [contact us](http://www.rwz.io/contact/).
