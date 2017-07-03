@@ -68,7 +68,7 @@ Interested in being more than just a passive viewer and want to actively get inv
 
 ### How to get involved
 
-There are plenty of ways to get involved in this website. Whether you are a creative, developer, or . The main way to get involved is to contribute, whether it be content through your submissions, becoming a curator, a developer who has suggestions on how the website build could be improved or killer features that could be implemented
+There are plenty of ways to get involved in this website. Whether you are an art-lover, creative, developer, or designer there are plenty of ways you can get involved. The main way to get involved is to contribute, whether it be providing content through [submissions](#submissions), becoming a [curator](#curate), suggesting an edit or improvement, or just actively participating within the website community and spreading the word. a developer who has suggestions on how the website build could be improved or killer features that could be implemented, providing valuable feedback to improve the site
 
 ### Feedback
 
@@ -97,7 +97,7 @@ Year: [placeholder]
 </h5>
 <br>
 
-This write-up should go more in depth, it still should not be more than a paragrpah or two. Feel free to talk about anything, including:
+This write-up should go more in depth, it still should not be more than a paragraph or two. Feel free to talk about anything, including:
 
 - The instrumental, what is so great about the beat/tune
 
@@ -139,7 +139,9 @@ It should be easy to write-up a post based on that example. The sample writing n
 
 ### Submissions
 
-There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a>. If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than email it to rhymeswithzion [at] gmail.com
+There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out our <a href="https://goo.gl/forms/5aK05ClOEF6Il8o02" target="_blank">google form</a> or the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a> on the website. 
+
+If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than <a href="mailto@submissions@rwz.io" target="_blank">email</a> it to submissions [at] rwz.io
 
 ### Curate
 
