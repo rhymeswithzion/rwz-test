@@ -4,7 +4,10 @@ Title: Submissions
 css: "/css/contact.css"
 ---
 
+There are plenty of days in 2017 (both backtracking and moving forward) that need a post which shares an audio-visual work of art to fill rhymes with zion's empty void. If you have a posting idea than please fill out the submission form below. If you want to be even more awesome write-it in markdown [check out posting template for inspiration / instructions](https://github.com/rhymeswithzion/rhymeswithzion.github.io#posting-template) and than [email](mailto:submissions@rwz.io) it to: submissions [at] rwz.io
 
+
+## Submission Form
 <form id="form" class="topBefore" action="https://formspree.io/submissions@rwz.io"
       method="POST">	
   <h3>Basic Info</h3> 	 
@@ -45,3 +48,5 @@ css: "/css/contact.css"
   <input id="submit" type="submit" value="submit your feedback">
   
 </form>
+
+Thank you for your submission. If you are having any difficulties submitting content or do not like the submission form, please give us some [feedback](http://www.rwz.io/feedback/) so we can improve it or [contact us](http://www.rwz.io/contact/) directly.
