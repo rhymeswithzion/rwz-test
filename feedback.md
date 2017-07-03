@@ -9,18 +9,18 @@ We strive for continuous improvement of the content, collaborations, design, and
 
 Feedback is valuable for improving the website and is greatly appreciated.
 
-__*Please answer these three questions below to help improve your experience on rhymes with zion*__:
+__*Please answer the questions below to help improve your experience on rhymes with zion*__:
 <form id="form" class="topBefore" action="https://formspree.io/feedback@rwz.io"
       method="POST">	
-<h3>What do you think is good about rhymes with zion? </h3> 	 
+<h3>What is good about rhymes with zion? </h3> 	 
 	<br>
 	<textarea id="message" type="text" placeholder="Tell us about what you like about the website" name="Good"></textarea>
   <br>
-<h3>What do you think is not so good about rhymes with zion? </h3>  
+<h3>What is not so good about rhymes with zion? </h3>  
   <br>
   <textarea id="message" type="text" placeholder="Tell us about what you don't like about the website" name="Bad"></textarea>
   <br>
-<h3>How do you think rhymes with zion could be improved?</h3>
+<h3>How could rhymes with zion be improved?</h3>
   <br>
   <textarea id="message" type="text" placeholder="Tell us your thoughts on how your experience on the website could be better" name="Improve"></textarea>
   <br>
