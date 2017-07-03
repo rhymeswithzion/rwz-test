@@ -4,7 +4,7 @@ Title: Submissions
 css: "/css/contact.css"
 ---
 
-There are plenty of days in 2017 (both backtracking and moving forward) that need a post which shares an audio-visual work of art to fill rhymes with zion's empty void. If you have a posting idea than please fill out the submission form below. If you want to be even more awesome write-it in markdown [check out posting template for inspiration / instructions](https://github.com/rhymeswithzion/rhymeswithzion.github.io#posting-template) and than [email](mailto:submissions@rwz.io) it to: submissions [at] rwz.io
+There are plenty of days in 2017 (both backtracking and moving forward) that need a post which shares an audio-visual work of art to fill rhymes with zion's empty void. If you have a posting idea than please fill out the submission form below. If you want to be even more awesome write-it in markdown check out the [posting template](https://github.com/rhymeswithzion/rhymeswithzion.github.io#posting-template) for inspiration / instructions and then [email](mailto:submissions@rwz.io) it to: submissions [at] rwz.io
 
 
 ## Submission Form
