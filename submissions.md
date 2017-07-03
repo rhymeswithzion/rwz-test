@@ -3,10 +3,12 @@ Layout: page
 Title: Submissions
 css: "/css/contact.css"
 ---
-# Submissions
 
 
-There are plenty of days in 2017 (both backtracking and moving forward) that need a post which shares an audio-visual work of art to fill rhymes with zion's empty void. If you have an audio-visual work of art that you think should be posted on the website, than please fill out our [google form](https://goo.gl/forms/5aK05ClOEF6Il8o02) or the submission form below. If you want to be even more awesome and helpful than write-it your submission in markdown using the posting template - check out the [posting template](https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#posting-template) for inspiration / instructions and then [email](mailto:submissions@rwz.io) it to: submissions [at] rwz.io
+
+There are plenty of days in 2017 (both backtracking and moving forward) that need a post which shares an audio-visual work of art to fill rhymes with zion's empty void. If you have an audio-visual work of art that you think should be posted on the website, than please fill out our [google form](https://goo.gl/forms/5aK05ClOEF6Il8o02) or the [submission form](#submission-form) below. 
+
+If you want to be even more awesome and helpful than write your submission in markdown using the posting template - check out the [posting template](https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#posting-template) for inspiration / instructions and then [email](mailto:submissions@rwz.io) it to: submissions [at] rwz.io
 
 
 ## Submission Form
@@ -47,7 +49,7 @@ There are plenty of days in 2017 (both backtracking and moving forward) that nee
   <textarea id="message" type="text" placeholder="Provide a little bio about yourself (i.e. what you do / thinks you like) and any relevant links you would like us to share (e.g. your website, instagram, twitter, facebook, soundcloud, etc)" name="m. profile"></textarea>
   <br>
   <br>
-  <input id="submit" type="submit" value="submit your feedback">
+  <input id="submit" type="submit" value="SEND">
   
 </form>
 
