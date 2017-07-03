@@ -14,15 +14,15 @@ __*Please answer the questions below to help improve your experience on rhymes w
       method="POST">	
 <h3>What is good about rhymes with zion? </h3> 	 
 	<br>
-	<textarea id="message" type="text" placeholder="Tell us about what you like about the website" name="Good"></textarea>
+	<textarea id="message" type="text" placeholder="Tell us about what you like about the website" name="1-Good"></textarea>
   <br>
 <h3>What is not so good about rhymes with zion? </h3>  
   <br>
-  <textarea id="message" type="text" placeholder="Tell us about what you don't like about the website" name="Bad"></textarea>
+  <textarea id="message" type="text" placeholder="Tell us about what you don't like about the website" name="2-Bad"></textarea>
   <br>
 <h3>How could rhymes with zion be improved?</h3>
   <br>
-  <textarea id="message" type="text" placeholder="Tell us your thoughts on how your experience on the website could be better" name="Improve"></textarea>
+  <textarea id="message" type="text" placeholder="Tell us your thoughts on how your experience on the website could be better" name="3-Improve"></textarea>
   <br>
   <br>
   <input id="submit" type="submit" value="submit your feedback">
