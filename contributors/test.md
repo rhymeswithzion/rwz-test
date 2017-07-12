@@ -8,8 +8,9 @@ subtitle: >-
 published: true
 ---
 
+<div style="text-align:center">
 ![test-contributor-icon.png]({{site.baseurl}}/img/test-contributor-icon.png)
-
+</div>
 
 #### Contributor's Bio
 
