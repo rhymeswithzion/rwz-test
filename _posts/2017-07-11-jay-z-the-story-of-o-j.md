@@ -4,6 +4,14 @@ published: true
 title: Jay-Z - The Story of O.J.
 date: '2017-07-08'
 image: 'http://img.youtube.com/vi/RM7lw0Ovzq0/0.jpg'
+tags:
+  - jay-z
+  - hip-hop
+  - jayz
+  - animated
+  - animated saturday
+  - animation
+  - animated music video
 ---
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
