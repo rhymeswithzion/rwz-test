@@ -1,10 +1,14 @@
 ---
-
 layout: page
 title: Curator's Profile Page
-subtitle: This is a test page for what a contributors page will look like. The subtitle will be a one-liner about the curator, this will be the bio page that will be linked at the end of contributors posts.
-
+subtitle: >-
+  This is a test page for what a contributors page will look like. The subtitle
+  will be a one-liner about the curator, this will be the bio page that will be
+  linked at the end of contributors posts.
+published: true
 ---
+
+![test-contributor-icon.png]({{site.baseurl}}/img/test-contributor-icon.png)
 
 
 #### Contributor's Bio
