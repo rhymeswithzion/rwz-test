@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: Naaz - Words
-date: '2017-07-09'
 image: 'http://img.youtube.com/vi/KvQ-te2CBFM/0.jpg'
 subtitle: >-
   Naaz's 'Words' perfectly captures the diversity and inclusion of Amsterdam
