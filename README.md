@@ -147,9 +147,9 @@ If you want to be even more awesome write-it in markdown (check out posting temp
 
 This website embraces openness and collaboration, the best way to provide an inclusive environment with diverse works of art being displayed within a digital place is through other people curating it.
 
-When curating you are free to create your own theme or vibe. You will need to have 7 posts for a week (try following the posting template but feel free to get creative). Curators will also have a contributor webpage which requires; a bio writte-up / photo / relevant links (example page will be made available soon).
+When curating you are free to create your own theme or vibe. You will need to have 7 posts for a week (try following the posting template but feel free to get creative). Curators will also have a contributor webpage which requires; a bio writte-up / photo / relevant links - [example page](http://www.rwz.io/contributors/test/).
 
-If you are interested in become a contributor and curate rhymes with zion's audio-visual art gallery which dwells in cyberspace, please don't hesitate to email rhymeswithzion [@] gmail.com.
+If you are interested in become a contributor and curate rhymes with zion's audio-visual art gallery which dwells in cyberspace, please don't hesitate to email contact [@] rwz.io
 
 ### Other ways to support
 
