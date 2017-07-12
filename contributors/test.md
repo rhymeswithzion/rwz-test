@@ -1,20 +1,20 @@
 ---
 layout: page
-title: Curator's Profile Page
+title: Curator's Profile
 subtitle: >-
-  This is a test page for what a contributors page will look like. The subtitle
-  will be a one-liner about the curator, this will be the bio page that will be
-  linked at the end of contributors posts.
+  This is a test for what a contributors page will look like. The subtitle will
+  be a one-liner about the curator
 published: true
 ---
-
+<br>
 <div style="text-align:center">
 <img src ="/img/test-contributor-icon.png"/>
 </div>
+<br>
 
 #### Contributor's Bio
 
-Here will be a paragraph that provides a back story of the contributor. It is undecided yet if it will be written in first-person or third-person. It will be written by the contributor and provides information about them to give insigh.
+Here will be a paragraph that provides a back story of the contributor. It is undecided yet if it will be written in first-person or third-person. It will be written by the contributor and provides information about them to give insight.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. Duo Reges: constructio interrete. Qui potest igitur habitare in beata vita summi mali metus? Quis non odit sordidos, vanos, leves, futtiles?
 
