@@ -18,6 +18,9 @@ Here will be a paragraph that provides a back story of the contributor. It is un
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. Duo Reges: constructio interrete. Qui potest igitur habitare in beata vita summi mali metus? Quis non odit sordidos, vanos, leves, futtiles?
 
+#### Contributor's Influences
+
+Provide some details about what influences the contributor has. Artists they like etc.
 
 #### Connect with Contributor
 
