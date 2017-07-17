@@ -20,7 +20,7 @@ Year: 2017
 </h5>
 <br>
 
-The video celebrates diversity showing people from different walks of life experiencing each others world. As Folkert Verdoorn takes us through Amsterdam we're given a taste of how these individuals express themselves to get a glimpse of their world be it fashion, tattoos, dance or something completely different. 
+The video celebrates diversity showing people from different walks of life experiencing each other's world. As Folkert Verdoorn takes us through Amsterdam we're given a taste of how these individuals express themselves to get a glimpse of their world be it fashion, tattoos, dance or something completely different. 
 
 The simplicity of the video perfectly matches the lyrics and complements the underlying message of individualism and inclusion that naaz preaches "I'm in love with your words, will you show me the world through your eyes?"
 
