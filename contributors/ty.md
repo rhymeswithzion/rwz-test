@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Ty
-subtitle: >-
-  This is a test for what a contributors page will look like. The subtitle will
-  be a one-liner about the curator
+subtitle: null
 published: true
 ---
 <br>
