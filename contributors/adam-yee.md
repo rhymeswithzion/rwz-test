@@ -8,7 +8,7 @@ published: true
 ---
 <br>
 <div style="text-align:center">
-<img src ="/img/test-contributor-icon.png"/>
+<img src ="/img/adam-yee.png"/>
 </div>
 <br>
 
@@ -27,8 +27,7 @@ Provide some details about what influences the contributor has. Artists they lik
 <a class="fa fa-facebook" href="https://www.facebook.com/adam.yee1" target="_blank"> Facebook </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/adamyee92" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="	
-https://soundcloud.com/adam-yee1" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/adam-yee1" target="_blank"> Soundcloud </a> 
 
 
 #### Posts Curated by Adam Yee
