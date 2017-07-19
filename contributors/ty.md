@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curator's Profile
+title: Ty
 subtitle: >-
   This is a test for what a contributors page will look like. The subtitle will
   be a one-liner about the curator
@@ -8,23 +8,23 @@ published: true
 ---
 <br>
 <div style="text-align:center">
-<img src ="/img/test-contributor-icon.png"/>
+<img src ="/img/ty.png"/>
 </div>
 <br>
 
-#### Contributor's Bio
+I was born in the year of "Hey lover", "Straight outta Compton" and  "Dirty Diana", the great 1988, and raised to the soundtrack of soul music with a whiff of eighties pop and classic rock.
 
-Here will be a paragraph that provides a back story of the contributor. It is undecided yet if it will be written in first-person or third-person. It will be written by the contributor and provides information about them to give insight.
+Even though I listen to a range of genres, hip hop has long been my true love. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Unum nescio, quo modo possit, si luxuriosus sit, finitas cupiditates habere. Duo Reges: constructio interrete. Qui potest igitur habitare in beata vita summi mali metus? Quis non odit sordidos, vanos, leves, futtiles?
+A few years of rapping taught me that the stage is nice, but the studio is life. So I left the rap scene for songwriting and a job curating music for Getmixed radio, which eventually led me to host a show at the same station. 
+
+At the moment you're most likely to spot me dancing salsa at a Latin party somewhere in the Netherlands.
 
 #### Contributor's Influences
 
 Provide some details about what influences the contributor has. Artists they like etc.
 
-#### Connect with Contributor
-
-* this will be the area which provides all the relevant links to connect with the contributor. 
+#### Connect with Ty
 
 <a class="fa fa-globe" href="http://www./" target="_blank"> Website </a> |
 <a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
@@ -34,6 +34,6 @@ Provide some details about what influences the contributor has. Artists they lik
 <a class="fa fa-soundcloud" href="https://soundcloud.com/" target="_blank"> Soundcloud </a> 
 
 
-#### Contributor's Posts
+#### Posts curated by Ty
 
-This will provide a list/link of all the contributors posts on the website
+[Naaz - Words](http://www.rwz.io/naaz-words/)
