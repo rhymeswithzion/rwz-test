@@ -43,6 +43,12 @@ This website remains as inclusive as possible and tries it's best to be accessib
 
 ### What Rhymes with Zion isn't
 
+Rhymes with Zion is unfortunately not the place to find out what rhymes with zion. Luckily, there are <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">plenty of websites</a> which provide that service. It also, is not on the front-page of googl3 (as you may have seen if you clicked that link above)... yet. 
+
+Rhymes with Zion is not a website for self-promotion. Although it encourages contribution through the [curation](#curate) and [individual submissions](#submissions) of their favourite audio-visual works of art, it is not a place for artists to share their own work. By sharing the work of others, you can indirectly promote yourself through your [contributor's page](http://www.rwz.io/contributors/test). If you would like to see your audio-visual work of art posted on the site, please get someone else to submit it on your behalf. 
+
+
+Rhymes with Zion is not commercially driven in any way. It does not have a profit motive, and therefore it is not a place where you will see any form of advertisement or marketing campaigns. There is no space for sponsored content or promotional posts. Every work of art being showcased is shared for the sake of itself, presenting it as intrinsically valueable and not just a means to an end. 
 
 
 ## About
@@ -50,6 +56,8 @@ This website remains as inclusive as possible and tries it's best to be accessib
 
 
 ### Our Ethos
+
+Rhymes with Zion strives to provide an environment which embraces inclusivity and being agile in the way it operates. What makes Rhymes with Zion different than other projects, is our embodiment of these three core values that are embedded within the entire philosophy of the project. 
 
 #### Openness
 
@@ -68,7 +76,15 @@ Interested in being more than just a passive viewer and want to actively get inv
 
 ### How to get involved
 
-There are plenty of ways to get involved in this website. Whether you are an art-lover, creative, developer, or designer there are plenty of ways you can get involved. The main way to get involved is to contribute, whether it be providing content through [submissions](#submissions), becoming a [curator](#curate), suggesting an edit or improvement, or just actively participating within the website community and spreading the word. a developer who has suggestions on how the website build could be improved or killer features that could be implemented, providing valuable feedback to improve the site
+This website is built openly and is inclusive to all, enabling many ways for you to get involved. Whether you are an art-lover, creative, developer, or designer, rhymes with zion is an inclusive space for collaboration. The main way to get involved is to contribute, whether it be providing content by becoming a [curator](#curate) or [individual submissions](#submissions). If you are not interested in contributing content, you can still get involved through providing [feedback](#feedback) which will help continuously improve your experience. If generating content or feedback forms are not your thing but you still want to get involved, there are plenty [other ways to support]
+
+### Curate
+
+This website embraces openness and collaboration, the best way to provide an inclusive environment with diverse works of art being displayed within a digital place is through other people curating it. If you are interested in curating, please follow the instructions on the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">template</a>.
+
+When curating you are free to create your own theme or vibe. You will need to have 7 posts for a week (follow the post template but feel free to get creative). Curators will also have a contributor webpage which requires; a bio writte-up / photo / relevant links - [example page](http://www.rwz.io/contributors/test/).
+
+If you are interested in becoming a contributor and curate rhymes with zion's audio-visual art gallery which dwells in cyberspace but want to know a bit more about it before you begin filling out the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">template</a>, please don't hesitate to email: contact@rwz.io 
 
 ### Feedback
 
@@ -141,15 +157,9 @@ It should be easy to write-up a post based on that example. The sample writing n
 
 There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out our <a href="https://goo.gl/forms/5aK05ClOEF6Il8o02" target="_blank">google form</a> or the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a> on the website. 
 
-If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than <a href="mailto@submissions@rwz.io" target="_blank">email</a> it to submissions [at] rwz.io
+If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than <a href="mailto:submissions@rwz.io" target="_blank">email</a> it to submissions@rwz.io
 
-### Curate
 
-This website embraces openness and collaboration, the best way to provide an inclusive environment with diverse works of art being displayed within a digital place is through other people curating it.
-
-When curating you are free to create your own theme or vibe. You will need to have 7 posts for a week (try following the posting template but feel free to get creative). Curators will also have a contributor webpage which requires; a bio writte-up / photo / relevant links - [example page](http://www.rwz.io/contributors/test/).
-
-If you are interested in become a contributor and curate rhymes with zion's audio-visual art gallery which dwells in cyberspace, please don't hesitate to email contact [@] rwz.io
 
 ### Other ways to support
 
@@ -162,6 +172,12 @@ If you are not interested in contributing to the website but still enjoy it, the
 
 
 ### How to get in touch
+
+If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to contact@rwz.io with the email subject line 'Curate'. 
+
+Feedback - 
+
+Any other Inquiries use the <a href="http://rwz.io/contact" target="_blank">contact form</a> 
 
 ### Connect across the web
 
