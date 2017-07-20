@@ -119,7 +119,7 @@ If you are not interested in contributing your time or money to the website but 
 
 ### How to get in touch
 
-If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to <a href=~"mailto:contact@rwz.io" target="_blank">contact@rwz.io</a> with 'Curate' as the subject line. 
+If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to <a href="mailto:contact@rwz.io" target="_blank">contact@rwz.io</a> with 'Curate' as the subject line. 
 
 Stand-alone submissions - complete the <a href="http://rwz.io/submissions" target="_blank">submission form</a>
 
