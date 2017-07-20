@@ -28,7 +28,6 @@ Adam Yee, is a British-born artist and DJ. After what was initially just a casua
 
 Now having entered the professional world of work as a Cheese buyer, Adam has less time to do the rounds on the London circuit but this does not mean you won't still be able to find him DJ'ing and showcasing the various musical selections that he is passionate about.
 
-Expect to see more of Adam on Rhymes with Zion, since he is going to contribute as a [curator](http://rwz.io/contributors/adam-yee) in the upcoming months.
 
 #### Attributions
 
