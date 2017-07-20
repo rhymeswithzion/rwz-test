@@ -25,7 +25,7 @@
 
 There are plenty of platforms to build a website with user-friendly and intuitive interfaces that enable people with little to no coding skills. Many of these platforms have costs for hosting, templates, and content management systems that can add up to become quite expensive for running a website. Although there are completely free platforms, they usually have limitation when in comes to design and features.
 
-That being said, there are free and open source options that meet the needs of this website.
+That being said, there are [free and/or open source options](#credits) that have been utilized to meet the needs of this website.
 * [Github Pages](https://pages.github.com/) for free web-hosting.
 * [Jekyll](https://jekyllrb.com/) static-website generator, enables you to build directly from a github repository.
 * [Beautiful-Jekyll](https://github.com/daattali/beautiful-jekyll) template by [Dean Attali](http://deanattali.com) who provides a brilliant [read-me](https://github.com/daattali/beautiful-jekyll/blob/master/README.md) which guides you how to set-up your own website just like this one.  
@@ -105,6 +105,10 @@ If you want to be even more awesome write-it in markdown (check out posting temp
 
 As mentioned [above](#what-rhymes-with-zion-is-not)
 
+<div style="text-align:center">
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Rhymes With Zion', '#474747', 'A2301UI5');kofiwidget2.draw();</script> 
+</div>
+
 If you are not interested in contributing your time or money to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
 
 * Share it with others, tell people how awesome this website is (and if you don't think it is awesome tell us how we can improve)
@@ -129,29 +133,32 @@ Any other enquiries use the <a href="http://rwz.io/contact" target="_blank">cont
 
 ## Credits
 
+Thank you to all the great people / products / services that have enabled rhymes with zion to be open, collaborative, and continuously improve. 
 
-
-*  <a href="https://disqus.com/" target="_blank">Beautiful Jekyll</a> 
+*  <a href="https://github.com/daattali/beautiful-jekyll" target="_blank">Beautiful Jekyll</a> template by <a href="http://deanattali.com" target="_blank">Dean Attali</a> who provides a brilliant <a href="http://deanattali.com" target="_blank">read-me</a> which guides you how to set-up your own website just like this one within seconds.
 
 *  <a href="https://disqus.com/" target="_blank">Disqus</a> provides the commenting feature for posts on the website.
 
-*  <a href="https://formspree.io/" target="_blank">Formspree.io</a> is a great tool used for the contact, feedback, and submissions pages on the website
+*  <a href="https://formspree.io/" target="_blank">Formspree.io</a> is a great tool for functional HTML forms which has been used for the contact, feedback, and submissions pages on the website
 
 * <a href="https://codepen.io/matmarsiglio/pen/HLIor" target="_blank">Minimalistic Form</a> a simple and beautiful contact form designed by Matheus Marsiglio. It was easily modified for the contact, feedback, and submission pages on the website.  
 
-*  <a href="https://pages.github.com/" target="_blank">Github Pages</a> for h
+*  <a href="https://pages.github.com/" target="_blank">Github Pages</a> provides free web-hosting of the wbsite.
 
-* <a href="https://pages.github.com/" target="_blank">Google Products</a> Google Productshttps://www.google.com/intl/en/about/products/
+* <a href="https://www.google.com/intl/en/about/products/" target="_blank">Google Products</a> 
     *  <a href="https://www.chromium.org/chromium-os" target="_blank">Chrome OS</a> is the operating system which this website was created, the design, deployment, and management of content is all done on a chromebook. It provides the best experience for creating this project, which is produced online completely through a webbrowser.  
     *  Analytics 
     *  G Suite
     *  search
-*  <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> for the static website generation. 
-*  <a href="https://namcheap.com/" target="_blank">NameCheap</a>
-* <a href="https://pixlr.com" target="_blank">Pixlr Editor</a>
-* <a href="https://jekyllrb.com/" target="_blank">Prose.io</a>
+*  <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> static-website generator, enables you to build directly from a github repository. This is 
 
-Of course credit must be given to everyone involved, including but not limited to: contributors, supporters, users, 
+*  <a href="https://namcheap.com/" target="_blank">NameCheap</a>
+
+* <a href="https://pixlr.com" target="_blank">Pixlr Editor</a> is a web application which the logo was created and images are formated. 
+
+* <a href="http://prose.io" target="_blank">Prose.io</a> Content management system that provides a user-friendly interface for writing in markdown. This read-me document, as well as all the other pages and posts on the website were written and published through github using <a href="http://prose.io" target="_blank">prose</a>.
+
+Of course credit must be given to everyone involved, including but not limited to: those who have and will contribute to the website, those who have and will provide feedback, those who have supported and will support the website, and those who enjoy and use the website. The sustainable growth and longevity of our existence depends on people like you, so thanks. 
 
 ## License
 
