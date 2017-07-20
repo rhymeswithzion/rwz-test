@@ -4,16 +4,16 @@
 * [Introduction](#introduction)
    * [Purpose](#purpose)
    * [Who is it for?](#who-is-it-for)
-   * [What Rhymes with Zion isn't](#what-rwz-isnt)
+   * [What Rhymes with Zion isn't](#what-rwz-isn't)
 * [About ](#about)
    * [Our Ethos](#our-ethos)
    * [Weekly Schedule](#importing-vcards-cli-only)
 * [Get Involved](#get-involved)
    * [How to get Involved](#how-to-get-involved)
-   * [Feedback](#feedback)
-   * [Posting Template](#posting-template)
-   * [Submissions](#submissions)
    * [Curate](#curate)
+   * [Feedback](#feedback)
+   * [Submissions](#submissions)
+   * [Posting Template](#posting-template)
    * [Other ways to Support](#statistics)
 * [Contact](#contact)
    * [How to get in touch](#how-to-get-in-touch)
@@ -35,7 +35,7 @@ Rhymes with Zion is built, designed, and managed completely on a web-browser (ev
 
 ### Purpose
 
-Rhymes with zion provides a digital place for the curation of audio-visual works of art. It is a collaborative project which aims to post one work of art each day for 2017.
+Rhymes with zion provides a digital place for the curation of audio-visual works of art. It is a collaborative project which aims to share one work of art each day for 2017 and (potentially) beyond.
 
 ### Who is it for?
 
@@ -43,16 +43,15 @@ This website remains as inclusive as possible and tries it's best to be accessib
 
 ### What Rhymes with Zion isn't
 
-Rhymes with Zion is unfortunately not the place to find out what rhymes with zion. Luckily, there are <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">plenty of websites</a> which provide that service. It also, is not on the front-page of googl3 (as you may have seen if you clicked that link above)... yet. 
+Rhymes with Zion is unfortunately not the place to find out what rhymes with zion. Luckily, there are <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">plenty of websites</a> which provide that service. It also, is not on the front-page of google (as you may have seen if you clicked that link above). 
 
-Rhymes with Zion is not a website for self-promotion. Although it encourages contribution through the [curation](#curate) and [individual submissions](#submissions) of their favourite audio-visual works of art, it is not a place for artists to share their own work. By sharing the work of others, you can indirectly promote yourself through your [contributor's page](http://www.rwz.io/contributors/test). If you would like to see your audio-visual work of art posted on the site, please get someone else to submit it on your behalf. 
+Rhymes with Zion is not a website for self-promotion. Although it encourages contribution through the [curation](#curate) and [individual submissions](#submissions) of their favourite audio-visual works of art, it is not a place for artists to share their own work. By sharing the work of others, you can indirectly promote yourself through your [contributor's page](http://www.rwz.io/contributors/test). That does not mean the audio-visual works of art created by contributors can't be shared on the site, it just has to be curated by another contributor who did not help create it.
 
-
-Rhymes with Zion is not commercially driven in any way. It does not have a profit motive, and therefore it is not a place where you will see any form of advertisement or marketing campaigns. There is no space for sponsored content or promotional posts. Every work of art being showcased is shared for the sake of itself, presenting it as intrinsically valueable and not just a means to an end. 
-
+Rhymes with Zion is not commercially driven in any way. It does not have a profit motive, and therefore it is not a place where you will see any form of advertisement or marketing campaigns. There is no space for sponsored content or promotional posts. Every work of art being showcased is shared for the sake of itself, presenting it as intrinsically valuable and not just a means to an end. 
 
 ## About
 
+The internet has changed the way we see and connect with the world, others, and ourselves. It has enabled digital media to become a ubiquitous throughout society. 
 
 
 ### Our Ethos
@@ -61,9 +60,15 @@ Rhymes with Zion strives to provide an environment which embraces inclusivity an
 
 #### Openness
 
+
+
 #### Collaboration
 
+
+
 #### Continuous Improvement
+
+
 
 ### Weekly Schedule
 
@@ -88,82 +93,19 @@ If you are interested in becoming a contributor and curate rhymes with zion's au
 
 ### Feedback
 
-
-
-### Posting Template
-
-Posts are have a standard format and are written in markdown. Here is an example post:
-
-```
----
-layout: post
-title: Artist - Title
-subtitle: One or two lines which explain how this post is sharing an audio-visual work of art.
-image: 'http://img.youtube.com/vi/#YoutubeID/0.jpg'
----
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/#YoutubeID" width="560"></iframe></div>
-<br>
-<h5 style="text-align: center;">
-Artist: [NAME] <br>
-Label: [NAME] <br>
-Location: [Where they are From] <br>
-Year: [placeholder]
-</h5>
-<br>
-
-This write-up should go more in depth, it still should not be more than a paragraph or two. Feel free to talk about anything, including:
-
-- The instrumental, what is so great about the beat/tune
-
-- the lyrics, what enlightening wisdom or wordplay is going on
-
-- the visuals, what makes it beautiful or interesting
-
-#### Artist Bio
-
-provide a little Bio of what is known - can be taken from Wikipedia or Last.FM<br />
-
-Provide link to read more about Artist [on Wikipedia]()
-
-#### Attributions
-
-Provide attributions on what is known about the video, most importantly the DIRECTOR and PRODUCER
-
-#### Connect with Artist
-
-<a class="fa fa-globe" href="http://www./" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/" target="_blank"> Soundcloud </a> 
-
-#### Connect with Label / Director / Producer / Other 
-
-<a class="fa fa-globe" href="http://" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-vimeo" href="https://vimeo.com/" target="_blank"> Vimeo </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a>
-
-Little bio and relevant links for author /curator / person who submitted content being shared
-```
-
-It should be easy to write-up a post based on that example. The sample writing needs to be replaced with your content. The links need to be changed to relevant URLs. The majority of videos are from youtube, so the example is for embedding youtube videos. You would do this by replacing the two '#YoutubeID' written in the example with the relevant Youtube video ID, if you don't know how to find it then <a href="http://lmgtfy.com/?q=how+to+find+youtube+video+id" target="_blank">this may help you</a>. It is possible to do this with other video streaming platforms like vimeo, just get the video link and then please <a href="http://embedresponsively.com/" target="_blank">embed responsively</a>.
+We strive for continuous improvement of the website and the ideas behind it.. Whether you think the build, content, design, scope, or just overall user experience of rhymes with zion can be improved, we would love to hear your <a href="http://rwz.io/feedback" target="_blank">feedback</a>. 
 
 ### Submissions
 
-There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out our <a href="https://goo.gl/forms/5aK05ClOEF6Il8o02" target="_blank">google form</a> or the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a> on the website. 
+There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a> on the website. 
 
-If you want to be even more awesome write-it in markdown (check out posting template above for inspiration), and than <a href="mailto:submissions@rwz.io" target="_blank">email</a> it to submissions@rwz.io
-
-
+If you want to be even more awesome write-it in markdown (check out posting template below for inspiration), and than <a href="mailto:submissions@rwz.io" target="_blank">email</a> it to submissions@rwz.io
 
 ### Other ways to support
 
-If you are not interested in contributing to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
+As mentioned [above](~what-rhymes-with-zion-isn't)
+
+If you are not interested in contributing your time or money to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
 
 * Share it with others, tell people how awesome this website is (and if you don't think it is awesome tell us how we can improve)
 * [Connect with us across the web](#connect-across-the-web)
@@ -173,11 +115,13 @@ If you are not interested in contributing to the website but still enjoy it, the
 
 ### How to get in touch
 
-If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to contact@rwz.io with the email subject line 'Curate'. 
+If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to <a href=~"mailto:contact@rwz.io" target="_blank">contact@rwz.io</a> with 'Curate' as the subject line. 
 
-Feedback - 
+Stand-alone submissions - complete the <a href="http://rwz.io/submissions" target="_blank">submission form</a>
 
-Any other Inquiries use the <a href="http://rwz.io/contact" target="_blank">contact form</a> 
+Feedback - please fill out the <a href="http://rwz.io/contact" target="_blank">feedback form</a>
+
+Any other enquiries use the <a href="http://rwz.io/contact" target="_blank">contact form</a> 
 
 ### Connect across the web
 
@@ -185,6 +129,29 @@ Any other Inquiries use the <a href="http://rwz.io/contact" target="_blank">cont
 
 ## Credits
 
+
+
+*  <a href="https://disqus.com/" target="_blank">Beautiful Jekyll</a> 
+
+*  <a href="https://disqus.com/" target="_blank">Disqus</a> provides the commenting feature for posts on the website.
+
+*  <a href="https://formspree.io/" target="_blank">Formspree.io</a> is a great tool used for the contact, feedback, and submissions pages on the website
+
+* <a href="https://codepen.io/matmarsiglio/pen/HLIor" target="_blank">Minimalistic Form</a> a simple and beautiful contact form designed by Matheus Marsiglio. It was easily modified for the contact, feedback, and submission pages on the website.  
+
+*  <a href="https://pages.github.com/" target="_blank">Github Pages</a> for h
+
+* <a href="https://pages.github.com/" target="_blank">Google Products</a> Google Productshttps://www.google.com/intl/en/about/products/
+    *  <a href="https://www.chromium.org/chromium-os" target="_blank">Chrome OS</a> is the operating system which this website was created, the design, deployment, and management of content is all done on a chromebook. It provides the best experience for creating this project, which is produced online completely through a webbrowser.  
+    *  Analytics 
+    *  G Suite
+    *  search
+*  <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> for the static website generation. 
+*  <a href="https://namcheap.com/" target="_blank">NameCheap</a>
+* <a href="https://pixlr.com" target="_blank">Pixlr Editor</a>
+* <a href="https://jekyllrb.com/" target="_blank">Prose.io</a>
+
+Of course credit must be given to everyone involved, including but not limited to: contributors, supporters, users, 
 
 ## License
 
