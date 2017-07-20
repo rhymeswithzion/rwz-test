@@ -26,12 +26,8 @@
 There are plenty of platforms to build a website with user-friendly and intuitive interfaces that enable people with little to no coding skills. Many of these platforms have costs for hosting, templates, and content management systems that can add up to become quite expensive for running a website. Although there are completely free platforms, they usually have limitation when in comes to design and features.
 
 That being said, there are [free and/or open source options](#credits) that have been utilized to meet the needs of this website.
-* [Github Pages](https://pages.github.com/) for free web-hosting.
-* [Jekyll](https://jekyllrb.com/) static-website generator, enables you to build directly from a github repository.
-* [Beautiful-Jekyll](https://github.com/daattali/beautiful-jekyll) template by [Dean Attali](http://deanattali.com) who provides a brilliant [read-me](https://github.com/daattali/beautiful-jekyll/blob/master/README.md) which guides you how to set-up your own website just like this one.  
-* [Prose.io](http://prose.io) Content management system that provides a user-friendly interface for writing in markdown. This read-me document, as well as all the other pages and posts on the website were written and published through github using [prose.io](http://prose.io).
 
-Rhymes with Zion is built, designed, and managed completely on a web-browser (even the and the only money spent was on the domain name (which is unavoidable but purchased for an affordable price through [NameCheap](http://namecheap.com/))
+Rhymes with Zion is built, designed, and managed completely on a web-browser, the only expenditure was on the domain name.
 
 ### Purpose
 
