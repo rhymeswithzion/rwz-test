@@ -31,7 +31,7 @@ Now having entered the professional world of work as a Cheese buyer, Adam has le
 
 #### Attributions
 
-Shout out to Adam's brother for cutting up the visuals, Richard Aki for introducing Adam to DJing, and Robert Somarji for booking him gigs. Of course, respect must be given to the talented artists cut in the tracklist and Adam for putting it all together in this harmonious mix. 
+Shout out to Adam's brother for cutting up the visuals, Richard Aki for introducing Adam to DJing, and Robert Somarji for booking him gigs. Respect must be given to the artists featured in the tracklist and of course Adam for putting it all together in this harmonious mix. 
 
 Tracklist;
 
