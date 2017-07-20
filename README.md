@@ -4,7 +4,7 @@
 * [Introduction](#introduction)
    * [Purpose](#purpose)
    * [Who is it for?](#who-is-it-for)
-   * [What Rhymes with Zion isn't](#what-rwz-is-not)
+   * [What Rhymes with Zion isn't](#what-rwz-isn't)
 * [About ](#about)
    * [Our Ethos](#our-ethos)
    * [Weekly Schedule](#importing-vcards-cli-only)
@@ -37,7 +37,7 @@ Rhymes with zion provides a digital place for the curation of audio-visual works
 
 This website remains as inclusive as possible and tries it's best to be accessible to anyone with access to the internet. Whether you are a passive viewer exploring the web looking for cool and interesting content to surf through, or actively engaged wanting to [get involved](#get-involved)
 
-### What Rhymes with Zion is not
+### What Rhymes with Zion isn't
 
 Rhymes with Zion is unfortunately not the place to find out what rhymes with zion. Luckily, there are <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">plenty of websites</a> which provide that service. It also, is not on the front-page of google (as you may have seen if you clicked that link above). 
 
@@ -99,7 +99,7 @@ If you want to be even more awesome write-it in markdown (check out posting temp
 
 ### Other ways to support
 
-As mentioned [above](#what-rhymes-with-zion-is-not) rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
+As mentioned [above](#what-rhymes-with-zion-isn't) rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
 
 
 If you are not interested in contributing your time or money to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
