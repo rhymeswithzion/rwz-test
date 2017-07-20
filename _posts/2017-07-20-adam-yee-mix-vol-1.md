@@ -52,6 +52,3 @@ Andres - New For You
 <a class="fa fa-instagram" href="https://www.instagram.com/adamyee92" target="_blank"> Instagram </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/adam-yee1" target="_blank"> Soundcloud </a> 
 
-
-
-This audio-visual work of art was curated by [Brian](http://www.rwz.io/contributors/brian)
