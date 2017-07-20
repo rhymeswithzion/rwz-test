@@ -99,7 +99,7 @@ If you want to be even more awesome write-it in markdown (check out posting temp
 
 ### Other ways to support
 
-As mentioned [above](#what-rhymes-with-zion-is-not)
+As mentioned [above](#what-rhymes-with-zion-is-not) rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
 
 
 If you are not interested in contributing your time or money to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
