@@ -31,7 +31,7 @@ Now having entered the professional world of work as a Cheese buyer, Adam has le
 
 #### Attributions
 
-Shout out to Adam's brother for cutting up the visuals, Richard Aki for introducing Adam to DJing, and Robert Somarji for booking him gigs. Respect must be given to the artists featured in the tracklist and of course Adam for putting it all together in this harmonious mix. 
+Shout out to Richard Aki for introducing Adam to DJing, and Robert Somarji for booking him gigs. Respect must be given to the artists featured in the tracklist and of course big-ups to Adam for putting it all together in this harmonious mix of sound and visuals. 
 
 Tracklist;
 
@@ -49,5 +49,4 @@ Andres - New For You
 <a class="fa fa-facebook" href="https://www.facebook.com/adam.yee1" target="_blank"> Facebook </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/adamyee92" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/adam-yee1" target="_blank"> Soundcloud </a> 
-
+<a class="fa fa-soundcloud" href="https://soundcloud.com/adam-yee1" target="_blank"> Soundcloud </a>
