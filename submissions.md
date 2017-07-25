@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Submissions
-css: "/css/contact.css"
-
+css: /css/contact.css
+published: true
 ---
 
 There are plenty of days in 2017 (both backtracking and moving forward) that need a post which shares an audio-visual work of art to fill rhymes with zion's empty void. If you have an audio-visual work of art that you think should be posted on the website, than please fill out our <a href="https://goo.gl/forms/5aK05ClOEF6Il8o02" target="_blank">google form</a> or the [submission form](#submission-form) below. 
-
-If you want to be even more awesome and helpful than write your submission in markdown using the posting template - check out the <a href="https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#posting-template" target="_blank">posting template</a> for inspiration / instructions and then [email](mailto:submissions@rwz.io) it to: submissions [at] rwz.io
 
 
 ## Submission Form
