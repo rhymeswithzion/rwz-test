@@ -95,11 +95,9 @@ We strive for continuous improvement of the website and the ideas behind it.. Wh
 
 There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a> on the website. 
 
-If you want to be even more awesome write-it in markdown (check out posting template below for inspiration), and than <a href="mailto:submissions@rwz.io" target="_blank">email</a> it to submissions@rwz.io
-
 ### Other ways to support
 
-As mentioned [above](#what-rhymes-with-zion-isn't) rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
+As mentioned [above](#what-rhymes-with-zion-isnt) rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
 
 
 If you are not interested in contributing your time or money to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
@@ -109,10 +107,11 @@ If you are not interested in contributing your time or money to the website but 
 
 ## Contact
 
+Rhymes with zion aims to be as open, collaborative, and constantly striving for further improvement as possible. That means, we are always happy to hear from you for any reason, so please do not hestiate to [get in touch](#how-to-get-in-touch) and don't forget to [connect with rhymeswithzion across the interwebs](#connect-across-the-web)
 
 ### How to get in touch
 
-If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to <a href="mailto:contact@rwz.io" target="_blank">contact@rwz.io</a> with 'Curate' as the subject line. 
+If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to <a href="mailto:rhymeswithzion@gmail.com" target="_blank">rhymeswithzion [at] gmail.com</a> with 'Curate' as the subject line. 
 
 Stand-alone submissions - complete the <a href="http://rwz.io/submissions" target="_blank">submission form</a>
 
@@ -122,7 +121,17 @@ Any other enquiries use the <a href="http://rwz.io/contact" target="_blank">cont
 
 ### Connect across the web
 
+*  <a href="https://facebook.com/rhymeswithzion" target="_blank">Facebook</a>
 
+*  <a href="https://github.com/rhymeswithzion" target="_blank">Github</a>
+
+*  <a href="https://instagram.com/rhymeswithzion" target="_blank">Instagram</a>
+
+*  <a href="https://soundcloud.com/rhymeswithzion" target="_blank">Soundcloud</a>
+
+*  <a href="https://twitter.com/rhymeswithzion" target="_blank">Twitter</a>
+
+*  <a href="https://github.com/rhymeswithzion" target="_blank">Youtube</a>
 
 ## Credits
 
@@ -139,13 +148,17 @@ Thank you to all the great people / products / services that have enabled rhymes
 *  <a href="https://pages.github.com/" target="_blank">Github Pages</a> provides free web-hosting of the wbsite.
 
 * <a href="https://www.google.com/intl/en/about/products/" target="_blank">Google Products</a> 
+    *  <a href="https://www.google.com/analytics/" target="_blank">Analytics</a> - has been set-up to collect data about website traffic and audience of the users. 
     *  <a href="https://www.chromium.org/chromium-os" target="_blank">Chrome OS</a> is the operating system which this website was created, the design, deployment, and management of content is all done on a chromebook. It provides the best experience for creating this project, which is produced online completely through a webbrowser.  
-    *  Analytics 
-    *  G Suite
-    *  search
-*  <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> static-website generator, enables you to build directly from a github repository. This is 
+    *  <a href="https://gsuite.google.com/together/" target="_blank">G Suite</a> has been extremely useful for the admin side of the calender. Google's office suite which has been integral to the development and maintenance of the website. This includes (but not limited to): Calendar, Drive, Docs, Forms, and of course Gmail.
+    *  <a href="https://developers.google.com/custom-search/" target="_blank">Search</a> has been used for the search function on the website. Google custom search enables a search feature in the website powered by unbeatable google algorithms. 
+*  <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> static-website generator, enables you to build directly from a github repository. This website is built with Jekyll.
 
-*  <a href="https://namcheap.com/" target="_blank">NameCheap</a>
+*  <a href="https://ko-fi.com" target="_blank">Kofi</a> is a free tool that allows user to support the website.
+
+* <a href="https://monzo.me/" target="_blank">Monzo.Me</a> is another way to provide monetary support. Monzo is an awesome bank of the future, and they do not have any transaction fees. 
+
+*  <a href="https://namcheap.com/" target="_blank">NameCheap</a> - provided domain name registration at at the most reasonable price. It also provides email forwarding.
 
 * <a href="https://pixlr.com" target="_blank">Pixlr Editor</a> is a web application which the logo was created and images are formated. 
 
