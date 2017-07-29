@@ -53,6 +53,6 @@ Editor: Justin Wilmore
 <a class="fa fa-globe" href="http://www.kexp.org/" target="_blank"> Website </a> |
 <a class="fa fa-facebook" href="https://www.facebook.com/kexp.fm" target="_blank"> Facebook </a> |
 <a class="fa fa-twitter" href="https://twitter.com/kexp" target="_blank"> Twitter </a> |
-<a class="fa fa-itunes" href="https://youtube.com/user/kexpradio" target="_blank"> Youtube </a> |
+<a class="fa fa-apple" href="https://youtube.com/user/kexpradio" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/kexp" target="_blank"> Instagram </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/kexp" target="_blank"> Soundcloud </a>
