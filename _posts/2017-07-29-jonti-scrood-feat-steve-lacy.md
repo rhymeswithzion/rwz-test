@@ -46,12 +46,11 @@ Jack Prest: mix.
 
 #### Connect with Jonti
 
-<a class="fa fa-globe" href="http://www./" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/" target="_blank"> Soundcloud </a> 
+<a class="fa fa-bandcamp" href="https://jontidanilewitz.bandcamp.com/" target="_blank"> Bandcamp </a> |
+<a class="fa fa-facebook" href="https://www.facebook.com/jontidanimals" target="_blank"> Facebook </a> |
+<a class="fa fa-twitter" href="https://twitter.com/Jonti_Danimals" target="_blank"> Twitter </a> |
+<a class="fa fa-instagram" href="https://www.instagram.com/jontidanimals" target="_blank"> Instagram </a> |
+<a class="fa fa-soundcloud" href="https://soundcloud.com/jontidanimals" target="_blank"> Soundcloud </a> 
 
 #### Connect with Steve Lacy
 
@@ -68,4 +67,4 @@ Jack Prest: mix.
 <a class="fa fa-twitter" href="https://twitter.com/stonesthrow" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UC0L0PDO9kUS46JC1wEjLEbg" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/stonesthrow" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/stonesthrow" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/stonesthrow" target="_blank"> Soundcloud </a>
