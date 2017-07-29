@@ -4,6 +4,10 @@ published: true
 title: Ross From Friends - Live
 image: 'http://img.youtube.com/vi/YqEBW0QPxQQ/0.jpg'
 date: '2017-01-27'
+subtitle: >-
+  This live of the floor set by Ross From Friends captured by Molten Jets
+  provides a vicarious experience of a night out in London witnessing top UK up
+  and coming talent
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
