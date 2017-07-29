@@ -24,7 +24,7 @@ Year: 2017
 
 #### Jonti Bio
 
-Jonti Danilewitz, better known mononymously as Jonti, is an Australian electronic and alternative hip hop record producer and songwriter from Sydney, New South Wales. He is currently signed to Stones Throw Records and Future Classic.He is also a touring member of [the Avalanches](http://www.rwz.io/the-avalanches-subways/).
+**Jonti Danilewitz**, *better known mononymously as Jonti, is an Australian electronic and alternative hip hop record producer and songwriter from Sydney, New South Wales. He is currently signed to Stones Throw Records and Future Classic.* He is also a touring member of [the Avalanches](http://www.rwz.io/the-avalanches-subways/).
 
 Read more about Jonti [on Wikipedia](https://en.wikipedia.org/wiki/Jonti)
 
