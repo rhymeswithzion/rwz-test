@@ -27,7 +27,7 @@ Felix Weatherall aka Ross From Friends is a leading figure in the emergent lo-fi
 
 Inspiration for Ross From Friends comes from all corners of the musical milieu. From early experimental music to hip-hop sampling - even 80s Eurobeat and Hi-NRG helps to make up the comprehensive sound palette that Ross has the liberty of drawing from.
 
-As an emerging artist, Ross From Friends does not have a wikipedia page yet, when there is one please [email rwz](mailto:rhymeswithzion@gmail.com) to update bio. If you want to find out more about Ross From Friends read this [Mixmag feature article](http://mixmag.net/feature/impact-ross-from-friends) and check out [Resident Advisor](https://www.residentadvisor.net/dj/rossfromfriends-uk/biography)
+As an emerging artist, Ross From Friends does not have a wikipedia page yet... When there is one please [contact us](http://www.rwz.io/contact) so we can update his bio. If you want to find out more about Ross From Friends read this [Mixmag feature article](http://mixmag.net/feature/impact-ross-from-friends) and check out [Resident Advisor](https://www.residentadvisor.net/dj/rossfromfriends-uk/biography)
 
 #### Attributions
 
@@ -48,4 +48,4 @@ Shout out to Felix along with his mates rocking it on the keys and guitar, the Y
 <a class="fa fa-twitter" href="https://twitter.com/molten_jets" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/moltenjets" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/molten_jets" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/moltenjets" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/moltenjets" target="_blank"> Soundcloud </a>
