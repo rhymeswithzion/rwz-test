@@ -39,10 +39,8 @@ Thank you Dave Free of the little homies & Christian Sutton for directing the vi
 
 #### Connect with Isaiah Rashad
 
-<a class="fa fa-globe" href="http://www./" target="_blank"> Website </a> |
 <a class="fa fa-facebook" href="https://www.facebook.com/isaiahrashad" target="_blank"> Facebook </a> |
 <a class="fa fa-twitter" href="https://twitter.com/isaiahrashad" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/isaiahrashad" target="_blank"> Instagram </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/isaiah_rashad" target="_blank"> Soundcloud </a> 
 
