@@ -34,17 +34,10 @@ Thank you to the lovely person this song was written about for influencing Cosmo
 
 #### Connect with Cosmo Pyke
 
-<a class="fa fa-globe" href="http://www./" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/" target="_blank"> Soundcloud </a> 
 
-#### Connect with Label / Director / Producer / Other 
+<a class="fa fa-facebook" href="https://www.facebook.com/cosmopykemusic" target="_blank"> Facebook </a> |
+<a class="fa fa-twitter" href="https://twitter.com/cosmopyke" target="_blank"> Twitter </a> |
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UC7yJwfM_D7K40crQLIHeHjA" target="_blank"> Youtube </a> |
+<a class="fa fa-instagram" href="https://www.instagram.com/cosmo_pyke" target="_blank"> Instagram </a> |
+<a class="fa fa-soundcloud" href="https://soundcloud.com/cosmopyke" target="_blank"> Soundcloud </a> 
 
-<a class="fa fa-globe" href="http://" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-vimeo" href="https://vimeo.com/" target="_blank"> Vimeo </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a>
