@@ -13,7 +13,7 @@ subtitle: >-
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3HcByGPKhCo" width="560"></iframe></div>
 <br>
 <h5 style="text-align: center;">
-Artist: The Quantic Soul Orchestra
+Artist: The Quantic Soul Orchestra <br>
 Location: Born in UK, Based in NYC, Recorded in Seattle <br>
 Year: song released in 2004, KEXP perfomance recorded in 2014
 </h5>
