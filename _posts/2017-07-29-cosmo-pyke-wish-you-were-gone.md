@@ -15,7 +15,6 @@ image: 'http://img.youtube.com/vi/pSLpTftj5S4/0.jpg'
 <br>
 <h5 style="text-align: center;">
 Artist: Cosmo Pyke <br>
-Label: [NAME] <br>
 Location: Born and Based in Peckham, London, UK. Performance recorded in Rezé, France. <br>
 Year: 2017
 </h5>
