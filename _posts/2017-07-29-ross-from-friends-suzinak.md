@@ -55,7 +55,7 @@ Shout out to Felix for producing the amazing lo-fi and spacey track, Matt Woodha
 
 #### Connect with Matt Woodham 
 
-<a class="fa fa-globe" href="http://mdoubl.eu/info/ target="_blank"> Website </a> |
+<a class="fa fa-globe" href="http://mdoubl.eu/info/" target="_blank"> Website </a> |
 <a class="fa fa-facebook" href="https://www.facebook.com/matt.woodham" target="_blank"> Facebook </a> |
 <a class="fa fa-twitter" href="https://twitter.com/mattwoodham" target="_blank"> Twitter </a> |
 <a class="fa fa-vimeo" href="https://vimeo.com/mwmw" target="_blank"> Vimeo </a> |
