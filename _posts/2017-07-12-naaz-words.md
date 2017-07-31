@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Naaz - Words
-image: 'http://img.youtube.com/vi/KvQ-te2CBFM/0.jpg'
+image: 'http://img.youtube.com/vi/KvQ-te2CBFM/mqdefault.jpg'
 subtitle: >-
   Naaz's 'Words' perfectly captures the diversity and inclusion of Amsterdam
   which transcends the temporary emergence of uniformity and exclusion
