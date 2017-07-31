@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Quantic - Mishaps Happening (Live on KEXP)
-image: 'http://img.youtube.com/vi/3HcByGPKhCo/0.jpg'
+image: 'http://img.youtube.com/vi/3HcByGPKhCo/mqdefault.jpg'
 date: '2017-07-14'
 subtitle: >-
   Experience the upbeat rhythms and latin vibes of Quantic on this incredible
