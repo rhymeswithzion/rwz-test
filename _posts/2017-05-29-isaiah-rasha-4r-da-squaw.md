@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Isaiah Rashad - 4r Da Squaw
-image: 'http://img.youtube.com/vi/nppKPgdc_u0/0.jpg'
+image: 'http://img.youtube.com/vi/nppKPgdc_u0/mqdefault.jpg'
 date: '2017-01-16'
 subtitle: >-
   The Sun's Tirade is a critically acclaimed album, so of course the opening
