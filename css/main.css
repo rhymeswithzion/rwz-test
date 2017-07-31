@@ -425,6 +425,7 @@ footer .theme-by {
   .post-image, .post-image img {
     height: auto;
     width: 100%;
+     border-radius: 1px;
   }
   
   .post-image {
