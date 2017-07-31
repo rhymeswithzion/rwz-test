@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Vic Mensa - Didn't I
 date: '2017-07-28'
-image: 'http://img.youtube.com/vi/HSiRxK6ka3g/0.jpg'
+image: 'http://img.youtube.com/vi/HSiRxK6ka3g/maxresdefault.jpg'
 subtitle: >-
   Experience a great live of the floor performance of the opening track of Vic's
   new album 'The Autobiography' which features a soulful sample of Dorando's
@@ -62,4 +62,4 @@ Producers: Jayson Rodriguez, Emily Louick
 <a class="fa fa-twitter" href="https://twitter.com/vicmensa" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/vicmensavevo" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/vicmensa" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/vicmensa" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/vicmensa" target="_blank"> Soundcloud </a>
