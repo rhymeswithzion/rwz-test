@@ -364,7 +364,6 @@ footer .theme-by {
   width: 100%;
 }
 .post-image {
-  border-radius: 25px;
   display: inline-block;
   height: auto;
   width: 88%;
@@ -376,6 +375,7 @@ footer .theme-by {
   filter: grayscale(0%);
 }
 .post-image img {
+  border-radius: 25px;
   height: auto;
   width: 88%;
 }
