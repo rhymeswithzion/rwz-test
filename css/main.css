@@ -365,8 +365,8 @@ footer .theme-by {
 }
 .post-image {
   display: inline-block;
-  height: 100%;
-  width: 100%;
+  height: 316px;
+  width: 560px;
   margin-top: -35px;
   filter: grayscale(90%);
 }
@@ -374,9 +374,8 @@ footer .theme-by {
   filter: grayscale(0%);
 }
 .post-image img {
-  border-radius: 100%;
-  height: 100%;
-  width: 100%;
+  height: 316px;
+  width: 560px;
 }
 .post-preview .post-read-more {
   font-weight: 800;
