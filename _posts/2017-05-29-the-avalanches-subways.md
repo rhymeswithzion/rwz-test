@@ -8,7 +8,7 @@ subtitle: >-
   song and the entire Wildflower album by The Avalanches, the animated visuals
   perfectly match the psychedlic and eccentric aesthetic of the no. 4 track
   'Subways'
-image: 'http://img.youtube.com/vi/bPIMfOIuEe4/0.jpg'
+image: 'http://img.youtube.com/vi/bPIMfOIuEe4/mqdefault.jpg'
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
