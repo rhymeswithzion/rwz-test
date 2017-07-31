@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Ross From Friends - Live
-image: 'http://img.youtube.com/vi/YqEBW0QPxQQ/0.jpg'
+image: 'http://img.youtube.com/vi/YqEBW0QPxQQ/mqdefault.jpg'
 date: '2017-01-27'
 subtitle: >-
   This live of the floor set by Ross From Friends captured by Molten Jets
