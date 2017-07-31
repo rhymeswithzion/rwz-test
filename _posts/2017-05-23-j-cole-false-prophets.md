@@ -7,7 +7,7 @@ subtitle: >-
   J. Cole lyrical genius never fails to deliver, it especially hits hard when he
   is dropping rhymes over a smooth looped sample of Freddie Joachim's 'Waves'
   and visuals shot by Scott Lazer
-image: 'http://img.youtube.com/vi/wvFDXV0VBg4/0.jpg'
+image: 'http://img.youtube.com/vi/wvFDXV0VBg4/mqdefault.jpg'
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
