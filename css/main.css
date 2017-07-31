@@ -375,7 +375,7 @@ footer .theme-by {
   filter: grayscale(0%);
 }
 .post-image img {
-  border-radius: 25px;
+  border-radius: 1px;
   height: auto;
   width: 88%;
 }
@@ -421,7 +421,7 @@ footer .theme-by {
   
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 500px) {
   .post-image, .post-image img {
     height: auto;
     width: 100%;
