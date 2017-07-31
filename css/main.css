@@ -419,6 +419,18 @@ footer .theme-by {
   .post-preview .blog-tags {
     margin-top: 10px;
   }
+  .post-image, .post-image img {
+    height: auto;
+    width: 100%;
+     border-radius: 1px;
+  }
+  
+  .post-image {
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+    float: left;
+  }
 }
 
 @media only screen and (max-width: 500px) {
