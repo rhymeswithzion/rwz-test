@@ -6,7 +6,7 @@ date: '2017-01-06'
 subtitle: >-
   Chancellor Bennet and the Social Experiment's incredible live of the floor
   cover of Drake's 'Feel No Ways' on BBC Radio 1Xtra Live Lounge
-image: 'http://img.youtube.com/vi/8fnMhKIqS3o/0.jpg'
+image: 'http://img.youtube.com/vi/8fnMhKIqS3o/mqdefault.jpg'
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
