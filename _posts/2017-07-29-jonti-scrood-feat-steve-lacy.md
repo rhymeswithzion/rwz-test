@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Jonti - Scrood (feat. Steve Lacy)
-image: 'http://img.youtube.com/vi/2FgoQJMOluw/0.jpg'
+image: 'http://img.youtube.com/vi/2FgoQJMOluw/mqdefault.jpg'
 date: '2017-07-23'
 subtitle: >-
   This dreamy musical production from Jonti and Steve Lacy accompanied by
