@@ -365,17 +365,16 @@ footer .theme-by {
 }
 .post-image {
   display: inline-block;
-  height: 333px;
-  width: 333px;
+  height: auto;
+  width: 80%;
   filter: grayscale(90%);
 }
 .post-image:hover {
   filter: grayscale(0%);
 }
 .post-image img {
-  border-radius: 100%;
-  height: 333px;
-  width: 333px;
+  height: auto;
+  width: 80%;
 }
 .post-preview .post-read-more {
   font-weight: 800;
