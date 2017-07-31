@@ -7,7 +7,7 @@ subtitle: >-
   Beautiful vibes radiate from this acoustic live performance of the opening
   track from 'Just Cosmo' EP, captured at the Festival Ère de Rien showcase in
   France.
-image: 'http://img.youtube.com/vi/pSLpTftj5S4/0.jpg'
+image: 'http://img.youtube.com/vi/pSLpTftj5S4/mqdefault.jpg'
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
@@ -39,5 +39,4 @@ Thank you to the lovely person this song was written about for influencing Cosmo
 <a class="fa fa-twitter" href="https://twitter.com/cosmopyke" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UC7yJwfM_D7K40crQLIHeHjA" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/cosmo_pyke" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/cosmopyke" target="_blank"> Soundcloud </a> 
-
+<a class="fa fa-soundcloud" href="https://soundcloud.com/cosmopyke" target="_blank"> Soundcloud </a>
