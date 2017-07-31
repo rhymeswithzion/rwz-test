@@ -366,7 +366,7 @@ footer .theme-by {
 .post-image {
   display: inline-block;
   height: auto;
-  width: 100%;
+  width: 88%;
   margin-top: 33px;
   margin-bottom: 33px;
   filter: grayscale(90%);
@@ -377,7 +377,7 @@ footer .theme-by {
 .post-image img {
   border-radius: 25px;
   height: auto;
-  width: 100%;
+  width: 88%;
 }
 .post-preview .post-read-more {
   font-weight: 800;
