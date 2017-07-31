@@ -3,7 +3,7 @@ layout: post
 published: true
 title: The Internet - Special Affair / Curse
 date: '2017-01-23'
-image: 'http://img.youtube.com/vi/CNJkas_LiCM/0.jpg'
+image: 'http://img.youtube.com/vi/CNJkas_LiCM/mqdefault.jpg'
 subtitle: >-
   Ego Death is an experience to listen to, these complimentary visuals that
   create this two-part music video reflects the chill vibes and melodic
@@ -56,5 +56,4 @@ This goes more in depth into the intro blurb, still should not be more than a pa
 <a class="fa fa-vimeo" href="https://www.vimeo.com/calmatic/" target="_blank"> Vimeo </a> |
 <a class="fa fa-twitter" href="https://twitter.com/calmatic" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/user/calmatic1" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/calmatic" target="_blank"> Instagram </a> 
-
+<a class="fa fa-instagram" href="https://www.instagram.com/calmatic" target="_blank"> Instagram </a>
