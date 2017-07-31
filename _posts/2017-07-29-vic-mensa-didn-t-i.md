@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Vic Mensa - Didn't I
 date: '2017-07-28'
-image: 'http://img.youtube.com/vi/HSiRxK6ka3g/maxresdefault.jpg'
+image: 'http://img.youtube.com/vi/HSiRxK6ka3g/mqdefault.jpg'
 subtitle: >-
   Experience a great live of the floor performance of the opening track of Vic's
   new album 'The Autobiography' which features a soulful sample of Dorando's
