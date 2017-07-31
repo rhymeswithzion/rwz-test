@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Ross From Friends - Suzinak
-image: 'http://img.youtube.com/vi/zKJdW07BR7U/0.jpg'
+image: 'http://img.youtube.com/vi/zKJdW07BR7U/mqdefault.jpg'
 date: '2017-07-29'
 subtitle: >-
   The music created by Ross From Friends never dissapoints, and neither has his
