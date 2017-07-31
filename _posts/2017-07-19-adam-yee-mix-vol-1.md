@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Adam Yee - Mix Vol. 1
-image: 'http://img.youtube.com/vi/gfOTUoSWums/0.jpg'
+image: 'http://img.youtube.com/vi/gfOTUoSWums/mqdefault.jpg'
 date: '2017-07-19'
 subtitle: >-
   A dark yet soulful foray into the DJ's eclectic musical tastes, while staying
