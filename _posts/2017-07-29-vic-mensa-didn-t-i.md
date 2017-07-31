@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Vic Mensa - Didn't I
-date: '2017-97-28'
+date: '2017-07-28'
 image: 'http://img.youtube.com/vi/HSiRxK6ka3g/0.jpg'
 subtitle: >-
   Experience a great live of the floor performance of the opening track of Vic's
