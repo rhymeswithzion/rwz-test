@@ -7,7 +7,7 @@ subtitle: >-
   Masego, the innovative and multi-faceted musician and leader of the Trap House
   Jazz collective; displays his incredible talent with a live of the floor
   performance of Navajo recorded by Colors Berlin
-image: 'http://img.youtube.com/vi/fuAE3U1NvOs/0.jpg'
+image: 'http://img.youtube.com/vi/fuAE3U1NvOs/mqdefault.jpg'
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
