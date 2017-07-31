@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Vic Mensa - Didn't I
 date: '2017-97-28'
 image: 'http://img.youtube.com/vi/HSiRxK6ka3g/0.jpg'
