@@ -5,6 +5,11 @@ title: BROCKHAMPTON - GUMMY
 image: 'http://img.youtube.com/vi/vWhPimx07H0/mqdefault.jpg'
 date: '2017-08-02'
 tags: 'hip-hop, brockhampton, brckhmptn, Kevin Abstract, Ameer Vann'
+subtitle: >-
+  The southern hip-hop collective unveils their innovative creativity and talent
+  with their music video for GUMMY. Everything about this is awesome; epic
+  instrumental production, eccentric and diverse lyrical game, and the creative
+  visuals. Expect nothing but prosperity and progression for the brckhmptn crew
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
