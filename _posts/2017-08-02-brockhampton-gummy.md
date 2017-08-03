@@ -47,4 +47,4 @@ Filmed in Van Nuys, Los Angeles, California, USA
 <a class="fa fa-twitter" href="https://twitter.com/brckhmptn" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCFLnwFhuJeBSCjIJewxSqKw" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/brckhmptn" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/brockhampton" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/brockhampton" target="_blank"> Soundcloud </a>
