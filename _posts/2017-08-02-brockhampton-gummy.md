@@ -4,6 +4,7 @@ published: true
 title: BROCKHAMPTON - GUMMY
 image: 'http://img.youtube.com/vi/vWhPimx07H0/mqdefault.jpg'
 date: '2017-08-02'
+tags: 'hip-hop, brockhampton, brckhmptn, Kevin Abstract, Ameer Vann'
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
@@ -36,17 +37,9 @@ Filmed in Van Nuys, Los Angeles, California, USA
 
 #### Connect with BROCKHAMPTON
 
-<a class="fa fa-globe" href="http://www./" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/" target="_blank"> Soundcloud </a> 
-
-#### Connect with Kevin Abstract
-
-<a class="fa fa-globe" href="http://" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-vimeo" href="https://vimeo.com/" target="_blank"> Vimeo </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://www.brckhmptn.com/" target="_blank"> Website </a> |
+<a class="fa fa-facebook" href="https://www.facebook.com/brckhmptn" target="_blank"> Facebook </a> |
+<a class="fa fa-twitter" href="https://twitter.com/brckhmptn" target="_blank"> Twitter </a> |
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCFLnwFhuJeBSCjIJewxSqKw" target="_blank"> Youtube </a> |
+<a class="fa fa-instagram" href="https://www.instagram.com/brckhmptn" target="_blank"> Instagram </a> |
+<a class="fa fa-soundcloud" href="https://soundcloud.com/brockhampton" target="_blank"> Soundcloud </a> 
