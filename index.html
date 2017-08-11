@@ -45,9 +45,6 @@ description: Rhymes with Zion provides a digital space which curates audio/visua
    </article>
   {% endfor %}
 </div>
-{% if site.infinite_scroll == true %}
-<script src="{{ site.baseurl | replace: '//', '/' }}/js/build/infinite.min.js"></script>
- {% endif %}
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
@@ -63,3 +60,6 @@ description: Rhymes with Zion provides a digital space which curates audio/visua
   {% endif %}
 </ul>
 {% endif %}
+{% if site.infinite_scroll == true %}
+<script src="{{ site.baseurl | replace: '//', '/' }}/js/build/infinite.min.js"></script>
+ {% endif %}
