@@ -99,7 +99,7 @@ img {
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'poiret one', 'sans serif';
+  font-family: poiret one, sans-serif;
 }
 
 .navbar-custom .nav li a {
