@@ -99,7 +99,7 @@ img {
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; 'Sedgwick Ave Display', cursive;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -119,7 +119,7 @@ img {
   letter-spacing: 3px;
   font-weight: 800;
   color: #404040;
-  font-family: Sedgwick Ave Display', cursive;
+  font-family: 'Sedgwick Ave Display', cursive;
 }
 
 .navbar-custom .navbar-brand:hover,
