@@ -9,7 +9,7 @@ There are plenty of days in 2017 (both backtracking and moving forward) that nee
 
 
 ## Submission Form
-<form id="form" class="topBefore" action="https://formspree.io/submissions@rwz.io"
+<form id="form" class="topBefore" action="https://formspree.io/rhymeswithzion@gmail.com"
       method="POST">	
   <h3>Basic Info</h3> 	 
   <input id="title" type="text" placeholder="Post Title - [Artist Name - Title of the Work of Art]" name="a. title">
