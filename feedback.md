@@ -10,7 +10,7 @@ We strive for continuous improvement of the content, collaborations, design, and
 Feedback is valuable for improving the website and is greatly appreciated.
 
 __*Please answer the questions below to help improve your experience on rhymes with zion*__:
-<form id="form" class="topBefore" action="https://formspree.io/feedback@rwz.io"
+<form id="form" class="topBefore" action="https://formspree.io/rhymeswithzionk@gmail.com"
       method="POST">	
 <h3>What is good about rhymes with zion? </h3> 	 
 	<br>
