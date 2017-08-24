@@ -38,9 +38,7 @@ Unfortunately there is not a wikipedia page for Tom Misch, but when there is ple
 #### Attributions
 
 BIG LOVE to everyone who sent in their videos! 
-
 <br>
-
 Edited by Tom Ewbank & Tom Misch
 
 #### Connect with Tom Misch
