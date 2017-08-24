@@ -38,9 +38,9 @@ Nestor Chumak - bass / back-up vocals <br>
 Video Directed and Created by Jeremy Schaulin-Rioux<br>
 Cinematography by Nikolay Michaylov & Amanda Fotes<br>
 Produced by Amanda Fotes and PUP<br>
-Full Credits: <a href="http://i.imgur.com/0Xg3FHO.jpg" target=_blank>Click HERE</a>
+Full Credits: <a href="http://i.imgur.com/0Xg3FHO.jpg" target="_blank">Click HERE</a>
 <br><br>
-Produced with the financial assistance of <a href="http://www.muchfact.ca" target=_blank>MuchFACT</a>
+Produced with the financial assistance of <a href="http://www.muchfact.ca" target="_blank">MuchFACT</a>
 
 
 #### Connect with PUP
