@@ -17,7 +17,6 @@ image: 'http://img.youtube.com/vi/NdJHvUTWx6c/mqdefault.jpg'
 <br>
 <h5 style="text-align: center;">
 Artist: Tom Misch <br>
-Label: [NAME] <br>
 Location: South of the Thames, London <br>
 Year: 2017
 </h5>
