@@ -3,7 +3,7 @@ layout: post
 published: true
 title: PUP - Old Wounds
 image: 'http://img.youtube.com/vi/5ty4QADcwgs/mqdefault.jpg'
-date: '2017-24-08'
+date: '2017-08-24'
 subtitle: >-
   The Canadian punk band out does themselves yet again with their new visuals
   for the track 'Old Wounds' from the Dream is Over EP. The fusion between a
