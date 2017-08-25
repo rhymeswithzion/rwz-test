@@ -23,15 +23,13 @@
 
 ## Introduction
 
-There are plenty of platforms to build a website with user-friendly and intuitive interfaces that enable people with little to no coding skills. Many of these platforms have costs for hosting, templates, and content management systems that can add up to become quite expensive for running a website. Although there are completely free platforms, they usually have limitation when in comes to design and features.
+If we consider a 'work of art' a creation from the infinite potential of nature into a finite actuality which unveils a cultural worldview (e.g. Ancient Greek culture using stones to represent their myths through statues, or certain Indigenous cultures of North America using trees to create Totem Poles which tell a narrative), then audio-visual creations portrayed through a digital medium is the epitome of a contemporary work of art.
 
-That being said, there are [free and/or open source options](#credits) that have been utilized to meet the needs of this website.
-
-Rhymes with Zion is built, designed, and managed completely on a web-browser, the only expenditure was on the domain name.
+The goal of Rhymes with Zion is to present these audio-visual works of art through a digital medium, think of it like an online art gallery which has been curated by collaborators on the internet. Everything done to create rhymes with zion is done through an internet connection. In other words Rhymes with Zion is built, designed, and managed completely through a web-browser.
 
 ### Purpose
 
-Rhymes with zion provides a digital place for the curation of audio-visual works of art. It is a collaborative project which aims to share one work of art each day for 2017 and (potentially) beyond.
+Rhymes with zion provides a digital place for the curation of audio-visual works of art. It is a collaborative project which aims to share audio-visual works of art. Every work of art being showcased is shared for the sake of itself, presenting it as intrinsically valuable and not just a means to an end.
 
 ### Who is it for?
 
@@ -136,6 +134,12 @@ Any other enquiries use the <a href="http://rwz.io/contact" target="_blank">cont
 ## Credits
 
 Thank you to all the great people / products / services that have enabled rhymes with zion to be open, collaborative, and continuously improve. 
+
+There are plenty of platforms to build a website with user-friendly and intuitive interfaces that enable people with little to no coding skills. Many of these platforms have costs for hosting, templates, and content management systems that can add up to become quite expensive for running a website. Although there are completely free platforms, they usually have limitation when in comes to design and features.
+
+That being said, there are free and/or open source options that have been utilized to meet the needs of this website.
+
+Rhymes with Zion is built, designed, and managed completely on a web-browser, the only expenditure was on the domain name. Here are some of the digital products and tools which have enabled rhymes with zion to exist in its current form:
 
 *  <a href="https://github.com/daattali/beautiful-jekyll" target="_blank">Beautiful Jekyll</a> template by <a href="http://deanattali.com" target="_blank">Dean Attali</a> who provides a brilliant <a href="http://deanattali.com" target="_blank">read-me</a> which guides you how to set-up your own website just like this one within seconds.
 
