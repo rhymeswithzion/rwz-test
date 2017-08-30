@@ -37,7 +37,7 @@
 		  
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
-		<span class="post-meta">Curated by {{ curated: " " }}</span>
+		<span class="post-meta">Curated by {{ page.author }}</span>
 		  {% endif %}
         </div>
       </div>
