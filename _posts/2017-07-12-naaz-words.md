@@ -7,7 +7,7 @@ subtitle: >-
   Naaz's 'Words' perfectly captures the diversity and inclusion of Amsterdam
   which transcends the temporary emergence of uniformity and exclusion
 date: '2017-07-09'
-author: [Ty](https://rwz.io/contributors/ty)
+author: Ty
 ---
 [*Curated by __Ty__*](http://www.rwz.io/contributors/ty)
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
