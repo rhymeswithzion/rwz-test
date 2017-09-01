@@ -6,9 +6,10 @@ date: '2017-08-31'
 image: 'http://img.youtube.com/vi/PA5uuBCtZ5k/mqdefault.jpg'
 subtitle: >-
   Jorja's soulful vocals coupled with Preditah's rhythmic production makes a
-  perfect combination for bringing the UK Garage vibes. With the cool visual
-  aesthetic featuring the Kurupt FM crew makes this music video feel like it's
-  straight from the 90s.
+  perfect combination for bringing the UK Garage vibes, especially since Kurupt
+  FM crew makes an appearance. The throwback sounds with the cool visual
+  aesthetic and stylish fashion makes this music video feel like it's straight
+  from the 90s.
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
@@ -22,7 +23,7 @@ Year: 2017
 </h5>
 <br>
 
-#### Jorja Smith Bio Bio
+#### Jorja Smith Bio
 
 **Jorja Smith** (June 11, 1997) *is a British singer from Walsall in the West Midlands. Jorja's influences range from Mos Def to Lauryn Hill to The Streets. Her music combines storytelling and commentary on social and personal issues.*
 
@@ -62,5 +63,4 @@ And a shout out to Kurupt FM!
 <a class="fa fa-facebook" href="https://www.facebook.com/preditah" target="_blank"> Facebook </a> |
 <a class="fa fa-twitter" href="https://twitter.com/preditah" target="_blank"> Twitter </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/preditah" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/preditah" target="_blank"> Soundcloud </a> 
-
+<a class="fa fa-soundcloud" href="https://soundcloud.com/preditah" target="_blank"> Soundcloud </a>
