@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Jorja Smith - On my Mind
+title: Jorja Smith x Preditah - On my Mind
 date: '2017-08-31'
 image: 'http://img.youtube.com/vi/PA5uuBCtZ5k/mqdefault.jpg'
 subtitle: >-
