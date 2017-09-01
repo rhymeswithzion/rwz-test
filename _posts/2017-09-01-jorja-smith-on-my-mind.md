@@ -6,10 +6,9 @@ date: '2017-08-31'
 image: 'http://img.youtube.com/vi/PA5uuBCtZ5k/mqdefault.jpg'
 subtitle: >-
   Jorja's soulful vocals coupled with Preditah's rhythmic production makes a
-  perfect combination for bringing the UK Garage vibes, especially since Kurupt
-  FM crew makes an appearance. The throwback sounds with the cool visual
-  aesthetic and stylish fashion makes this music video feel like it's straight
-  from the 90s.
+  perfect combination for bringing the UK Garage vibes, especially with the
+  Kurupt FM cameo. The throwback sounds with the cool visual aesthetic and
+  stylish fashion makes this music video feel like it's straight from the 90s.
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
