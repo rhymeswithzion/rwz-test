@@ -36,6 +36,7 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
+		{% assign author = site.data.authors[page.author] %}
 		  <span class="post-meta">Curated by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a> on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
