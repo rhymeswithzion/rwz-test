@@ -3,7 +3,7 @@ layout: minimal
 title: 
 ---
 
-{% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+{% assign random = site.time | date: "%s%N" %}
 
 
-{{ site.posts[random].post }}
+{{ site.posts[random] }}
