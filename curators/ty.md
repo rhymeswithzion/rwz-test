@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ty
-subtitle: null
+subtitle: hip-hop lover from Amsterdam curating the smoothest and coolest vibes from around the world
 published: true
 ---
 <br>
