@@ -470,6 +470,7 @@ footer .theme-by {
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
+  padding-top: 15px
 }
 }
 .intro-header.big-img {
