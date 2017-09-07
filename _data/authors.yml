@@ -7,8 +7,8 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 brian: # replace this with your info
   name: "bríÎìan"
-  url: https://rwz.io/curators/brian
+  web: https://rwz.io/curators/brian
 
 ty:
   name: "Ty's?"
-  url: https://rwz.io/curators/ty
+  web: https://rwz.io/curators/ty
