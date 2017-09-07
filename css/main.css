@@ -201,13 +201,14 @@ img {
   display: inline;
 }
 
+@media only screen and (max-width: 767px) {
 .nav-random-link .nav-random-icon {
   display: none;
-}
+ }
 .nav-random-link .nav-random-text {
   display: inline;
+ }
 }
-
 @media only screen and (min-width: 768px) {
   .nav-search-link .nav-search-icon {
     display: inline;
