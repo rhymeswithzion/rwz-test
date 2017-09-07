@@ -23,7 +23,7 @@ description: a curation of audio/visual works of art
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-nav-random: "random"
+nav-random: 
 navbar-links:
   About: 
     - About rwz: "about"
