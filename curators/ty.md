@@ -3,6 +3,7 @@ layout: page
 title: Ty
 subtitle: hip-hop lover from Amsterdam curating the smoothest and coolest vibes from around the world
 published: true
+curator: ty
 ---
 <br>
 <div style="text-align:center">
