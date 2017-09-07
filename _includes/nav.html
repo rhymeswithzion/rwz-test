@@ -54,29 +54,6 @@
 	{% endif %}
 	
   </div>
-	<script>
-   var posts = [];
-   {% for post in site.posts %}
-      posts.push("{{ post.url }}");
-   {% endfor %}
-
-   $(function() {
-      var goToRandom = function() {}
-         window.location = posts[Math.floor(Math.random() * posts.length)];
-      }
-   });
-</script>
-
-<div class="container">
-   <div class="row-fluid">
-      <div class="navbar">
-         <div>
-            <a id="random" class="random-post pull-right">
-               <i class="icon-random"></i>
-            </a>
-         </div>
-      </div>
-   </div>
-</div>
+	
 </nav> 
 
