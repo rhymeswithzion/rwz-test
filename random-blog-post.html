@@ -1,0 +1,23 @@
+---
+layout: empty
+title: Random Blog Post
+description: This page automatically directs to a (pseudo)random blog post
+permalink: /random-blog-post
+---
+
+<head>
+  <script>
+    function randompostlink() {
+    var postList = [];
+    {% for post in site.posts %}
+    postList.push('{{post.url}}')
+    {% endfor %}
+    var randomPostLink = postList[Math.floor(Math.random() * postList.length)];
+    return randomPostLink;}
+  location.replace(randompostlink())</script>
+</head>
+
+<noscript>
+  <h1>JavaScript is turned off</h1>
+  <p>To get to a random post, you need to turn on javascript</p>
+</noscript>
