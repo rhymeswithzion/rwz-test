@@ -200,11 +200,25 @@ img {
 .nav-search-link .nav-search-text {
   display: inline;
 }
+
+.nav-random-link .nav-random-icon {
+  display: none;
+}
+.nav-random-link .nav-random-text {
+  display: inline;
+}
+
 @media only screen and (min-width: 768px) {
   .nav-search-link .nav-search-icon {
     display: inline;
   }
   .nav-search-link .nav-search-text {
+    display: none;
+  }
+  .nav-random-link .nav-random-icon {
+    display: inline;
+  }
+  .nav-random-link .nav-random-text {
     display: none;
   }
 }
