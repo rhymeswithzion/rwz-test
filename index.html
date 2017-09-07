@@ -49,15 +49,15 @@ description: Rhymes with Zion provides a digital space which curates audio/visua
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer</a>
   </li>
   {% endif %}
 <li class="random">
-    <a href="https://rwz.io/random-blog-post">Random &infin; Post</a>
+    <a href="https://rwz.io/random-blog-post">&infin; Random &infin;</a>
   </li>
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older &rarr;</a>
   </li>
   {% endif %}
 </ul>
