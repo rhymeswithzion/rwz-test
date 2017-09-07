@@ -53,12 +53,12 @@ avatar: "/img/rwz-icon.png"
 
 author:
   brian: 
-    name: "bríÎìan"
-    web: "https://rwz.io/curators/brian"
+    name: bríÎìan
+    web: https://rwz.io/curators/brian
 
   ty:
-    name: "Ty's?"
-    web: "https://rwz.io/curators/ty"
+    name: Ty's?
+    web: https://rwz.io/curators/ty
 
 
 # Select which links to show in the footer
