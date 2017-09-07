@@ -9,7 +9,7 @@ description: Rhymes with Zion provides a digital space which curates audio/visua
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-	   
+{% assign author = site.data.authors[page.author] %}	   
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 	    
@@ -20,7 +20,7 @@ description: Rhymes with Zion provides a digital space which curates audio/visua
 	    {% endif %}
            </a>
 {% if post.author %}
-	 {% assign author = site.data.authors[page.author] %}
+	 
 <p class="post-meta">
       Curated by <by <a href="{{ author.web }}" target="_blank">{{ author.name }}</.a?
     </p>
