@@ -215,7 +215,10 @@ img {
   .nav-search-link .nav-search-text {
     display: none;
   }
-  .nav-random-link .nav-random-icon {
+}
+
+@media only screen and (min-width: 768px) {
+   .nav-random-link .nav-random-icon {
     display: inline;
   }
   .nav-random-link .nav-random-text {
