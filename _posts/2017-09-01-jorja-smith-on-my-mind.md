@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Jorja Smith x Preditah - On my Mind
 date: '2017-08-31'
+author: brian
 image: 'http://img.youtube.com/vi/PA5uuBCtZ5k/mqdefault.jpg'
 subtitle: >-
   Jorja's soulful vocals coupled with Preditah's rhythmic production makes a
@@ -12,7 +13,7 @@ subtitle: >-
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PA5uuBCtZ5k?rel=0&showinfo=0" frameborder='0' width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/PA5uuBCtZ5k?rel=0" frameborder='0' width="560"></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artist: Jorja Smith <br>
