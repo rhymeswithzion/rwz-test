@@ -50,23 +50,7 @@ avatar: "/img/rwz-icon.png"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Rhymes with Zion
-  email: "rhymeswithzion@gmail.com"
-  facebook: rhymeswithzion  # eg. daattali
-  github: rhymeswithzion    # eg. daattali
-  twitter: rhymeswithzion   # eg. daattali
-  reddit: rhymeswithzion    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: rhymeswithzion # eg. daattali
-  youtube: channel/UCdh4VkJeIQRJulkKqEFQwsA   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  soundcloud: rhymeswithzion
+
 
 # Select which links to show in the footer
 footer-links-active:
