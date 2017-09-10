@@ -29,7 +29,7 @@ As mentioned [above](#what-rhymes-with-zion-isnt) rhymes with zion is not commer
 <div style="text-align:center">
 <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Rhymes With Zion', '#474747', 'A2301UI5');kofiwidget2.draw();</script> 
 </div>
-<br>
+
 If you are not interested in contributing your time or money to the website but still enjoy it, there are plenty of other ways which you can support rhymes with zion:
 
 * Share it with others, tell people how awesome this website is (and if you don't think it is awesome <a href="https://rwz.io/feedback" target="_blank">tell us how we can improve</a>
