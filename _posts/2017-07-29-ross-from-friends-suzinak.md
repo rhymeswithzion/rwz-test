@@ -4,6 +4,7 @@ published: true
 title: Ross From Friends - Suzinak
 image: 'http://img.youtube.com/vi/zKJdW07BR7U/mqdefault.jpg'
 date: '2017-07-29'
+author: brian
 subtitle: >-
   The music created by Ross From Friends never dissapoints, and neither has his
   first visuals for track number 5 of 'the Outsiders' EP. This outstanding lo-fi
