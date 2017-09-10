@@ -50,7 +50,9 @@ authors:
   ty:
     name: Ty
     web: https://rwz.io/curators/ty
-
+  msz:
+    name: Ms. Z
+    web: https://rwz.io/curators/msz
 
 # Select which links to show in the footer
 footer-links-active:
