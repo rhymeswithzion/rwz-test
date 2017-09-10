@@ -24,7 +24,7 @@ Year: 2017
 
 Ever since the bedroom producer Ross From Friends released the critically acclaimed ['Talk To Me You'll Understand ](https://www.youtube.com/watch?v=8tKKNV5sXUs) in 2015, he has been considered an emerging artist to watch-out for. Those lucky enough to experience his live performance alongside two bandmates playing keys in guitar know how phenomenal his music is, but those who havent [check this out.](http://www.rwz.io/ross-from-friends-live/)  Now 2 years later, with the recent release of [The Outsiders EP](https://magicwire.bandcamp.com/album/the-outsiders) backed by London-based Magicwire recordings, the DJ gains even more recognition for his talented and unique productions. Accompanying visuals have been brilliantly created by Matt Woddham to complement the mesmerising sound in Ross From Friends' first music video, which we all look forward to seeing and experiencing more of. 
 
-#### Artist Bio
+#### Ross From Friends Bio
 
 Felix Weatherall aka Ross From Friends is a leading figure in the emergent lo-fi scene, which has evolved from an online community of fresh-faced producers into a palpable underground phenomenon.
 
