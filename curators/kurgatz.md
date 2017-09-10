@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kurgatz
+title: Adam Kurgatz
 subtitle: Funk and soul lover who is constantly experience inspiration for songwriting and creating music
 ---
 <br>
