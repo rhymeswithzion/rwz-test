@@ -31,7 +31,7 @@ Year: 2017
 
 His interest in music began at the ripe age of five after his parents took him to a few classical concerts and he began to play the violin. By nine, he was playing guitar and by eleven he'd begun creating his own compositions.* 
 
-Read more about Tom Misch on [Famous Birthdays](http://www.famousbirthdays.com/people/uncle-sego.html) and his [interview with i-D](https://i-d.vice.com/en_uk/article/bjnpjq/get-to-know-killer-producer-tom-misch-as-we-share-the-exclusive-of-his-latest-track)
+Read more about Tom Misch on <a href="http://www.famousbirthdays.com/people/tom-misch.html" target="_blank">Famous Birthdays</a> and his <a href="https://i-d.vice.com/en_uk/article/bjnpjq/get-to-know-killer-producer-tom-misch-as-we-share-the-exclusive-of-his-latest-track" target="_blank">interview with i-D</a>.
 
 Unfortunately there is not a wikipedia page for Tom Misch, but when there is please [email rwz](mailto:rhymeswithzion@gmail.com) so this post can be updated.
 
