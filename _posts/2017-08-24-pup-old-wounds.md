@@ -4,13 +4,14 @@ published: true
 title: PUP - Old Wounds
 image: 'http://img.youtube.com/vi/5ty4QADcwgs/mqdefault.jpg'
 date: '2017-08-24'
+author: brian
 subtitle: >-
   The Canadian punk band out does themselves yet again with their new visuals
   for the track 'Old Wounds' from the Dream is Over EP. The fusion between a
   music video and choose your own adventure video game makes this a unique
   experience and an immersive audio-visual art.
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/5ty4QADcwgs' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br><div class='embed-container'><iframe src='https://www.youtube.com/embed/5ty4QADcwgs' frameborder='0' allowfullscreen></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artist: PUP <br>
