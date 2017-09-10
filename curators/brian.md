@@ -17,7 +17,7 @@ You will probably find me trying to get others involved with rhymeswithzion, as 
 
 As a lover of philosophy, I believe there are no new ideas under the sun. This brings my affinity to hip-hop, since I love the iterative approach it takes by creating new sounds from old samples. I am a huge fan of animation and live of the floor performance. So when it is curated by me, expect lots of hip-hop / animation / and live performances. 
 
-Also, as a Canadian living in the UK I have an unconscious bias to predominantly share artists that are based in either of these two places (not to mention there is some great stuff being produced from these two creative hubs) but I am open to all works of art from around the world and open to all genres / styles. I hope you enjoy the audio-visual works of art curated by me, and please do [provide feedback](https://rwz.io/feedback/) so I can continuously improve.   
+Also, as a Canadian living in the UK I have an unconscious bias to predominantly share artists that are based in either of these two places (not to mention there is some great stuff being produced from these two creative hubs) but I am open to all works of art from around the world and open to all genres / styles. I hope you enjoy the audio-visual works of art curated by me, and please do [provide feedback](https://rwz.io/feedback/).  
 
 #### Connect 
 
@@ -32,10 +32,10 @@ Also, as a Canadian living in the UK I have an unconscious bias to predominantly
 
 I need to figure out a way to automate all the posts which I have curated to be updated as a list in this section. In the mean time here are a few:
 
-[Cosmo Pyke - Wish You Were Gone](https://rwz.io/cosmo-pyke-wish-you-were-gone/)
-[Flying Lotus - Zodiac Shit](https://rwz.io/flying-lotus-zodiac-shit/)
-[Isaiah Rashad- 4r Da Squaw](https://rwz.io/isaiah-rasha-4r-da-squaw/)
-[Jorja Smith x Preditah - On my Mind](https://rwz.io/jorja-smith-on-my-mind/)
-[Masego - Navejo](https://rwz.io/masego-navajo/)
-[Saint - A Lovely Bargain](https://rwz.io/saint-a-lovely-bargain-live-of-the-floor/)
+[Cosmo Pyke - Wish You Were Gone](https://rwz.io/cosmo-pyke-wish-you-were-gone/)<br>
+[Flying Lotus - Zodiac Shit](https://rwz.io/flying-lotus-zodiac-shit/)<br>
+[Isaiah Rashad- 4r Da Squaw](https://rwz.io/isaiah-rasha-4r-da-squaw/)<br>
+[Jorja Smith x Preditah - On my Mind](https://rwz.io/jorja-smith-on-my-mind/)<br>
+[Masego - Navejo](https://rwz.io/masego-navajo/)<br>
+[Saint - A Lovely Bargain](https://rwz.io/saint-a-lovely-bargain-live-of-the-floor/)<br>
 [Vic Mensa - Say I Didn't](https://rwz.io/vic-mensa-didnt-i/)
