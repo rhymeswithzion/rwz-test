@@ -35,7 +35,7 @@ Year: 2017
 
 *Smith has been covered in the UK national press and has been tipped by the BBC and Evening Standard as one of the UK's most up and coming artists. Jorja was one of 15 artists selected for the BBC's 15 Sound of 2017 longlist. She came 4th, with Ray BLK as the winner. FACT Mag also named Smith as one of their 10 Pop and R&B artists to watch in 2017.* 
 
-[Read more about Jorja Smith on Wikipedia](https://en.wikipedia.org/wiki/Jorja_Smith)
+<a href="https://en.wikipedia.org/wiki/Jorja_Smith" target="_blank">Read more about Jorja Smith on Wikipedia</a>
 
 #### Attributions
 
