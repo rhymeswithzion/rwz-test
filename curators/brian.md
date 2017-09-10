@@ -15,7 +15,9 @@ You will probably find me trying to get others involved with rhymeswithzion, as 
 
 #### Influences
 
-As a lover of philosophy, I believe there are no new ideas under the sun. This brings my affinity to hip-hop, since I love the iterative approach it takes by creating new sounds from old samples. Also, as a Canadian living in the UK I have a subconcious biase to predominantly share artists that are based in either of these two places (not to mention there is some great stuff being produced from these two creative hubs).  
+As a lover of philosophy, I believe there are no new ideas under the sun. This brings my affinity to hip-hop, since I love the iterative approach it takes by creating new sounds from old samples. I am a huge fan of animation and live of the floor performance. So when it is curated by me, expect lots of hip-hop / animation / and live performances. 
+
+Also, as a Canadian living in the UK I have an unconscious bias to predominantly share artists that are based in either of these two places (not to mention there is some great stuff being produced from these two creative hubs) but I am open to all works of art from around the world and open to all genres / styles. I hope you enjoy the audio-visual works of art curated by me, and please do [provide feedback](https://rwz.io/feedback/) so I can continuously improve.   
 
 #### Connect 
 
