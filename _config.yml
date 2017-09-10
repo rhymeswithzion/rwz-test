@@ -27,9 +27,6 @@ nav-random: "Random"
 navbar-links:
   About: "about"
   Get Involved: "get-involved"
-    - Submissions: "submissions"
-    - Feedback: "feedback"
-    - Support: "support"
   Contact: "contact"
 nav-search: "search"
 
