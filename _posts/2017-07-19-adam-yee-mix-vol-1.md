@@ -4,6 +4,7 @@ published: true
 title: Adam Yee - Mix Vol. 1
 image: 'http://img.youtube.com/vi/gfOTUoSWums/mqdefault.jpg'
 date: '2017-07-19'
+author: brian
 subtitle: >-
   A dark yet soulful foray into the DJ's eclectic musical tastes, while staying
   true to the sounds of London. Enjoy 30 minutes of sound accompanied by
@@ -22,7 +23,7 @@ Year: 2017
 
 After a chance meeting at Pizza East, Adam was more than happy to contribute a dedicated mix to rhymes with zion that showcases his eclectic musical taste with references of past, present and future sounds combined in a concise yet varied 30 min mix. The diverse and hypnotic sounds are accompanied by complimentary visuals that will be sure to make you want to dance and put a smile on your face. Watch and listen in it's entirity to truly experience this audio-visual work of art to the fullest. 
 
-#### Artist Bio
+#### Adam Yee Bio
 
 Adam Yee, is a British-born artist and DJ. After what was initially just a casual hobby through meeting a few DJ's at university, he then started to get himself involved on the scene by becoming known for being able to seamlessly mix together a patchwork techno, house, dubstep, and everything in between.  This increasing reputation, as well as a short stint at Vice where he got to work alongside the team at Boiler Room, eventually earned him sets at the more well known clubs in London such as XOYO, Ministry of Sound and Corsica Studios.
 
