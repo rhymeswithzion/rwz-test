@@ -2,7 +2,6 @@
 layout: page
 title: Contact Us
 subtitle: 
-css: "/css/contact.css"
 ---
 
 Rhymes with zion aims to be as open, collaborative, and constantly striving for further improvement as possible. That means, we are always happy to hear from you for any reason, so please do not hestiate to [get in touch](#how-to-get-in-touch) and don't forget to [connect with rhymeswithzion across the interwebs](#connect-across-the-web)
