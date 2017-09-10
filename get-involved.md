@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Get Involved
+title: Get Involved
 subtitle: Interested in being more than just a passive viewer and want to actively get involved. Great! There are plenty of ways in which you can help contribute to this collaborative and open project.
 ---
 
