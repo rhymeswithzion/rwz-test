@@ -1,4 +1,5 @@
 ---
+layout: minimal
 title: Contact Us
 subtitle: 
 css: "/css/contact.css"
