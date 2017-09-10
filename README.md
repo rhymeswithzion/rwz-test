@@ -8,6 +8,7 @@
 * [About ](#about)
    * [Our Ethos](#our-ethos)
    * [Weekly Schedule](#importing-vcards-cli-only)
+   * [FAQs](#frequently-asked-questions)
 * [Get Involved](#get-involved)
    * [How to get Involved](#how-to-get-involved)
    * [Curate](#curate)
@@ -37,7 +38,7 @@ This website remains as inclusive as possible and tries it's best to be accessib
 
 ### What rhymes with zion isn't
 
-Rhymes with Zion is unfortunately not the place to find out what rhymes with zion. Luckily, there are <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">plenty of websites</a> which provide that service. It also, is not on the front-page of google (as you may have seen if you clicked that link above). 
+Rhymes with Zion is unfortunately not the place to find out what rhymes with zion. Luckily, there are <a href="http://lmgtfy.com/?q=rhymes+with+zion" target="_blank">plenty of websites</a> which provide that service. It also, is not on the front-page of google (as you may have seen if you clicked that link above). 
 
 Rhymes with Zion is not a website for self-promotion. Although it encourages contribution through the [curation](#curate) and [individual submissions](#submissions) of their favourite audio-visual works of art, it is not a place for artists to share their own work. By sharing the work of others, you can indirectly promote yourself through your [contributor's page](http://www.rwz.io/contributors/test). That does not mean the audio-visual works of art created by contributors can't be shared on the site, it just has to be curated by another contributor who did not help create it.
 
@@ -45,8 +46,7 @@ Rhymes with Zion is not commercially driven in any way. It does not have a profi
 
 ## About
 
-The internet has changed the way we see and connect with the world, others, and ourselves. It has enabled digital media to become a ubiquitous throughout society. 
-
+The internet has changed the way we see and connect with the world, others, and ourselves. It has enabled digital media to become a ubiquitous throughout society. Rhymes with zion provides a place within cyberspace which curates audio-visual works of art that provides perspective of different cultural worldviews, connects you with a variety of artists and others, and presents these works of art as an intrinsic value in itself to enable the viewer to reflect on their experience. 
 
 ### Our Ethos
 
@@ -54,20 +54,23 @@ Rhymes with Zion strives to provide an environment which embraces inclusivity an
 
 #### Openness
 
-
+Whether it is open source software or being open to different cultural worldviews through presenting a diverse tapestry of art, rhymes with zion embraces an ethos of openness. All the code is accessible on a public repository and it is made available for others to use with an MIT license. The project does not limit itself to a particular genre or style of audio-visual works of art through the recognition that art opens up a perception of cultural worldviews, and therefore the more variety of art made available on rhymes with zion the better it is for openning oneself up to different ways to see the world. 
 
 #### Collaboration
 
-
+T
 
 #### Continuous Improvement
 
-
+We recognize that Rhymes with Zion will never be perfect, and will not necessarily meet the needs of all it’s users all the time but there is always room for improvement. The website has been developed in an agile way, and it [takes the feedback of it’s users](#feedback) to constantly strive to improve the product. 
 
 ### Weekly Schedule
 
-The website tries to keep some consistency by posting one audio/visual work of art a day for 2017. To find our more, <a href="http://www.rwz.io/weekly-sched/" target="_blank">vist the webpage<a/> or if you want to nerd out a bit than stay-on github to <a href="https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/weekly-sched.md" target="_blank">read it in markdown</a>  
+The website tries to keep some consistency by posting one audio/visual work of art a day. To find our more, <a href="http://www.rwz.io/weekly-sched/" target="_blank">vist the webpage<a/>.
 
+### Frequently Asked Questions
+
+Lots of questions have been asked and will be asked about the project, and the most frequently asked questions need to be collated and presented on the website. Currently there are not enough questions being repetitively asked, so if you have any questions than  
 
 ## Get Involved
 
@@ -75,7 +78,7 @@ Interested in being more than just a passive viewer and want to actively get inv
 
 ### How to get involved
 
-This website is built openly and is inclusive to all, enabling many ways for you to get involved. Whether you are an art-lover, creative, developer, or designer, rhymes with zion is an inclusive space for collaboration. The main way to get involved is to contribute, whether it be providing content by becoming a [curator](#curate) or [individual submissions](#submissions). If you are not interested in contributing content, you can still get involved through providing [feedback](#feedback) which will help continuously improve your experience. If generating content or feedback forms are not your thing but you still want to get involved, there are plenty [other ways to support]
+This website is built openly and is inclusive to all, enabling many ways for you to get involved. Whether you are an art-lover, creative, developer, or designer, rhymes with zion is an inclusive space for collaboration. The main way to get involved is to contribute, whether it be providing content by becoming a [curator](#curate) or [individual submissions](#submissions). If you are not interested in contributing content, you can still get involved through providing [feedback](#feedback) which will help continuously improve your experience. If generating content or feedback forms are not your thing but you still want to get involved, there are plenty [other ways to support](#other-ways-to-support).
 
 ### Curate
 
@@ -111,11 +114,11 @@ Rhymes with zion aims to be as open, collaborative, and constantly striving for 
 
 If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to <a href="mailto:rhymeswithzion@gmail.com" target="_blank">rhymeswithzion [at] gmail.com</a> with 'Curate' as the subject line. 
 
-Stand-alone submissions - complete the <a href="http://rwz.io/submissions" target="_blank">submission form</a>
+Stand-alone submissions - complete the <a href="https://rwz.io/submissions" target="_blank">submission form</a>
 
-Feedback - please fill out the <a href="http://rwz.io/contact" target="_blank">feedback form</a>
+Feedback - please fill out the <a href="https://rwz.io/feedback" target="_blank">feedback form</a>
 
-Any other enquiries use the <a href="http://rwz.io/contact" target="_blank">contact form</a> 
+Any other enquiries use the <a href="https://rwz.io/contact" target="_blank">contact form</a> 
 
 ### Connect across the web
 
