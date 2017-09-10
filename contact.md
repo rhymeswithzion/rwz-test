@@ -1,9 +1,12 @@
 ---
 title: Contact Us
-subtitle: Rhymes with zion aims to be as open, collaborative, and constantly striving for further improvement as possible. That means, we are always happy to hear from you for any reason, so please do not hestiate to get in touch and don't forget to connect with rhymeswithzion across the interwebs
+subtitle: 
 css: "/css/contact.css"
-
 ---
+
+Rhymes with zion aims to be as open, collaborative, and constantly striving for further improvement as possible. That means, we are always happy to hear from you for any reason, so please do not hestiate to [get in touch](#how-to-get-in-touch) and don't forget to [connect with rhymeswithzion across the interwebs](#connect-across-the-web)
+
+### How to get in touch
 
 If you would like to curate, complete the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">curator's template</a> and send it to <a href="mailto:rhymeswithzion@gmail.com" target="_blank">rhymeswithzion [at] gmail.com</a> with 'Curate' as the subject line. 
 
