@@ -4,6 +4,7 @@ published: true
 title: Jonti - Scrood (feat. Steve Lacy)
 image: 'http://img.youtube.com/vi/2FgoQJMOluw/mqdefault.jpg'
 date: '2017-07-23'
+author: brian
 subtitle: >-
   This dreamy musical production from Jonti and Steve Lacy accompanied by
   ethereal visuals make this music video from Stone's Throw records a 202 second
@@ -11,7 +12,7 @@ subtitle: >-
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/2FgoQJMOluw" width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/2FgoQJMOluw?rel=0" width="560"></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artists: Jonti featuring Steve Lacy <br>
