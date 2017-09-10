@@ -26,6 +26,7 @@ IF you are interested in contributing to the website, but do not want to commit 
 
 As mentioned <a href="https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#what-rhymes-with-zion-isnt" target="_blank">in our documentation</a>, rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
 <br>
+<button name="button" onclick="http://bit.ly/2uNi1tj">Click me</button>
 <div style="text-align:center">
   [Support rwz.io Monzo.Me](http://bit.ly/2uNi1tj){: .btn}
 <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Rhymes With Zion', '#474747', 'A2301UI5');kofiwidget2.draw();</script> 
