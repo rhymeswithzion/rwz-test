@@ -212,6 +212,13 @@ img {
 .nav-random-link .nav-random-text {
   display: inline;
  }
+  
+ .nav-contact-link .nav-contact-icon {
+  display: none;
+ }
+.nav-contact-link .nav-contact-text {
+  display: inline;
+ }
 }
 @media only screen and (min-width: 768px) {
   .nav-search-link .nav-search-icon {
@@ -227,6 +234,12 @@ img {
     display: inline;
   }
   .nav-random-link .nav-random-text {
+    display: none;
+  }
+  .nav-contact-link .nav-contact-icon {
+    display: inline;
+  }
+  .nav-contact-link .nav-contact-text {
     display: none;
   }
 }
