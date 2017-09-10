@@ -24,7 +24,7 @@ IF you are interested in contributing to the website, but do not want to commit 
 
 ### Other ways to support
 
-As mentioned [in our documentation](https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#what-rhymes-with-zion-isnt), rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
+As mentioned <a href="https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#what-rhymes-with-zion-isnt" target="_blank">in our documentation</a>, rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
 <br>
 <div style="text-align:center">
 <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Rhymes With Zion', '#474747', 'A2301UI5');kofiwidget2.draw();</script> 
@@ -35,7 +35,7 @@ If you are not interested in contributing your time or money to the website but 
 * Share it with others, tell people how awesome this website is (and if you don't think it is awesome <a href="https://rwz.io/feedback" target="_blank">tell us how we can improve</a>
 * <a href="https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#connect-across-the-web" target="_blank">Connect with us across the web</a> by following and engaging with rhymeswithzion on our various digital platforms we are a part of.
 * Support the artists you've experienced and enjoyed through rwz.io
-* Take care of yourself, use this website for therapeutic purposes and embrace the works of art which are presented for their intrinsic value. Take some time to reflect and improve your well-being. By improving yourself, you are improving the world and indirectly improving the site.
+* Take care of yourself, use this website for therapeutic purposes and embrace the works of art which are presented for their intrinsic value. Take some time to reflect and improve your well-being. By improving yourself, you are improving your relationship with others and indirectly improving the world (and indirectly improving rwz.io).
 <br><br>
 
 ### Thank you for the support, rwz.io appreciates all the love
