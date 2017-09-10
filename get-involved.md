@@ -16,15 +16,15 @@ If you are interested in becoming a contributor and curate rhymes with zion's au
 
 # Feedback
 
-We strive for continuous improvement of the website and the ideas behind it.. Whether you think the build, content, design, scope, or just overall user experience of rhymes with zion can be improved, we would love to hear your <a href="http://rwz.io/feedback" target="_blank">feedback</a>. 
+We strive for continuous improvement of the website and the ideas behind it.. Whether you think the build, content, design, scope, or just overall user experience of rhymes with zion can be improved, we would love to hear your [feedback](http://rwz.io/feedback).
 
 # Submissions
 
-There are plenty of days left in 2017 (both backtracking and moving forward) that need a post sharing an audio-visual work of art to fill its empty void. If you have a posting idea than please fill out the <a href="http://www.rwz.io/submissions" target="_blank">submission form</a> on the website. 
+IF you are interested in contributing to the website, but do not want to commit to becoming a curator then you can do a one-off submission of an individual post. There is always a need for more audio-visual work of art to fill rwz.io infinite void. If you have a posting idea than please fill out the [submission form](https://www.rwz.io/submissions) on the website. 
 
 ### Other ways to support
 
-As mentioned [above](#what-rhymes-with-zion-isnt) rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
+As mentioned [in our documentation](https://github.com/rhymeswithzion/rhymeswithzion.github.io/blob/master/README.md#what-rhymes-with-zion-isnt), rhymes with zion is not commercially driven and there is no profits being earned from the website. That being said, there still is a cost for rhymes with zion to be able to sustain and monetary support enables this sustainability. If you like what we are doing but are not interested in actively getting involved, consider a one-off financial support through [monzo.me](http://bit.ly/2uNi1tj) or [kofi](http://ko-fi.com/rwzion)
 <br>
 <div style="text-align:center">
 <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Rhymes With Zion', '#474747', 'A2301UI5');kofiwidget2.draw();</script> 
@@ -38,4 +38,4 @@ If you are not interested in contributing your time or money to the website but 
 * Take care of yourself, use this website for therapeutic purposes and embrace the works of art which are presented for their intrinsic value. Take some time to reflect and improve your well-being. By improving yourself, you are improving the world and indirectly improving the site.
 <br><br>
 
-### Thank you for the support, rwz.io appreciates all the love and positive vibes
+### Thank you for the support, rwz.io appreciates all the love
