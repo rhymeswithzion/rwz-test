@@ -32,20 +32,20 @@
         {% endif %}
         {% endfor %}
 		
-	        {% if site.nav-random %}
-		<li>
-		  <a href="https://rwz.io/random" class="nav-random-link" title="Random">
-		    <span class="fa fa-random nav-random-icon"></span>
-			<span class="nav-random-text">Random</span>
-		  </a>
-		</li>
-		{% endif %}
-	      
 	      {% if site.nav-contact %}
 		<li>
 		  <a href="https://rwz.io/contact/" class="nav-contact-link" title="Contact">
 		    <span class="fa fa-envelope-o nav-contact-icon"></span>
 			<span class="nav-contact-text">Contact</span>
+		  </a>
+		</li>
+		{% endif %}
+	      
+	        {% if site.nav-random %}
+		<li>
+		  <a href="https://rwz.io/random" class="nav-random-link" title="Random">
+		    <span class="fa fa-random nav-random-icon"></span>
+			<span class="nav-random-text">Random</span>
 		  </a>
 		</li>
 		{% endif %}
