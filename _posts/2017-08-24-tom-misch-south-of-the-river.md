@@ -10,6 +10,7 @@ subtitle: >-
   vibes make them a perfect visual back-drop for this groovy sound. Big up to
   everyone situated south of the river.
 image: 'http://img.youtube.com/vi/NdJHvUTWx6c/mqdefault.jpg'
+author: brian
 ---
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
