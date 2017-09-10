@@ -28,10 +28,10 @@ As an emerging artist, there is not much information about Aiwake. All that is k
 Directed and Edited by: Andrew Hamilton <br>
 Produced by: Ram Accoumeh and Andrew Hamilton <br>
 Director of Photography: Nick Kachibaia <br>
-<br><br>
+<br>
 Actress: Eleni Nico
 <br><br>
-Art Department: Allison Zwicker<br><br
+Art Department: Allison Zwicker<br>
 Wardrobe: Barbara Bogar<br>
 Hair and Make-Up: Nicole Soo<br>
 Colourist: Kevin Luttman<br>
