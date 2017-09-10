@@ -34,4 +34,5 @@ If you are not interested in contributing your time or money to the website but 
 * Support the artists you've experienced and enjoyed through rwz.io
 * Take care of yourself, use this website for therapeutic purposes and embrace the works of art which are presented for their intrinsic value. Take some time to reflect and improve your well-being. By improving yourself, you are improving the world and indirectly improving the site.
 <br><br>
+
 ### Thank you for the support, rwz.io appreciates all the love and positive vibes
