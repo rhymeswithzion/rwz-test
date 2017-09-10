@@ -19,8 +19,7 @@ Growing up studying music and idolizing bands, The Beatles will always be on the
 
 #### Connect 
 
-<a class="fa fa-envelope-o" href="mailto:akurgatn@gmail.com" target="_blank"> Email</a> |
-
-<a class="fa fa-instagram" href="https://www.instagram.com/a_kurgatz" target="_blank"> Instagram</a> |
+<a class="fa fa-envelope-o" href="mailto:akurgatn@gmail.com" target="_blank"> Email</a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/a_kurgatz" target="_blank"> Instagram</a>
 
 #### Posts Curated by Kurgatz
