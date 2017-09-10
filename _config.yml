@@ -25,13 +25,8 @@ description: a curation of audio/visual works of art
 # List of links in the navigation bar
 nav-random: "Random"
 navbar-links:
-  About: 
-    - About rwz: "about"
-    - Our Ethos: "our-ethos"
-    - Weekly Schedule: "weekly-sched"
-    - FAQs: "faqs"
-  Get Involved:
-    - How to get involved: "get-involved"
+  About: "about"
+  Get Involved: "get-involved"
     - Submissions: "submissions"
     - Feedback: "feedback"
     - Support: "support"
