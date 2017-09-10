@@ -72,21 +72,6 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
   color: #cbc6c1;
 }
 
-body {
-  font-family: 'Lato', sans-serif;
-  font-size: 18px
-  background: #fff;
-  color: #404040;
-}
-
-header {
-  position: relative;
-  margin: 100px 0 25px 0;
-  font-size: 2.3em;
-  text-align: center;
-  letter-spacing: 7px;
-}
-
 #form {
   position: relative;
   width: 100%;
