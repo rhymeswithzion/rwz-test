@@ -5,7 +5,7 @@ subtitle: Funk and soul lover who is constantly experience inspiration for songw
 ---
 <br>
 <div style="text-align:center">
-<img src ="/img/kurgatz.png"/>
+<img src ="/img/kurgatz.png">
 </div>
 <br>
 
@@ -19,7 +19,7 @@ Growing up studying music and idolizing bands, The Beatles will always be on the
 
 #### Connect 
 
-<a class="fa fa-envelope-o" href="mailto:akurgatn@gmail.com" target="_blank"> Email </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/a_kurgatz" target="_blank"> Instagram </a> |
+<a class="fa fa-envelope-o" href="mailto:akurgatn@gmail.com" target="_blank">Email</a> |
+<a class="fa fa-instagram" href="https://www.instagram.com/a_kurgatz" target="_blank">Instagram</a> |
 
 #### Posts Curated by Kurgatz
