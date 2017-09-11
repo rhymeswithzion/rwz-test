@@ -12,7 +12,6 @@ subtitle: >-
 image: 'http://img.youtube.com/vi/NdJHvUTWx6c/mqdefault.jpg'
 author: brian
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NdJHvUTWx6c?rel=0" width="560"></iframe></div>
 <br>
@@ -49,4 +48,4 @@ Edited by Tom Ewbank & Tom Misch
 <a class="fa fa-twitter" href="https://twitter.com/tommisch" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/tommisch" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/tommisch" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/tommisch" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/tommisch" target="_blank"> Soundcloud </a>
