@@ -8,10 +8,11 @@ subtitle: >-
   is dropping rhymes over a smooth looped sample of Freddie Joachim's 'Waves'
   and visuals shot by Scott Lazer
 image: 'http://img.youtube.com/vi/wvFDXV0VBg4/mqdefault.jpg'
+author: brian
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/wvFDXV0VBg4?rel=0&amp;showinfo=0" width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/wvFDXV0VBg4?rel=0" width="560"></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artist: J. Cole <br>
@@ -22,13 +23,7 @@ Year: 2016
 <br>
 
 
-#### Why it rhymes with zion?
-
-This goes more in depth into the intro blurb, still should not be more than a paragrpah;- The instrumental, what is so great about the beat/tune
-
-- the lyrics, what enlightening wisdom or wordplay is going on
-
-- the video, what makes
+False Prophets is a great simplistic tune with a minimalistic yet jazzy sample looped to make a great instrumental, poetic lyrics that keep it authentic, and the sound is accompanied beautifully simple visuals that embrace a chill pink and cyan aesthetic. This goes to show that lo-fi (and low-budget) production in both the sound and visuals does not equal low-quality, because J Cole's False Prophets is a timeless and instant classic.
 
 
 #### Artist Bio
