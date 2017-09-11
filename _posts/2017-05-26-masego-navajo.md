@@ -12,7 +12,7 @@ author: brian
 ---
 <br />
 <div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/fuAE3U1NvOs?rel=0&am;showinfo=0" width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/fuAE3U1NvOs?rel=0" width="560"></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artist: Masego <br>
