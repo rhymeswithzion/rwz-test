@@ -7,7 +7,7 @@ Here are a list of curators who regularly contribute to the website:
 
 <ul>
   {% for author in site.authors %}
-    <li><a href="{{ author.url }}">{{ author.title }}</a></li>
+    <li><a href="{{ author.web }}">{{ author.name }}</a></li>
   {% endfor %}
 </ul>
 
