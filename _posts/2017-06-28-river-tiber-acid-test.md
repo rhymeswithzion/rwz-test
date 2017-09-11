@@ -5,12 +5,15 @@ title: River Tiber - Acid Test
 date: '2017-01-28'
 image: 'http://img.youtube.com/vi/6Dj14UqY1kY/mqdefault.jpg'
 subtitle: >-
-  One or two lines which explain how this post is sharing an audio-visual work
-  of art.
+  Acid Test takes River Tiber through a kaleidoscopic journey as the skies and
+  rooftops of Morocco come to life. Toronto’s very own Grandson & Son and Tommy,
+  are able to transform a dream into reality using psychedelic and breathtaking
+  technique that will now make acid in Morocco friendly for all ;)
+author: krausz
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6Dj14UqY1kY" width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6Dj14UqY1kY?re;=0" width="560"></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artist: River Tiber <br>
@@ -18,30 +21,31 @@ Label: Unsigned <br>
 Location: Born and Based in Toronto, Filmed in Morocco <br>
 Year: song released May 2016, video released January 2017
 </h5>
-<br>
-Acid takes River Tiber through a kaleidoscopic journey as the skies and rooftops of Morocco come to life. Toronto’s very own Grandson & Son and Tommy, are able to transform a dream into reality using psychedelic and breathtaking technique that will now make acid in Morocco friendly for all ;)  
+<br>  
 
-#### Artist Bio
+#### River Tiber Bio
 
-provide a little Bio of what is known - can be taken from Wikipedia or Last.FM<br />
+**Tommy Paxton-Beesly** (born 1991) *is a Toronto producer better known as* **River Tiber**. *He started his professional career writing for hip-hop artists, which kickstarted his own solo ventures into textured alt-R&B atmospherics similar to Kaytranada, BadBadNotGood, Boots, and Knxwledge. Born Tommy Paxton-Beesley, the classically trained musician mastered the cello at a young age, later learning drums, trombone, and guitar. Outside of art school, he looked to non-classical artists like Jimi Hendrix, D'Angelo, and Kanye West for inspiration. After graduating from Berklee College, the singer-producer-musician returned to Toronto. In addition to crafting beats for artists like Travi$ Scott, Ghostface Killah, and Jazz Cartier, his song "No Talk" was sampled by Drake on "No Tellin'" (from his fellow Torontonian's 2015 mixtape If You're Reading This It's Too Late). His first EP, The Star Falls, arrived in 2013. The downtempo collection was followed by the "Prophets" single, a skittering track that revealed his love for Radiohead (in addition to Jeff Buckley, Paxton-Beesley counts Thom Yorke as one of his major vocal inspirations). Sophomore EP When the Time Is Right was released in 2015. In addition to "Illusions" -- a single featuring Pusha T and Kaytranada -- Paxton-Beesley unveiled his debut LP Indigo in 2016. Continuing to collaborate with other Toronto artists, he enlisted soulful bluesman Daniel Caesar and singer Tess Parks on the effort.*
 
-Provide link to read more about Artist [on Wikipedia]()
+Read more about River Tiber on <a href="http://www.billboard.com/artist/6897407/river-tiber/biography" target="_blank">Billboard</a> and his <a href="https://noisey.vice.com/en_au/article/ryzd3k/river-tiber-is-one-credit-away-from-being-famous" target="_blank">Interview with Noisey</a>.
+
+Unfortunately there is not a wikipedia page for Masego, but when there is please [contact rwz.io](https://rwz.io/contact/) so this post can be updated.
 
 #### Attributions
 
-Directors: Grandson & Son, Tommy Paxton-Beesley
-Director of Photography: Ali Khurshid 
-Video Producer: Mad Ruk Entertainment
-
-Tommy Paxton-Beesley: Vocals, Drums, Bass, Synth, Cello
-Thadeus Garwood: Synth
-John Mavro: Guitar
-Danny Voicu: Synth Noise
-David Lewis: Cello
-
-Produced, Recorded & Lyrics by Tommy Paxton-Beesley
-Mixed by Tommy Paxton-Beesley, Mark Murray, & Howie Beck
-Drum session recorded/engineered by Frank Dukes
+Directors: Grandson & Son, Tommy Paxton-Beesley<br>
+Director of Photography: Ali Khurshid <br>
+Video Producer: Mad Ruk Entertainment<br>
+<br><br>
+Tommy Paxton-Beesley: Vocals, Drums, Bass, Synth, Cello<br>
+Thadeus Garwood: Synth<br>
+John Mavro: Guitar<br>
+Danny Voicu: Synth Noise<br>
+David Lewis: Cello<br>
+<br><br>
+Produced, Recorded & Lyrics by Tommy Paxton-Beesley<br>
+Mixed by Tommy Paxton-Beesley, Mark Murray, & Howie Beck<br>
+Drum session recorded/engineered by Frank Dukes<br>
 Mastered by João Carvahlo
 
 
@@ -53,15 +57,3 @@ Mastered by João Carvahlo
 <a class="fa fa-youtube" href="https://www.youtube.com/rivertibermusic" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/rivertiber" target="_blank"> Instagram </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/rivertiber" target="_blank"> Soundcloud </a> 
-
-#### Connect with Label / Director / Producer / Other 
-
-<a class="fa fa-globe" href="http://" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-vimeo" href="https://vimeo.com/" target="_blank"> Vimeo </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a>
-
-Little bio and relevant links for author /curator / person who submitted content being shared
-
-This post was written by [Adam](http://rwz.io/contributors/adam)
