@@ -34,7 +34,7 @@ False Prophets is a great simplistic tune with a minimalistic yet jazzy sample l
 
 *Self-taught on piano, Cole also acts as a producer alongside his hip hop career, producing singles for artists such as Kendrick Lamar and Janet Jackson, as well as handling the majority of the production in his own projects. He has also developed other ventures, including Dreamville Records, as well as non-profit organization the Dreamville Foundation. The Dreamville Foundation is not the only non-profit gesture Cole has put forth; in January 2015, he decided to house single mothers rent-free in his childhood home at 2014 Forest Hills Drive, Fayetteville, North Carolina.*
 
-[Read more about J.Cole on Wikipedia](https://en.wikipedia.org/wiki/J._Cole)
+<a href="https://en.wikipedia.org/wiki/J._Cole" target="_blank">Read more about J.Cole on Wikipedia</a>
 
 #### Attributions
 
