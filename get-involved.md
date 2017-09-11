@@ -10,9 +10,9 @@ This website is built openly and is inclusive to all, enabling many ways for you
 
 This website embraces openness and collaboration, the best way to provide an inclusive environment with diverse works of art being displayed within a digital place is through other people curating it. If you are interested in curating, please follow the instructions on the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">template</a>.
 
-When curating you are free to create your own theme or vibe. You will need to have 7 posts for a week (follow the post template but feel free to get creative). Curators will also have a profile webpage which requires; a bio writte-up / photo / relevant links - [example page](http://www.rwz.io/curators/brian/).
+When curating you are free to create your own theme or vibe. You will need to have 7 draft posts (follow the post template but feel free to get creative) in order to get a curator's profile webpage. Curators profile webpage includes; a bio write-up / photo / relevant links -  
 
-If you are interested in becoming a contributor and curate rhymes with zion's audio-visual art gallery which dwells in cyberspace but want to know a bit more about it before you begin filling out the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">template</a>, please don't hesitate to [contact rwz.io](https://rwz.io/contact)
+If you are interested in becoming a contributor and curate rhymes with zion's audio-visual art gallery which dwells in cyberspace but want to know a bit more about it before you begin filling out the <a href="https://docs.google.com/document/d/1u7PoI3MD21fb0GxSsZyfxVKJhmEE8eP3cbyBOWyufss" target="_blank">template</a>, please don't hesitate to [contact rwz.io](https://rwz.io/contact). If you would like to contribute but don't want to commit to becoming a curator, than feel free to contribute an [individual submission](#submissions).
 
 # Feedback
 
