@@ -8,11 +8,12 @@ subtitle: >-
   Jazz collective; displays his incredible talent with a live of the floor
   performance of Navajo recorded by Colors Berlin
 image: 'http://img.youtube.com/vi/fuAE3U1NvOs/mqdefault.jpg'
+author: brian
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/fuAE3U1NvOs?rel=0&am;showinfo=0" width="560"></iframe></div>
-
+<br>
 <h5 style="text-align: center;">
 Artist: Masego <br>
 Location: Born in Jamaica, Based in Virginia <br>
@@ -26,9 +27,9 @@ This is the definition of a cool performance, Masego's mixed and mastered produc
 
 **Micah Davis** (June 8, 1993) *was born in Jamaica and grew up in Virginia, raised by an American mother and Jamaican father. Masego grew up performing in church and got his start playing drums. He developed into a multi-talented singer and saxophonist who has won acclaim as the leader of the Trap House Jazz collective, which boasts more than 100 members. Some of his most popular projects include the 2015 EP Pink Polo and the 2016 mixtape Loose Thoughts.*
 
-Read more about Masego on [Famous Birthdays](http://www.famousbirthdays.com/people/uncle-sego.html) and his [XXL Interview](http://www.xxlmag.com/rap-music/the-break/2016/01/the-break-masego/)
+Read more about Masego on <a href="http://www.famousbirthdays.com/people/uncle-sego.html" target="_blank">Famous Birthdays</a> and his <a href="http://www.xxlmag.com/rap-music/the-break/2016/01/the-break-masego/" target="_blank">XXL Interview</a>
 
-Unfortunately there is not a wikipedia page for Masego, but when there is please [email rwz](mailto:rhymeswithzion@gmail.com) so this post can be updated.
+Unfortunately there is not a wikipedia page for Masego, but when there is please [contact rwz.io](https://rwz.io/contact/) so this post can be updated.
 
 #### Attributions
 
