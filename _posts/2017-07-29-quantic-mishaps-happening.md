@@ -9,7 +9,7 @@ subtitle: >-
   Experience the upbeat rhythms and latin vibes of Quantic on this incredible
   live of the floor performance on KEXP
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3HcByGPKhCo?rel=0" width="560"></iframe></div>
 <br>
@@ -34,10 +34,10 @@ Read more about Quantic [on Wikipedia](https://en.wikipedia.org/wiki/Will_Hollan
 #### Attributions
 
 Shout out to Will Holland jamming alongside the talented musicians of the Quantic Soul Orchestra and KEXP for capturing yet another unforgettable performance
-
-Host: Chilly
-Audio Engineer: Kevin Suggs
-Cameras: Jim Beckmann, Christopher Somerville & Justin Wilmore
+<br><br>
+Host: Chilly<br>
+Audio Engineer: Kevin Suggs<br>
+Cameras: Jim Beckmann, Christopher Somerville & Justin Wilmore<br>
 Editor: Justin Wilmore
 
 #### Connect with Quantic
