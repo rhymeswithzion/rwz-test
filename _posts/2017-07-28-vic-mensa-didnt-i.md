@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Vic Mensa - Didn't I
+title: 'Vic Mensa - Say I Didn''t '
 date: '2017-07-28'
 image: 'http://img.youtube.com/vi/HSiRxK6ka3g/mqdefault.jpg'
 author: brian
@@ -10,7 +10,7 @@ subtitle: >-
   new album 'The Autobiography' which features a soulful sample of Dorando's
   'Didn't I'
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/HSiRxK6ka3g?rel=0" width="560"></iframe></div>
 <br>
@@ -27,13 +27,13 @@ Year: 2017
 
 **Victor Kwesi Mensah** (born June 6, 1993), *better known by his stage name Vic Mensa, is a Grammy-nominated American rapper from Chicago, Illinois. He is currently signed to Roc Nation and was a member of the group Kids These Days, which broke up in May 2013, after which he released his first solo mixtape Innanetape. Mensa is also founder of the hip-hop collective Savemoney.*
 
-Read more about Vic Mensa [on Wikipedia](https://en.wikipedia.org/wiki/Vic_Mensa)
+<a href="https://en.wikipedia.org/wiki/Vic_Mensa" target="_blank">Read more about Vic Mensa on Wikipedia</a>
 
 #### Attributions
 
-Sample: Darondo - Didn't I <br>
+**Sample**: <br>Darondo - Didn't I <br>
 
-Song Writers:
+**Song Writers**:<br>
 Victor Mensah <br>
 Alex Baez <br>
 Darian Garcia<br>
@@ -45,18 +45,18 @@ William Daron Pulliam<br>
 John Tanner<br>
 Tyron William Griffin, Jr.<br>
 
-Song Producers:
+**Song Producers**:<br>
 Smoko Ono <br>
 Papi Beatz<br> 
 No I.D. <br>
 Vic Mensa <br>
 Lang<br>
 
-Live at Vevo video credits:
+*Live at Vevo video credits*:<br> 
 Director: Micah Bickham <br>
 Producers: Jayson Rodriguez, Emily Louick
 
-#### Connect with Artist
+#### Connect with Vic Mensa
 
 <a class="fa fa-globe" href="http://www.vicmensa.com/" target="_blank"> Website </a> |
 <a class="fa fa-facebook" href="https://www.facebook.com/vicmensa1" target="_blank"> Facebook </a> |
