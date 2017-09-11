@@ -11,7 +11,7 @@ subtitle: >-
   tune with ecletic samples accompanied by stunning visual effects exemplifies
   contemporary audio-visual work of art.
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/zKJdW07BR7U?rel=0" width="560"></iframe></div>
 <br>
@@ -23,7 +23,7 @@ Year: 2017
 </h5>
 <br>
 
-Ever since the bedroom producer Ross From Friends released the critically acclaimed ['Talk To Me You'll Understand ](https://www.youtube.com/watch?v=8tKKNV5sXUs) in 2015, he has been considered an emerging artist to watch-out for. Those lucky enough to experience his live performance alongside two bandmates playing keys in guitar know how phenomenal his music is, but those who havent [check this out.](http://www.rwz.io/ross-from-friends-live/)  Now 2 years later, with the recent release of [The Outsiders EP](https://magicwire.bandcamp.com/album/the-outsiders) backed by London-based Magicwire recordings, the DJ gains even more recognition for his talented and unique productions. Accompanying visuals have been brilliantly created by Matt Woddham to complement the mesmerising sound in Ross From Friends' first music video, which we all look forward to seeing and experiencing more of. 
+Ever since the bedroom producer Ross From Friends released the critically acclaimed <a href="https://www.youtube.com/watch?v=8tKKNV5sXUs" target="_blank">Talk To Me You'll Understand</a> in 2015, he has been considered an emerging artist to watch-out for. Those lucky enough to experience his live performance alongside two bandmates playing keys in guitar know how phenomenal his music is, but those who havent [check this out.](http://www.rwz.io/ross-from-friends-live/)  Now 2 years later, with the recent release of <a href="https://magicwire.bandcamp.com/album/the-outsiders" target="_blank">The Outsiders EP</a> backed by London-based Magicwire recordings, the DJ gains even more recognition for his talented and unique productions. Accompanying visuals have been brilliantly created by Matt Woddham to complement the mesmerising sound in Ross From Friends' first music video, which we all look forward to seeing and experiencing more of. 
 
 #### Ross From Friends Bio
 
@@ -31,7 +31,7 @@ Felix Weatherall aka Ross From Friends is a leading figure in the emergent lo-fi
 
 Inspiration for Ross From Friends comes from all corners of the musical milieu. From early experimental music to hip-hop sampling - even 80s Eurobeat and Hi-NRG helps to make up the comprehensive sound palette that Ross has the liberty of drawing from.
 
-As an emerging artist, Ross From Friends does not have a wikipedia page yet... When there is one please [contact us](http://www.rwz.io/contact) so we can update his bio. If you want to find out more about Ross From Friends read this [Mixmag feature article](http://mixmag.net/feature/impact-ross-from-friends) and check out [Resident Advisor](https://www.residentadvisor.net/dj/rossfromfriends-uk/biography)
+As an emerging artist, Ross From Friends does not have a wikipedia page yet... When there is one please [contact us](http://www.rwz.io/contact) so we can update his bio. If you want to find out more about Ross From Friends read this <a href="http://mixmag.net/feature/impact-ross-from-friends" target="_blank">Mixmag feature article</a> and check out <a href="https://www.residentadvisor.net/dj/rossfromfriends-uk/biography" target="_blank">Resident Advisor</a>
 
 #### Attributions
 
