@@ -8,8 +8,9 @@ subtitle: >-
   visuals by Lilfuchs, this is the epitome of a contemporary work of art in the
   digital age.
 image: 'http://img.youtube.com/vi/0ScYz9sNaQk/mqdefault.jpg'
+author: brian
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/0ScYz9sNaQk?rel=0&am;showinfo=0" width="560"></iframe></div>
 <br>
@@ -32,7 +33,7 @@ Flying Lotus has released five studio album **1983** (2006), **Los Angeles** (20
 
 In 2012, Ellison began rapping under the persona **Captain Murphy**, based on the *Sealab 2021* character of the same name. Ellison kept this fact a secret for several months, finally revealing his identity several weeks after the release of his first rap mixtape, Duality.
 
-[Read more about Flying Lotus on Wikipedia](https://en.wikipedia.org/wiki/Flying_Lotus)
+<a href="https://en.wikipedia.org/wiki/Flying_Lotus" target="_blank">Read more about Flying Lotus on Wikipedia</a>
 
 #### Attributions
 
