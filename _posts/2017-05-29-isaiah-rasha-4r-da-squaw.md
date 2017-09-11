@@ -9,8 +9,9 @@ subtitle: >-
   song and accompanying visuals have to come through with something special.
   This music video does just that with its subtleness and simplistic mellow
   vibes that make it an audivisual masterpiece.
+author: brian
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/nppKPgdc_u0?rel=0&am;showinfo=0" width="560"></iframe></div>
 <br>
@@ -30,7 +31,7 @@ Isaiah Rashad's **The Sun's Tirade** is a great album, and obviously the opening
 
 *In March 2013, Rashad signed to Carson, California-based independent record label Top Dawg Entertainment. On January 28, 2014, he released Cilvia Demo, his first extended play, via digital distribution. Cilvia Demo was met with widespread acclaim from music critics and debuted at number 40 on the US Billboard 200. Off the buzz from the release of the EP, Rashad was named to the 2014 XXL freshman class. On September 2, 2016, he released his debut studio album, The Sun's Tirade, to widespread critical acclaim.*
 
-[Read more about Isaiah Rashad on Wikipedia](https://en.wikipedia.org/wiki/Isaiah_Rashad)
+<a href="https://en.wikipedia.org/wiki/Isaiah_Rashad" target="_blank">Read more about Isaiah Rashad on Wikipedia</a>.
 
 
 #### Attributions
