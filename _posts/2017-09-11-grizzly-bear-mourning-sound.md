@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Grizzly Bear - Mourning Sound
 subtitle: >-
-  With a video as creative and flawless as the song itself, Mourning Sounds
+  With a video as creative and flawless as the song itself, Mourning Sound
   takes us through a visual journey, celebrating life in an obscure, magical and
   exciting way.
 author: kurgatz
@@ -21,7 +21,7 @@ Year: 2017
 </h5>
 <br>
 
-Taking the viewer/listener's experience through a sonic landscape, challenging harmony, but yet not losing touch with the simplicity of the songs themselves; Grizzly Bear's Painted Ruins is a masterpiece. Indie Rock has never felt so refreshing in 2017. 
+Taking the viewer/listener's experience through a sonic landscape, challenging harmony, but yet not losing touch with the simplicity of the songs themselves; Grizzly Bear's **Painted Ruins** is a masterpiece. Indie Rock has never felt so refreshing in 2017. 
 
 
 #### Grizzly Bear Bio
