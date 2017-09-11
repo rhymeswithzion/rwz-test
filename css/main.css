@@ -121,7 +121,7 @@ img {
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
-  color: #008B8B;
+  color: #F5F5F5;
   {% endif %}
 }
 
@@ -149,7 +149,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #008B8B;
 }
 
 .navbar-custom .navbar-brand-logo {
