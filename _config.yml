@@ -26,9 +26,9 @@ description: a curation of audio/visual works of art
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
-navbar-img: "/img/bg/dark-triangles.png"
+navbar-img: "/img/dark-triangles.png"
 # footer-col: "blue"
-footer-img: "/img/bg/dark-triangles.png"
+footer-img: "/img/dark-triangles.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
 
