@@ -90,6 +90,11 @@
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
   
+  {% if post.share-img %}
+  <meta property="og:image" content="{{ post.share-img }}" />
+  {% elsif site.avatar %}
+  <meta property="og:image" content="{{ site.url }}{{ post.img }}" />
+  {% endif %}
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
@@ -116,6 +121,12 @@
   <meta name="twitter:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% endif %}
+  
+  {% if post.share-img %}
+  <meta name="twitter:image" content="{{ post.share-img }}" />
+  {% elsif site.avatar %}
+  <meta name="twitter:image" content="{{ site.url }}{{ post.img }}" />
   {% endif %}
 
   <script type="text/javascript">
