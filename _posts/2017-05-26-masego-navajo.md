@@ -19,6 +19,7 @@ Artist: Masego <br>
 Location: Born in Jamaica, Based in Virginia <br>
 Year: 2017
 </h5>
+<br>
 
 This is the definition of a cool performance, Masego's mixed and mastered production of *Navejo* displays his drumming and saxophone skills being played while he drops his verses live. The only thing that would have made it better is if he was able to bring his saxophone in, but as he stated 'I swear this is me playing saxophone' so I guess this is the next best thing.
 
