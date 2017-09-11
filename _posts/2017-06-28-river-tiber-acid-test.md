@@ -36,13 +36,13 @@ Unfortunately there is not a wikipedia page for Masego, but when there is please
 Directors: Grandson & Son, Tommy Paxton-Beesley<br>
 Director of Photography: Ali Khurshid <br>
 Video Producer: Mad Ruk Entertainment<br>
-<br><br>
+<br>
 Tommy Paxton-Beesley: Vocals, Drums, Bass, Synth, Cello<br>
 Thadeus Garwood: Synth<br>
 John Mavro: Guitar<br>
 Danny Voicu: Synth Noise<br>
 David Lewis: Cello<br>
-<br><br>
+<br>
 Produced, Recorded & Lyrics by Tommy Paxton-Beesley<br>
 Mixed by Tommy Paxton-Beesley, Mark Murray, & Howie Beck<br>
 Drum session recorded/engineered by Frank Dukes<br>
