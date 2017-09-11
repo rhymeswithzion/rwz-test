@@ -6,11 +6,12 @@ date: '2017-01-14'
 subtitle: >-
   With the incredible samples mixed and merged together so beautifully in this
   song and the entire Wildflower album by The Avalanches, the animated visuals
-  perfectly match the psychedlic and eccentric aesthetic of the no. 4 track
+  perfectly match the psychedelic and eccentric aesthetic of the no. 4 track
   'Subways'
 image: 'http://img.youtube.com/vi/bPIMfOIuEe4/mqdefault.jpg'
+author: brian
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/bPIMfOIuEe4?rel=0&am;showinfo=0" width="560"></iframe></div>
 <br>
@@ -28,9 +29,9 @@ Year: 2016
 
 *The Avalanches are an Australian electronic music group formed in Melbourne in 1997. They are known for their two studio albums, Since I Left You (2000) and Wildflower (2016), as well as their live and recorded DJ sets. Since I Left You was a critical and commercial success, receiving multiple awards, and has been considered both one of the best Australian albums of all time and best albums of the 2000s. It was followed in 2016 by Wildflower, which also released to critical acclaim.*
 
-[Read more about the Avalanches on Wikipedia](https://en.wikipedia.org/wiki/The_Avalanches)
+<a href="https://en.wikipedia.org/wiki/The_Avalanches" target="_blank">Read more about the Avalanches on Wikipedia</a>.
 
-[Read more about the cool story behind their Wildflower album on Wikipedia](https://en.wikipedia.org/wiki/Wildflower_(The_Avalanches_album))
+<a href="https://en.wikipedia.org/wiki/Wildflower_(The_Avalanches_album)" target="_blank">Read more about the cool story behind their Wildflower album on Wikipedia</a>
 
 #### Attributions
 
