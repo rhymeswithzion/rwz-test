@@ -12,7 +12,7 @@ subtitle: >-
   experience and an immersive audio-visual art.
 ---
 <br>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/5ty4QADcwgs' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='https://www.youtube.com/embed/5ty4QADcwgs' frameborder='0' allowfullscreen></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artist: PUP <br>
@@ -28,7 +28,8 @@ Year: 2017
 
 Pup (stylized as **PUP**) *is a Canadian punk rock band formed in Toronto, Ontario in 2013, originally under the name Topanga. Pup's self-titled debut album was released on October 8, 2013 on Royal Mountain Records. In December 2013, Pup signed with SideOneDummy Records and re-released their debut album in the United States on April 8, 2014. The group was in the studio in late 2015 recording their second album The Dream Is Over which was released on May 27, 2016 through SideOneDummy.*
 
-Read more about PUP [on Wikipedia](http://bit.ly/2vgZnKv)
+
+<a href="http://bit.ly/2vgZnKv" target="_blank">Read more about PUP on Wikipedia</a>
 
 #### Attributions
 
