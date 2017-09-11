@@ -5,8 +5,12 @@ title: Aiwake - Childish
 author: msz
 image: 'http://img.youtube.com/vi/SLDJCFmyzV4/mqdefault.jpg'
 date: '2017-05-27'
+subtitle: >-
+  This Toronto based artist provides a mesmerizing sound with equally stunning
+  visuals. The only thing that would make this audio-visual work of art better
+  is if the length was infinitely extended.
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/SLDJCFmyzV4?rel=0" width="560"></iframe></div>
 <br>
@@ -17,7 +21,7 @@ Year: 2017
 </h5>
 <br>
 
-This track transitions through a lot of really awesome, pleasant beats. The triplet high hats are incredibly pleasing. The vocals are incredibly soothing. The video has a lot of nature and I love nature, but mostly I just love this track. 
+This track transitions through a lot of really awesome, pleasant beats. The triplet high hats are incredibly pleasing. The vocals are incredibly soothing coupled with the visual's emphasis of nature makes this music video impossible not to fall in love with. 
 
 #### Aiwake Bio
 
@@ -50,13 +54,3 @@ Production by NLMG
 <a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/youareaiwake" target="_blank"> Instagram </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/aiwake" target="_blank"> Soundcloud </a> 
-
-#### Connect with Label / Director / Producer / Other 
-
-<a class="fa fa-globe" href="http://" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/" target="_blank"> Twitter </a> |
-<a class="fa fa-vimeo" href="https://vimeo.com/" target="_blank"> Vimeo </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/" target="_blank"> Instagram </a>
-
-
