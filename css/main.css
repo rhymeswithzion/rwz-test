@@ -113,7 +113,7 @@ img {
 
 .navbar-custom {
   background: #F5F5F5;
-  border-bottom: 1px solid #EAEAEA;
+  border-bottom: 1px solid #002626;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
   background: {{ site.navbar-col }};
@@ -121,6 +121,7 @@ img {
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
   background-attachment: fixed;
+  color: #008B8B;
   {% endif %}
 }
 
