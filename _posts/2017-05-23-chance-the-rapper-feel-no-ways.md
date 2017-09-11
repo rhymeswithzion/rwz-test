@@ -7,20 +7,20 @@ subtitle: >-
   Chancellor Bennet and the Social Experiment's incredible live of the floor
   cover of Drake's 'Feel No Ways' on BBC Radio 1Xtra Live Lounge
 image: 'http://img.youtube.com/vi/8fnMhKIqS3o/mqdefault.jpg'
+author: brian
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
+<br />
 <div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8fnMhKIqS3o?rel=0&amp;showinfo=0" width="560"></iframe></div>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8fnMhKIqS3o?rel=0" width="560"></iframe></div>
  <br>
 <h5 style="text-align: center;">
 Artist: Chance the Rapper and the Social Experiment <br>
-
 Location: Chicago Native | Filmed in London <br>
 Year: 2016
 </h5>
  <br>
 
-For Rhymes with Zion's first __**live of the floor friday**__ this performance fits the bill as an audio/visual work of art capturing a live performance you can immerse yourself in. This is such an awesome cover from Drake's 'Feel no Ways' on his *Views from the 6* album. The Social Experiment's rendition really makes you appreciate the work put in on the production of the original song and how it can be so beautifully iterated with live instruments.  
+This talented rendition immortalised on video fits the bill of an audio/visual work of art capturing a live performance you can immerse yourself in. This is such an awesome cover from Drake's 'Feel no Ways' on his *Views from the 6* album. The Social Experiment's rendition really makes you appreciate the work put in on the production of the original song and how it can be so beautifully iterated with live instruments.  
 
 
 #### Chance the Rapper Bio
@@ -29,7 +29,7 @@ For Rhymes with Zion's first __**live of the floor friday**__ this performance f
 
 *In May 2016, Bennett released his third mixtape Coloring Book to further critical acclaim. It earned him three Grammy awards, including for Best Rap Album. Coloring Book was the first streaming-only album to ever receive and win a Grammy nomination.*
 
-[Read more about Chance the Rapper on Wikipedia](https://en.wikipedia.org/wiki/Chance_the_Rapper)
+<a href="https://en.wikipedia.org/wiki/Chance_the_Rapper" target="_blank">Read more about Chance the Rapper on Wikipedia</a>
 
 #### Attributions
 
