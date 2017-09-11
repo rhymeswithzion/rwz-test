@@ -19,7 +19,7 @@ Label: Today is Vintage / Sony <br>
 Location: Born in Gambia, Based in Sweden <br>
 Year: 2017
 </h5>
-
+<br>
 
 This performance by Saint is the exemplification of young talent given the opportunity to create art and fulfill their potential. 'A Lovely Bargain' provides funk-fuelled instrumental with soulful singing and a splash of hip-hop thanks to that nicely delivered rap verse near the end. With the infectious baseline and smooth vocals this track is a guaranteed future classic that will uplift your spirit.
 
