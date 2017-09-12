@@ -27,7 +27,7 @@ Bringing the Peckham teen angst to France, the London youth Cosmo Pyke absolutel
 
 **Cosmo Pyke** (that’s his real name) is a songwriter and multi-instrumentalist from Peckham. Raised on a diet of blues, jazz, hip hop, and neo-soul, he writes warm, lo-fi songs that he describes as “spacey, beautiful, and lazy”. His songs draw less on other music and more on his everyday experiences growing up in south east London: reading books, going to pubs, playing football, and other simple pleasures in life.
 
-As an emerging artist, Cosmo Pyke does not have a wikipedia page yet... When there is one please [contact us](http://www.rwz.io/contact) so we can update his bio. In the meantime, read an Dazed Digital's <a href"http://www.dazeddigital.com/music/article/33695/1/cosmo-pyke-social-sites-video" target="_blank">interview</a> and <a href="http://www.dazeddigital.com/projects/article/35401/1/cosmo-pyke-musician-biography-dazed-100-profile" target="_blank">artist profile</a>.
+As an emerging artist, Cosmo Pyke does not have a wikipedia page yet... When there is one please [contact us](http://www.rwz.io/contact) so we can update his bio. In the meantime, read an Dazed Digital's <a href="http://www.dazeddigital.com/music/article/33695/1/cosmo-pyke-social-sites-video" target="_blank">interview</a> and <a href="http://www.dazeddigital.com/projects/article/35401/1/cosmo-pyke-musician-biography-dazed-100-profile" target="_blank">artist profile</a>.
 
 #### Attributions
 
