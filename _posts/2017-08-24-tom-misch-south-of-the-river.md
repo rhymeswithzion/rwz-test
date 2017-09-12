@@ -42,6 +42,6 @@ BIG LOVE to everyone who sent in their videos!
 <br>
 Edited by Tom Ewbank & Tom Misch
 
-#### Connect with Tom Misch &rarr; <a class="fa fa-globe" href="https://tommisch.com/" target="_blank"></a>|<a class="fa fa-facebook" href="https://www.facebook.com/tommisch123" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/tommisch" target="_blank"></a>|<a class="fa fa-youtube" href="https://www.youtube.com/tommisch" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/tommisch" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/tommisch" target="_blank"></a>
+#### Connect with Tom Misch <a class="fa fa-globe" href="https://tommisch.com/" target="_blank"></a>|<a class="fa fa-facebook" href="https://www.facebook.com/tommisch123" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/tommisch" target="_blank"></a>|<a class="fa fa-youtube" href="https://www.youtube.com/tommisch" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/tommisch" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/tommisch" target="_blank"></a>
 <br>
 <br>
