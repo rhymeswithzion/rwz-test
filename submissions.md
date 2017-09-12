@@ -5,7 +5,7 @@ css: /css/contact.css
 published: true
 ---
 
-Rhymes with Zion is always striving for the best audio-visual works of art to fill its infinite void. If you have an audio-visual work of art that you think should be shared on the website, than please fill out our [submission form](#submission-form) below. 
+Rhymes with Zion is always striving for the best audio-visual works of art to fill its infinite void. If you have an audio-visual work of art that you think should be shared on the website, than please complete our [submission form](#submission-form) below. 
 
 
 ## Submission Form
@@ -55,4 +55,4 @@ Rhymes with Zion is always striving for the best audio-visual works of art to fi
   
 </form>
 
-Thank you for your submission. If you are having any difficulties submitting content or do not like the submission form, please give us some [feedback](http://www.rwz.io/feedback/) so we can improve it or [contact us](http://www.rwz.io/contact/) directly.
+Thank you for your submission. Incomplete submissions will not be considered, so make sure you fill out the entire form to the best of your ability. If you are having any difficulties submitting content or do not like the submission form, please give us some [feedback](http://www.rwz.io/feedback/) so we can improve it or [contact us](http://www.rwz.io/contact/) directly.
