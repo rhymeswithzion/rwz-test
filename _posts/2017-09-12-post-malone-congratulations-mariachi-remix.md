@@ -28,7 +28,7 @@ Year: 2017
 
 **Austin Richard Post** (born July 4, 1995), *known professionally as Post Malone, is an American rapper, singer, songwriter, record producer, and guitarist. He first gained major recognition in February 2015, after the release of his debut single* "White Iverson". *In August 2015, Malone landed a record deal with Republic Records. On December 9, 2016, he released his debut studio album* **Stoney**.
 
-<a href="https://en.wikipedia.org/wiki/Post_Malone" target="_blank">read more about Artist on Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Post_Malone" target="_blank">Read more about Post Malone on Wikipedia</a>.
 
 #### Attributions
 
