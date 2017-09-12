@@ -29,26 +29,34 @@ Rhymes with Zion is always striving for the best audio-visual works of art to fi
 - the visuals, what makes it beautiful or interesting" name="g. write-up"></textarea>
   <br>
   <h3>Artist Info</h3>
-  <textarea id="message" type="text" placeholder="Provide a bio of what is known about the artist - this can be copied from Wikipedia or another reputable source." name="h. artist-bio"></textarea>
   <input id="Bio Link" type="text" placeholder=" URL links to sources that you've cited for the Artist Bio (i.e. https://wikipedia.com/artist)" name="i. bio link">
+  <textarea id="message" type="text" placeholder="Provide a bio of what is known about the artist - this can be copied from Wikipedia or another reputable source." name="h. artist-bio"></textarea>
+  <br>
+  <h3>Attribution</h3>  
+  <textarea id="message" type="text" placeholder="Provide attributions on what is known about the audio-visual work of art, and shout-out anyone who helped make it possible (for example: animator, director, engineer, producer, mixer, label, videographer, etc)" name="j. attribution"></textarea>
+  <br>
+  <h3>Relevant Links</h3>
        <textarea id="Artist-Links" type="text" placeholder="All relevant links connected to artist, for example:
 - Personal Website: http://www.PersonalWebsite.com
-- Facebook: https://facebook.com/#ArtistName
+- Facebook: https://facebook.com/ArtistName
 - Instagram: https://instagram,com/ArtistName
 - Soundcloud: https://soundcloud.com/ArtistName
 - Twitter: https://twitter.com/ArtistName
 - Youtube: https://www.youtube.com/channel/artistchannel
-" name="j. artist links"></textarea>
-  
-<h3>Attribution</h3>  
-  <br>
-  <textarea id="message" type="text" placeholder="Provide attributions on what is known about the audio-visual work of art, and shout-out anyone who helped make it possible (for example: animator, director, engineer, producer, mixer, label, videographer, etc)" name="k. attribution"></textarea>
-  <br>
+" name="k. artist links"></textarea>
+  <textarea id="Other-Links" type="text" placeholder="All relevant links connected to Label / Director / Producer for example:
+- Website: http://www.Label-Producer-Director-Website.com
+- Facebook: https://facebook.com/Label-Producer-Director
+- Instagram: https://instagram,com/Label-Producer-Director
+- Soundcloud: https://soundcloud.com/Label-Producer-Director
+- Twitter: https://twitter.com/Label-Producer-Director
+- Youtube: https://www.youtube.com/channel/Label-Producer-Director
+" name="l. other links"></textarea>
+<br>
 <h3> Tell us about yourself </h3>
-  <br>
-   <input id="name" type="text" placeholder="Name" name="l. name">
-		  <input id="email" type="text" placeholder="E-Mail" name="m. email">
-  <textarea id="message" type="text" placeholder="Provide a little bio about yourself (i.e. what you do / thinks you like) and any relevant links you would like us to share (e.g. your website, instagram, twitter, facebook, soundcloud, etc)" name="n. profile"></textarea>
+   <input id="name" type="text" placeholder="Name" name="m. name">
+		  <input id="email" type="text" placeholder="E-Mail" name="n. email">
+  <textarea id="message" type="text" placeholder="Provide a little bio about yourself (i.e. what you do / thinks you like) and any relevant links you would like us to share (e.g. your website, instagram, twitter, facebook, soundcloud, etc)" name="o. profile"></textarea>
   <br>
   <br>
   <input id="submit" type="submit" value="SEND">
