@@ -30,7 +30,7 @@ Rhymes with Zion is always striving for the best audio-visual works of art to fi
   <br>
   <h3>Artist Info</h3>
   <textarea id="message" type="text" placeholder="Provide a bio of what is known about the artist - this can be copied from Wikipedia or another reputable source." name="h. artist-bio"></textarea>
-  input id="Bio Link" type="text" placeholder=" URL links to sources that you've cited for the Artist Bio (i.e. https://wikipedia.com/artist)" name="i. bio link">
+  <input id="Bio Link" type="text" placeholder=" URL links to sources that you've cited for the Artist Bio (i.e. https://wikipedia.com/artist)" name="i. bio link">
        <textarea id="Artist-Links" type="text" placeholder="All relevant links connected to artist, for example:
 - Personal Website: http://www.PersonalWebsite.com
 - Facebook: https://facebook.com/#ArtistName
