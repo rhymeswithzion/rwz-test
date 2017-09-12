@@ -10,9 +10,9 @@ subtitle: >-
   if we're even at all)...
 author: brian
 ---
-
-<div style="text-align:center"><img src="https://media.giphy.com/media/3oKIPwv9exqYPaB03K/giphy.gif" width="333" height="333" frameBorder="0" /></div>
 <br>
+<div style="text-align:center"><img src="https://media.giphy.com/media/3oKIPwv9exqYPaB03K/giphy.gif" width="333" height="333" frameBorder="0" /></div>
+
 <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311029941&amp;color=%23008b8b&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=true"></iframe>
 <br>
 <h5 style="text-align: center;">
