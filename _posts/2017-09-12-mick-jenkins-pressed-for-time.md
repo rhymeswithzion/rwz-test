@@ -12,13 +12,15 @@ subtitle: >-
 author: brian
 ---
 <br>
-<div style="text-align:center"><iframe src="https://giphy.com/embed/3oKIPwv9exqYPaB03K" width="333" height="333" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="text-align:center"><img src="https://media.giphy.com/media/3oKIPwv9exqYPaB03K/giphy.gif" width="333" height="333" frameBorder="0" /></div>
+<br>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311029941&amp;color=%23008b8b&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <br>
 <h5 style="text-align: center;">
 Artist: Mick Jenkins featuring GoldLink <br>
-GIF Artist: Emory Allen
+GIF Artist: Emory Allen <br>
 Location: Mick Jenkins - Chicago, IL | GoldLink : Washington, DC<br>
-Producers: Monte Booker & THEMpeople
+Producers: Monte Booker & THEMpeople <br>
 Year: 2017
 </h5>
 <br>
