@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Ty
-subtitle: hip-hop lover from Amsterdam curating the smoothest and coolest vibes from around the world
+subtitle: >-
+  hip-hop lover from Amsterdam curating the smoothest and coolest vibes from
+  around the world
 published: true
 curator: ty
 ---
@@ -26,7 +28,7 @@ Provide some details about what influences the contributor has. Artists they lik
 #### Connect with Ty
 
 <a class="fa fa-globe" href="https://tysquestionmark.wordpress.com/" target="_blank"> Website </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/tysquestionmark" target="_blank"> Instagram </a> |
+<a class="fa fa-instagram" href="https://www.instagram.com/tysquestionmark" target="_blank"> Instagram </a>
 
 
 #### Posts curated by Ty
