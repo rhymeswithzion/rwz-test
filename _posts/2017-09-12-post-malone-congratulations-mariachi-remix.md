@@ -24,11 +24,11 @@ Year: 2017
 <br>
 
 
-#### Post Malon Bio
+#### Post Malone Bio
 
 **Austin Richard Post** (born July 4, 1995), *known professionally as Post Malone, is an American rapper, singer, songwriter, record producer, and guitarist. He first gained major recognition in February 2015, after the release of his debut single* "White Iverson". *In August 2015, Malone landed a record deal with Republic Records. On December 9, 2016, he released his debut studio album* **Stoney**.
 
-<a href=”https://en.wikipedia.org/wiki/Post_Malone” target=”_blank”>read more about Artist on Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Post_Malone" target="_blank">read more about Artist on Wikipedia</a>
 
 #### Attributions
 
@@ -49,4 +49,4 @@ Shout out to the Mariachi Band for the great rendition of Austin Post's song, th
 <a class="fa fa-twitter" href="https://twitter.com/richchigga" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCkWu5WFf4EYsiV0zepVJ" target="_blank"> Youtube </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/brianimanuel/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/richbrian" target="_blank"> Soundcloud </a> 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/richbrian" target="_blank"> Soundcloud </a>
