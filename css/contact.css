@@ -107,8 +107,8 @@ textarea {
   width: 100%;
   max-width: 100%;
   height: 110px;
-  max-height: 110px;
-  padding: 15px;
+  max-height: 222px;
+  padding: 0px;
   
   background: transparent;
   outline: none;
