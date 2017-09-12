@@ -30,6 +30,12 @@ Year: 2017
 
 <a href="https://en.wikipedia.org/wiki/Post_Malone" target="_blank">Read more about Post Malone on Wikipedia</a>.
 
+#### Rich Chigga Bio
+
+**Brian Imanuel** (born September 3, 1999), *better known by his stage name* **Rich Chigga**, *is an Indonesian rapper and comedian from Jakarta.He is best known for his viral debut single* "Dat $tick", *which was released in March 2016*
+
+<a href="https://en.wikipedia.org/wiki/Rich_Chigga" target="_blank">Read more about Post Malone on Wikipedia</a>.
+
 #### Attributions
 
 Shout out to the Mariachi Band for the great rendition of Austin Post's song, thank you Brian Immanuel for commissioning the whole thing. Great work everyone involved, the filmers, the audience, and 
