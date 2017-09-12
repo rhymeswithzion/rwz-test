@@ -61,7 +61,9 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Curated by <a href="{{ author.web }}">{{ author.name }}</a></span>
+		        {% if post.author %}
+		        <span class="post-meta">Curated by <a href="{{ author.web }}">{{ author.name }}</a></span>
+		        {% endif %}
 		  {% endif %}
         </div>
       </div>
