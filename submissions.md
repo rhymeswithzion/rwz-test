@@ -36,7 +36,7 @@ Rhymes with Zion is always striving for the best audio-visual works of art to fi
   <textarea id="message" type="text" placeholder="Provide attributions on what is known about the audio-visual work of art, and shout-out anyone who helped make it possible (for example: animator, director, engineer, producer, mixer, label, videographer, etc)" name="j. attribution"></textarea>
   <br>
   <h3>How to connect</h3>
-       <textarea id="Artist-Links" type="text" placeholder="All relevant links connected to artist, for example:
+       <textarea id="Artist-Links" type="text" placeholder="Please provide all relevant links connected to artist, for example:
 - Personal Website: http://www.PersonalWebsite.com
 - Facebook: https://facebook.com/ArtistName
 - Instagram: https://instagram,com/ArtistName
@@ -45,7 +45,7 @@ Rhymes with Zion is always striving for the best audio-visual works of art to fi
 - Youtube: https://www.youtube.com/channel/artistchannel
 " name="k. artist links"></textarea>
 
-  <textarea id="Other-Links" type="text" placeholder="All relevant links connected to Label / Director / Producer for example:
+  <textarea id="Other-Links" type="text" placeholder="Please provide all relevant links connected to Label / Director / Producer for example:
 - Website: http://www.Label-Producer-Director-Website.com
 - Facebook: https://facebook.com/Label-Producer-Director
 - Instagram: https://instagram,com/Label-Producer-Director
