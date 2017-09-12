@@ -13,19 +13,18 @@ author: brian
 ---
 <br>
 <div style="text-align:center"><img src="https://media.giphy.com/media/3oKIPwv9exqYPaB03K/giphy.gif" width="333" height="333" frameBorder="0" /></div>
-<br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311029941&amp;color=%23008b8b&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <br>
 <h5 style="text-align: center;">
 Artist: Mick Jenkins featuring GoldLink <br>
-GIF Artist: Emory Allen <br>
+GIF: Emory Allen <br>
 Location: Mick Jenkins - Chicago, IL | GoldLink : Washington, DC<br>
 Producers: Monte Booker & THEMpeople <br>
 Year: 2017
 </h5>
 <br>
 
-So usually rwz.io is limited strictly to videos, as they are the easiest means to curate audio-visual works of art through a digital medium. That being said, there are particular cases when a particular sound and image unrelated to one another when put together form an audio visual work of art. This is the case for the mesmerising song coupled with this minimalistic looped GIF. 
+So usually rwz.io is limited strictly to videos, as they are the simplest means to curate audio-visual works of art through a digital medium. That being said, there are particular cases when a particular sound and image unrelated to one another when put together form an audio visual work of art. This is the case for the mesmerising song coupled with this minimalistic GIF that overlap in the subject of time. 
 
 #### Mick Jenkins Bio
 
@@ -66,7 +65,7 @@ Shout out to Jayson and D'anthony for coming through with the nice verses, and b
 <a class="fa fa-globe" href="https://soulection.com/montebooker/" target="_blank"> Website </a> |
 <a class="fa fa-facebook" href="https://www.facebook.com/montebooker" target="_blank"> Facebook </a> |
 <a class="fa fa-twitter" href="https://twitter.com/montebooker" target="_blank"> Twitter </a> |
-<a class="fa fa-bandcamp" href="https://montebooker.bandcamp.com/" target="_blank"> Youtube </a> |
+<a class="fa fa-bandcamp" href="https://montebooker.bandcamp.com/" target="_blank"> Bandcamp </a> |
 <a class="fa fa-instagram" href="https://www.instagram.com/montebooker" target="_blank"> Instagram </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/montebooker" target="_blank"> Soundcloud </a> 
 
@@ -75,3 +74,13 @@ Shout out to Jayson and D'anthony for coming through with the nice verses, and b
 <a class="fa fa-twitter" href="https://twitter.com/thempeoplemusic" target="_blank"> Twitter </a> |
 <a class="fa fa-youtube" href="https://www.youtube.com/user/thempeoplemusic" target="_blank"> Youtube </a> |
 <a class="fa fa-soundcloud" href="https://soundcloud.com/thempeoplemusic" target="_blank"> Soundcloud </a> 
+
+#### Connect with Emory Allen
+
+<a class="fa fa-globe" href="http://www.ocularinvasion.com/" target="_blank"> Website </a> |
+<a class="fa fa-facebook" href="https://www.facebook.com/ocularinvasion" target="_blank"> Facebook </a> |
+<a class="fa fa-twitter" href="https://twitter.com/ocularinvasion" target="_blank"> Twitter </a> |
+<a class="fa fa-vimeo" href="https://vimeo.com/ocularinvasion" target="_blank"> Vimeo </a> |
+<a class="fa fa-instagram" href="https://www.instagram.com/ocularinvasion" target="_blank"> Instagram </a> |
+<a class="fa fa-tumblr" href="http://tumblr.ocularinvasion.com/" target="_blank"> Tumblr </a> 
+
