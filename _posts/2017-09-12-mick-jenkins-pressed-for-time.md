@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: Mick Jenkins - Pressed for Time (feat. GoldLink)
-image: 'https://i1.sndcdn.com/artworks-000211140283-43za9y-t500x500.jpg'
 date: '2017-02-27'
 subtitle: >-
   Enjoy the brilliantly spacey and hypnotic sound alongside this endless gif.
