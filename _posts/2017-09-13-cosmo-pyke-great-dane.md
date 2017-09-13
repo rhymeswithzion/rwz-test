@@ -38,3 +38,4 @@ Shout out to Cosmo for delivering such an incredible EP, Joshua Osborne for dire
 
 #### Connect with Cosmo Pyke <a class="fa fa-facebook" href="https://www.facebook.com/cosmopykemusic" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/cosmopyke" target="_blank"></a>|<a class="fa fa-youtube" href="https://www.youtube.com/channel/UC7yJwfM_D7K40crQLIHeHjA" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/cosmo_pyke" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/cosmopyke" target="_blank"></a>
 
+<br>
