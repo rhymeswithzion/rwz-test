@@ -23,7 +23,7 @@ Year: 2017
 
 Bringing the Peckham teen angst to France, the London youth Cosmo Pyke absolutely smashes an acoustic performance at Ère de Rien festival showcase. We are lucky to have this moment immortalised through this live recording. If you get the chance, definitely check him out live when he comes to a city near you.
 
-#### Artist Bio
+#### Cosmo Pyke Bio
 
 **Cosmo Pyke** (that’s his real name) is a songwriter and multi-instrumentalist from Peckham. Raised on a diet of blues, jazz, hip hop, and neo-soul, he writes warm, lo-fi songs that he describes as “spacey, beautiful, and lazy”. His songs draw less on other music and more on his everyday experiences growing up in south east London: reading books, going to pubs, playing football, and other simple pleasures in life.
 
