@@ -2,7 +2,7 @@
 {% assign id = url.last | remove: "watch?v=" %}
 
 <div class="yt">
-  <img src="//i.ytimg.com/vi/{{ id }}/hqdefault.jpg" />
+  <img src="http://img.youtube.com/vi/{{ id }}/hqdefault.jpg" />
 
   <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" onclick="playVideo('{{ id }}', this)">
     <path d="M85.2 47.7L20.6 6.5c-5.3-3.3-9.5-1-9.5 5.2V88c0 6.2 4.4 8.8 9.8 5.8l63.9-34.7C90.1 56 90.3 50.9 85.2 47.7z"/>
