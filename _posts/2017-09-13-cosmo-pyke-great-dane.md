@@ -12,7 +12,7 @@ author: brian
 image: 'ttp://img.youtube.com/vi/UOjZF_38u_M/mqdefault.jpg'
 ---
 <br />
-{% include youtube.html url="<UOjZF_38u_M>" %}
+{% include youtube.html url="UOjZF_38u_M" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Cosmo Pyke<br>
