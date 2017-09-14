@@ -12,8 +12,7 @@ author: brian
 image: 'ttp://img.youtube.com/vi/UOjZF_38u_M/mqdefault.jpg'
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/UOjZF_38u_M?rel=0" width="560"></iframe></div>
+{% include youtube.html url="<UOjZF_38u_M>" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Cosmo Pyke<br>
