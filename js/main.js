@@ -136,3 +136,23 @@ var main = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', main.init);
+
+//http://stackoverflow.com/questions/22119673/find-the-closest-ancestor-element-that-has-a-specific-class
+function findAncestor (el, sel) {
+  while ((el = el.parentElement) && !((el.matches || el.matchesSelector).call(el,sel)));
+  return el;
+}
+
+function playVideo(id, e){
+  // Create an iFrame with autoplay set to true
+  var iframe = document.createElement("iframe");
+  var iframe_url = "https://www.youtube-nocookie.com/embed/" + id + "?rel=0&autoplay=1&autohide=1";
+  iframe.setAttribute("src", iframe_url);
+  iframe.setAttribute("frameborder", "0");
+  iframe.setAttribute("allowfullscreen", "true");
+
+  // Replace the YouTube thumbnail with YouTube Player
+  var video_wrapper = findAncestor(e, ".yt");
+  video_wrapper.innerHTML = "";
+  video_wrapper.appendChild(iframe);
+}
