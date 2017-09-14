@@ -37,7 +37,8 @@ h5 a {
 }
 h5 a:hover
 h5 a:focus{
-  color: transparent;
+  color: #000000;
+  border: 0px
 }
 
 
