@@ -49,6 +49,6 @@ Mixed/Mastered by Engine Earz
 <br><br>
 And a shout out to Kurupt FM!
 
-#### Connect with Jorja Smith <a class="fa fa-facebook" href="https://www.facebook.com/jorjasmithmusic" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/jorjasmith" target="_blank"></a> |<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCSFBNlkwFf7ZQO6sTk9Q-lw" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/jorjasmith_" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/jorjasmith" target="_blank"></a> <br>
+#### Connect with Jorja Smith <a class="fa fa-facebook" href="https://www.facebook.com/jorjasmithmusic" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/jorjasmith" target="_blank"></a> |<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCSFBNlkwFf7ZQO6sTk9Q-lw" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/jorjasmith_" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/jorjasmith" target="_blank"></a> <br> <br>
 #### Connect with Preditah <a class="fa fa-facebook" href="https://www.facebook.com/preditah" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/preditah" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/preditah" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/preditah" target="_blank"></a>
 <br>
