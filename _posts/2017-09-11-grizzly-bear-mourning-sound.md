@@ -11,8 +11,7 @@ date: '2017-08-16'
 image: 'http://img.youtube.com/vi/BDQ7KgvwfaQ/mqdefault.jpg'
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/BDQ7KgvwfaQ?rel=0" width="560"></iframe></div>
+{% include youtube.html url="BDQ7KgvwfaQ" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Grizzly Bear <br>
@@ -37,11 +36,5 @@ Director- Beatrice Pegard<br>
 Cinematography- Zoe White<br>
 Production Company - Le Pac<br>
 
-#### Connect with Grizzly Bear
-
-<a class="fa fa-globe" href="http://grizzly-bear.net/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/grizzlybear" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/grizzlybear" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCZRUTFtK26wgbWIbmBCo4Kw" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/grizzlybear" target="_blank"> Instagram </a>
+#### Connect with Grizzly Bear <a class="fa fa-globe" href="http://grizzly-bear.net/" target="_blank"></a>|<a class="fa fa-facebook" href="https://www.facebook.com/grizzlybear" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/grizzlybear" target="_blank"></a>|<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCZRUTFtK26wgbWIbmBCo4Kw" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/grizzlybear" target="_blank"></a>
 
