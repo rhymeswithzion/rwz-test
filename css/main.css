@@ -35,6 +35,11 @@ h5 {
 h5 a {
   color: #000000;
 }
+h5 a:hover {
+  color: none;
+}
+
+
 h4 a {
   color: #43b3ae
 }
