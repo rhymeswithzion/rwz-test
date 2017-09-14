@@ -11,7 +11,8 @@ date: '2017-08-16'
 image: 'http://img.youtube.com/vi/BDQ7KgvwfaQ/mqdefault.jpg'
 ---
 <br />
-{% include youtube.html url="BDQ7KgvwfaQ" %}
+<div class="embed-container">
+ <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/BDQ7KgvwfaQ?rel=0" width="560"></iframe></div>
 <br>
 <h5 style="text-align: center;">
 Artist: Grizzly Bear <br>
