@@ -14,12 +14,12 @@ image: 'ttp://img.youtube.com/vi/UOjZF_38u_M/mqdefault.jpg'
 <br />
 {% include youtube.html url="UOjZF_38u_M" %}
 <br>
-<h5 style="text-align: center;">
+<h5 style="text-align: center;"><a href="{{ post.url | prepend: site.baseurl }}">  
 Artist: Cosmo Pyke<br>
 Director: Joshua Osborne<br>
 Location: Peckham, London, UK <br>
 Year: 2017
-</h5>
+</a></h5>
 <br>
 
 The 'Just Cosmo' EP is a brilliant extended play that must be listened to in it's entirety. That being said, the finale track *Great Dane* is an amazing tune and argueably a subtle favourite among the majority of listeners who listened to the album in full. The mellow and sweet sounds are now perfectly accompanied by relaxing visuals of Cosmo skating around and chilling alongside his gorgeous friend enjoying a day in the park.  
