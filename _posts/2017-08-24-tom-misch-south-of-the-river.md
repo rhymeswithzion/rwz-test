@@ -13,8 +13,7 @@ image: 'http://img.youtube.com/vi/NdJHvUTWx6c/mqdefault.jpg'
 author: brian
 ---
 <br>
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NdJHvUTWx6c?rel=0" width="560"></iframe></div>
+{% include youtube.html url="NdJHvUTWx6c" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Tom Misch <br>
