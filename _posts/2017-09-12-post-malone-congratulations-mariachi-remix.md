@@ -39,19 +39,7 @@ Year: 2017
 
 Shout out to the Mariachi Band for the great rendition of Austin Post's song, thank you Brian Immanuel for commissioning the whole thing. Great work everyone involved, the filmers, the audience, and 
 
-#### Connect with Post Malone
+#### Connect with Post Malone <a class="fa fa-globe" href="http://www.postmalone.com/home" target="_blank"></a> |<a class="fa fa-facebook" href="https://www.facebook.com/postmalone" target="_blank"></a> |<a class="fa fa-twitter" href="https://twitter.com/postmalone" target="_blank"></a> |<a class="fa fa-youtube" href="https://www.youtube.com/user/postmalone" target="_blank"></a> |<a class="fa fa-instagram" href="https://www.instagram.com/postmalone" target="_blank"></a> |<a class="fa fa-soundcloud" href="https://soundcloud.com/postmalone" target="_blank"></a> 
 
-<a class="fa fa-globe" href="http://www.postmalone.com/home" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/postmalone" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/postmalone" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/postmalone" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/postmalone" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/postmalone" target="_blank"> Soundcloud </a> 
-
-#### Connect with Rich Chigga 
-
-<a class="fa fa-facebook" href="https://www.facebook.com/richchigga" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/richchigga" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCkWu5WFf4EYsiV0zepVJ" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/brianimanuel/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/richbrian" target="_blank"> Soundcloud </a>
+#### Connect with Rich Chigga <a class="fa fa-facebook" href="https://www.facebook.com/richchigga" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/richchigga" target="_blank"></a>|<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCkWu5WFf4EYsiV0zepVJ" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/brianimanuel/" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/richbrian" target="_blank"></a>
+<br>
