@@ -12,8 +12,7 @@ subtitle: >-
   not put a smile on your face while watching, you probably don't have a heart.
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/a4ysejgZiuE?rel=0" width="560"></iframe></div>
+{% include youtube.html url="a4ysejgZiuE" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Mariachi Band Covering Post Malone <br>
