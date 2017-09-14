@@ -11,8 +11,7 @@ subtitle: >-
   is if the length was infinitely extended.
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/SLDJCFmyzV4?rel=0" width="560"></iframe></div>
+{% include youtube.html url="SLDJCFmyzV4" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Aiwake <br>
@@ -47,10 +46,5 @@ P.A.s: Ariana Bascom, Daniel Paul-Sampson, and Shane Narain
 <br><br>
 Production by NLMG
 
-#### Connect with Aiwake
-
-<a class="fa fa-facebook" href="https://www.facebook.com/youareaiwake" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/youareaiwake" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/youareaiwake" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/aiwake" target="_blank"> Soundcloud </a> 
+#### Connect with Aiwake <a class="fa fa-facebook" href="https://www.facebook.com/youareaiwake" target="_blank"></a>|<a class="fa fa-twitter" href="https://twitter.com/youareaiwake" target="_blank"></a>|<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"></a>|<a class="fa fa-instagram" href="https://www.instagram.com/youareaiwake" target="_blank"></a>|<a class="fa fa-soundcloud" href="https://soundcloud.com/aiwake" target="_blank"></a> 
+<br>
