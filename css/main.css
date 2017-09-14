@@ -35,6 +35,9 @@ h5 {
 h5 a {
   color: #000000;
 }
+h4 a {
+  color: #43b3ae
+}
 
 h1,h2,h3,h4,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
