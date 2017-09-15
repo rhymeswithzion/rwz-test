@@ -25,7 +25,7 @@ description: Rhymes with Zion provides a digital space which curates audio/visua
             {{ post.excerpt }}
 	
 	{% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more"><h5>&#9657;&nbsp;learn&nbsp;more&nbsp;&#9667;</h5></a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">&#9657;&nbsp;learn&nbsp;more&nbsp;&#9667;</a>
         {% endif %}
       </div>
     
