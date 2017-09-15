@@ -40,7 +40,7 @@ Thank you AdultSwim for getting Lilfuchs to create the enlightening visuals that
 
 #### Connect with Flying Lotus
 
-<a class="fa fa-globe" href="http://www.flying-lotus.com/" target="_blank">/a> | 
+<a class="fa fa-globe" href="http://www.flying-lotus.com/" target="_blank"></a> | 
 <a class="fa fa-facebook" href="https://www.facebook.com/flyinglotus/" target="_blank"></a> | 
 <a class="fa fa-twitter" href="https://twitter.com/flyinglotus" target="_blank"></a> | 
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCj3NRzD4qFJ-zN2iPeF_fMg" target="_blank"></a> | 
