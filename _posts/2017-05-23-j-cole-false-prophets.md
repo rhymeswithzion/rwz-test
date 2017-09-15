@@ -11,8 +11,7 @@ image: 'http://img.youtube.com/vi/wvFDXV0VBg4/mqdefault.jpg'
 author: brian
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/wvFDXV0VBg4?rel=0" width="560"></iframe></div>
+{% include youtube.html url="wvFDXV0VBg4" %}
 <br>
 <h5 style="text-align: center;">
 Artist: J. Cole <br>
@@ -42,18 +41,18 @@ Shout out to Freddie Juachim for the sample 'Waves', J.Cole for looping and drop
 
 #### Connect with J. Cole
 
-<a class="fa fa-facebook" href="https://www.facebook.com/JColeMusic/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/jcolenc" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/JColeMusic" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/realcoleworld/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/j-cole" target="_blank"> Soundcloud </a> 
+<a class="fa fa-facebook" href="https://www.facebook.com/JColeMusic/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/jcolenc" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/user/JColeMusic" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/realcoleworld/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/j-cole" target="_blank"></a> 
 
 
 #### Connect with Dreamville
 
-<a class="fa fa-globe" href="http://www.dreamville.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/dreamville/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/dreamville" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/dreamvillerecords" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/dreamville/" target="_blank"> Instagram </a>
-<a class="fa fa-soundcloud" href="https://soundcloud.com/dreamvillerecords" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.dreamville.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/dreamville/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/dreamville" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/user/dreamvillerecords" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/dreamville/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/dreamvillerecords" target="_blank"></a>
