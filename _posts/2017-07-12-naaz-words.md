@@ -9,10 +9,8 @@ subtitle: >-
 date: '2017-07-09'
 author: ty
 ---
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br>
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/KvQ-te2CBFM?rel=0" width="560"></iframe></div>
+<br>
+{% include youtube.html url="KvQ-te2CBFM" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Naaz <br>
@@ -32,7 +30,7 @@ The simplicity of the video perfectly matches the lyrics and complements the und
 Naaz is a singer/songwriter/producer from Holland, who immediately captures your attention with her distinctive voice. Having a Kurdish background, it took Naaz quite some time and effort to convince her family to allow her to follow her passion. During that time, Naaz taught herself to write/produce/record her own music, so she could still be able to make music regardless of any circumstances. Now with her family lovingly by her side, she wholeheartedly encourages other artists to do the same and never give up on their dreams.
 
 
-Read more about Naaz on [her website](https://www.bitsofnaaz.com)
+As an emerging artist, Naaz does not have a wikipedia page yet... When there is one please [contact us](http://www.rwz.io/contact) so we can update her bio. <a href="https://www.bitsofnaaz.com" target="_blank">Read more about Naaz on her website</a>.
 
 #### Attributions
 
@@ -40,11 +38,11 @@ Directed by Folkert Verdoorn and Produced by Hannah Padding for Bandit Amsterdam
 
 #### Connect with Naaz
 
-<a class="fa fa-globe" href="https://www.bitsofnaaz.com" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/bitsofnaaz" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/bitsofnaaz" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCuZRCkslqghunSa-nQrWATA" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/bitsofnaaz" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/bitsofnaaz" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="https://www.bitsofnaaz.com" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/bitsofnaaz" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/bitsofnaaz" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCuZRCkslqghunSa-nQrWATA" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/bitsofnaaz" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/bitsofnaaz" target="_blank"></a> 
 
 <br>
