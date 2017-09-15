@@ -11,8 +11,7 @@ subtitle: >-
   visuals. Expect nothing but prosperity and progression for the brckhmptn crew
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/vWhPimx07H0?rel=0" width="560"></iframe></div>
+{% include youtube.html url="vWhPimx07H0" %}
 <br>
 <h5 style="text-align: center;">
 Artist: BROCKHAMPTON <br>
@@ -41,9 +40,9 @@ Filmed in Van Nuys, Los Angeles, California, USA
 
 #### Connect with BROCKHAMPTON
 
-<a class="fa fa-globe" href="http://www.brckhmptn.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/brckhmptn" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/brckhmptn" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCFLnwFhuJeBSCjIJewxSqKw" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/brckhmptn" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/brockhampton" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.brckhmptn.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/brckhmptn" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/brckhmptn" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCFLnwFhuJeBSCjIJewxSqKw" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/brckhmptn" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/brockhampton" target="_blank"></a>
