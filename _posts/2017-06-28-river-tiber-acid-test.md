@@ -12,8 +12,7 @@ subtitle: >-
 author: krausz
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6Dj14UqY1kY?re;=0" width="560"></iframe></div>
+{% include youtube.html url="6Dj14UqY1kY" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: River Tiber <br>
@@ -51,9 +50,9 @@ Mastered by João Carvahlo
 
 #### Connect with River Tiber
 
-<a class="fa fa-globe" href="http://rivertiber.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/rivertiber" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/rivertiber" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/rivertibermusic" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/rivertiber" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/rivertiber" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="http://rivertiber.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/rivertiber" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/rivertiber" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/rivertibermusic" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/rivertiber" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/rivertiber" target="_blank"></a> 
