@@ -12,8 +12,7 @@ subtitle: >-
 author: brian
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/nppKPgdc_u0?rel=0&am;showinfo=0" width="560"></iframe></div>
+{% include youtube.html url="nppKPgdc_u0" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Isaiah Rashad <br>
@@ -40,17 +39,17 @@ Thank you Dave Free of the little homies & Christian Sutton for directing the vi
 
 #### Connect with Isaiah Rashad
 
-<a class="fa fa-facebook" href="https://www.facebook.com/isaiahrashad" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/isaiahrashad" target="_blank"> Twitter </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/isaiahrashad" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/isaiah_rashad" target="_blank"> Soundcloud </a> 
+<a class="fa fa-facebook" href="https://www.facebook.com/isaiahrashad" target="_blank"</a> | 
+<a class="fa fa-twitter" href="https://twitter.com/isaiahrashad" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/isaiahrashad" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/isaiah_rashad" target="_blank"></a> 
 
 
 #### Connect with Top Dawg Entertainment
 
-<a class="fa fa-globe" href="http://www.tde.us/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/topdawgent" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/topdawgent" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://youtube.com/TopDawgEntTDE" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/topdawgent" target="_blank"> Instagram </a> | 
-<a class="fa fa-soundcloud" href="https://soundcloud.com/topdawgent" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.tde.us/" target="_blank"> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/topdawgent" target="_blank"> | 
+<a class="fa fa-twitter" href="https://twitter.com/topdawgent" target="_blank"> | 
+<a class="fa fa-youtube" href="https://youtube.com/TopDawgEntTDE" target="_blank"> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/topdawgent" target="_blank"> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/topdawgent" target="_blank">
