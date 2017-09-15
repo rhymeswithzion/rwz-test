@@ -10,8 +10,7 @@ subtitle: >-
   live of the floor performance on KEXP
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3HcByGPKhCo?rel=0" width="560"></iframe></div>
+{% include youtube.html url="3HcByGPKhCo" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: The Quantic Soul Orchestra <br>
@@ -42,18 +41,18 @@ Editor: Justin Wilmore
 
 #### Connect with Quantic
 
-<a class="fa fa-globe" href="http://www./" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/quanticmusic" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/quanticmusic" target="_blank"> Twitter </a> |
-<a class="fa fa-itunes" href="https://itunes.apple.com/us/artist/quantic/id5054367#" target="_blank"> iTunes </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/quanticmusic" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/quantic" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="http://www./" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/quanticmusic" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/quanticmusic" target="_blank"></a> | 
+<a class="fa fa-itunes" href="https://itunes.apple.com/us/artist/quantic/id5054367#" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/quanticmusic" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/quantic" target="_blank"></a> 
 
 #### Connect with KEXP 90.3
 
-<a class="fa fa-globe" href="http://www.kexp.org/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/kexp.fm" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/kexp" target="_blank"> Twitter </a> |
-<a class="fa fa-apple" href="https://youtube.com/user/kexpradio" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/kexp" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/kexp" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.kexp.org/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/kexp.fm" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/kexp" target="_blank"></a> | 
+<a class="fa fa-apple" href="https://youtube.com/user/kexpradio" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/kexp" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/kexp" target="_blank"></a>
