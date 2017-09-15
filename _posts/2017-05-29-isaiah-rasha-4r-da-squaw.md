@@ -39,7 +39,7 @@ Thank you Dave Free of the little homies & Christian Sutton for directing the vi
 
 #### Connect with Isaiah Rashad
 
-<a class="fa fa-facebook" href="https://www.facebook.com/isaiahrashad" target="_blank"</a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/isaiahrashad" target="_blank"></a> | 
 <a class="fa fa-twitter" href="https://twitter.com/isaiahrashad" target="_blank"></a> | 
 <a class="fa fa-instagram" href="https://www.instagram.com/isaiahrashad" target="_blank"></a> | 
 <a class="fa fa-soundcloud" href="https://soundcloud.com/isaiah_rashad" target="_blank"></a> 
@@ -47,9 +47,9 @@ Thank you Dave Free of the little homies & Christian Sutton for directing the vi
 
 #### Connect with Top Dawg Entertainment
 
-<a class="fa fa-globe" href="http://www.tde.us/" target="_blank"> | 
-<a class="fa fa-facebook" href="https://www.facebook.com/topdawgent" target="_blank"> | 
-<a class="fa fa-twitter" href="https://twitter.com/topdawgent" target="_blank"> | 
-<a class="fa fa-youtube" href="https://youtube.com/TopDawgEntTDE" target="_blank"> | 
-<a class="fa fa-instagram" href="https://www.instagram.com/topdawgent" target="_blank"> | 
-<a class="fa fa-soundcloud" href="https://soundcloud.com/topdawgent" target="_blank">
+<a class="fa fa-globe" href="http://www.tde.us/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/topdawgent" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/topdawgent" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://youtube.com/TopDawgEntTDE" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/topdawgent" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/topdawgent" target="_blank"></a>
