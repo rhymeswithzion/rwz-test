@@ -11,8 +11,7 @@ subtitle: >-
   masterpiece. Enjoy the experience of this timeless track and beautiful video.
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/03m1dbIdVqU?rel=0" width="560"></iframe></div>
+{% include youtube.html url="03m1dbIdVqU" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Donnie Trumpet, Chance the Rapper, and Vic Mensa <br>
@@ -40,26 +39,26 @@ Painting by Lauren Altieri
 
 #### Connect with Donnie Trumpet
 
-<a class="fa fa-globe" href="http://nicosegal.com/" target="_blank"> Website </a> |
-<a class="fa fa-twitter" href="https://twitter.com/nicosegalr" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCt54obu9t5oBNw5ipq1Dq4w" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/nicosegal/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/nicosegal" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="http://nicosegal.com/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/nicosegalr" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCt54obu9t5oBNw5ipq1Dq4w" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/nicosegal/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/nicosegal" target="_blank"></a> 
 
 #### Connect with Chance the Rapper
 
-<a class="fa fa-globe" href="http://chanceraps.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/chancetherapper/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/chancetherapper" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCeXp3EC97_rUl_e2vgM3gLg" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/chancetherapper/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/chancetherapper" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="http://chanceraps.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/chancetherapper/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/chancetherapper" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCeXp3EC97_rUl_e2vgM3gLg" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/chancetherapper/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/chancetherapper" target="_blank"></a> 
 
 #### Connect with Vic Mensa
 
-<a class="fa fa-globe" href="http://www.vicmensa.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/vicmensa1" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/vicmensa" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/vicmensavevo" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/vicmensa" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/vicmensa" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.vicmensa.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/vicmensa1" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/vicmensa" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/vicmensavevo" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/vicmensa" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/vicmensa" target="_blank"></a>
