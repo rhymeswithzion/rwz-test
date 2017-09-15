@@ -10,8 +10,7 @@ image: 'http://img.youtube.com/vi/RTtrVg-pkNg/mqdefault.jpg'
 author: brian
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/RTtrVg-pkNg?rel=0" width="560"></iframe></div>
+{% include youtube.html url="RTtrVg-pkNg" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Saint <br>
@@ -40,24 +39,24 @@ Special thanks to Colors Berlin for producing this video and Today is Vintage fo
 
 #### Connect with Saint
 
-<a class="fa fa-facebook" href="https://www.facebook.com/vintage.saint/" target="_blank"> Facebook </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/saintdizellius/" target="_blank"> Instagram </a> 
+<a class="fa fa-facebook" href="https://www.facebook.com/vintage.saint/" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/saintdizellius/" target="_blank"></a> 
 
 
 #### Connect with Today is Vintage
 
-<a class="fa fa-globe" href="http://www.todayisvintage.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/todayisvintage" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/todayisvintage" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/todayisVINTAGE" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/todayisvintage/" target="_blank"> Instagram </a> | 
-<a class="fa fa-soundcloud" href="https://soundcloud.com/todayisvintage" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.todayisvintage.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/todayisvintage" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/todayisvintage" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/user/todayisVINTAGE" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/todayisvintage/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/todayisvintage" target="_blank"></a>
 
 
 #### Connect with ColorsBerlin
 
-<a class="fa fa-globe" href="http://www.colorsberlin.com/" target="_blank"> Website </a> | 
-<a class="fa fa-facebook" href="https://www.facebook.com/colorsberlinofficial/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/colorsberlin" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/c/colorsberlinofficial" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/COLORSBERLIN/" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://www.colorsberlin.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/colorsberlinofficial/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/colorsberlin" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/c/colorsberlinofficial" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/COLORSBERLIN/" target="_blank"></a>
