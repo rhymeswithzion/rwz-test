@@ -11,8 +11,7 @@ image: 'http://img.youtube.com/vi/0ScYz9sNaQk/mqdefault.jpg'
 author: brian
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/0ScYz9sNaQk?rel=0&am;showinfo=0" width="560"></iframe></div>
+{% include youtube.html url="0ScYz9sNaQk" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Flying Lotus <br>
@@ -41,18 +40,18 @@ Thank you AdultSwim for getting Lilfuchs to create the enlightening visuals that
 
 #### Connect with Flying Lotus
 
-<a class="fa fa-globe" href="http://www.flying-lotus.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/flyinglotus/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/flyinglotus" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCj3NRzD4qFJ-zN2iPeF_fMg" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/flyinglotus/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/flyinglotus" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="http://www.flying-lotus.com/" target="_blank">/a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/flyinglotus/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/flyinglotus" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCj3NRzD4qFJ-zN2iPeF_fMg" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/flyinglotus/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/flyinglotus" target="_blank"></a> 
 
 
 #### Connect with Lilfuchs
 
-<a class="fa fa-globe" href="http://lilfuchs.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/lilfuchsXO/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/lilfuchs_fuchs" target="_blank"> Twitter </a> |
-<a class="fa fa-vimeo" href="https://vimeo.com/user3398212" target="_blank"> Vimeo </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/lilfuchs/" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://lilfuchs.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/lilfuchsXO/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/lilfuchs_fuchs" target="_blank"></a> | 
+<a class="fa fa-vimeo" href="https://vimeo.com/user3398212" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/lilfuchs/" target="_blank"></a>
