@@ -50,4 +50,4 @@ Special thanks to Chancellor Bennett on the vocals, Nico Segal (a.k.a Donnie Tru
 <a class="fa fa-facebook" href="https://www.facebook.com/bbcradio1/" target="_blank"></a> | 
 <a class="fa fa-twitter" href="https://twitter.com/1XTRA" target="_blank"></a> | 
 <a class="fa fa-youtube" href="https://www.youtube.com/user/bbcradio1" target="_blank"></a> | 
-<a class="fa fa-instagram" href="https://www.instagram.com/bbcradio1/" target="_blank">/a>
+<a class="fa fa-instagram" href="https://www.instagram.com/bbcradio1/" target="_blank"></a>
