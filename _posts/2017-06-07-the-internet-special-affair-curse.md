@@ -24,36 +24,29 @@ Year: 2015 (album released) | 2016 (music video released)
 
 
 
-This goes more in depth into the intro blurb, still should not be more than a paragrpah;- The instrumental, what is so great about the beat/tune
-
-- the lyrics, what enlightening wisdom or wordplay is going on
-
-- the video, what makes
-
-
 #### The Internet Bio
 
-**The Internet** 
+**The Internet** is an American band from Los Angeles, California. It currently consists of Syd, Matt Martians, Patrick Paige II, Christopher Smith, and Steve Lacy. They have released three studio albums and three extended plays since its formation in late 2011. The band's 2015 album Ego Death was nominated for the Grammy Award for Best Urban Contemporary Album.
 
-[Read more about The Internet on Wikipedia](http://bit.ly/1N0pdFI)
+<a href="https://en.wikipedia.org/wiki/The_Internet_(band)" target="_blank">Read more about The Internet on Wikipedia</a>
 
 #### Attributions
 
-
+Shout out to all the members of the Internet for the incredible talent being exemplified in their sound and thank you Calmatic for directing the dope visuals. 
 
 #### Connect with The Internet
 
-<a class="fa fa-globe" href="http://www.internet-band.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/theinternetband/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/intanetz" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCpK4kopnqu-gexm5HWOEE3A" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/theinternet" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/internet-band" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.internet-band.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/theinternetband/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/intanetz" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCpK4kopnqu-gexm5HWOEE3A" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/theinternet" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/internet-band" target="_blank"></a>
 
 #### Connect with Calmatic
 
-<a class="fa fa-globe" href="http://www.calmatic.net/" target="_blank"> Website </a> |
-<a class="fa fa-vimeo" href="https://www.vimeo.com/calmatic/" target="_blank"> Vimeo </a> |
-<a class="fa fa-twitter" href="https://twitter.com/calmatic" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/calmatic1" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/calmatic" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://www.calmatic.net/" target="_blank"></a> | 
+<a class="fa fa-vimeo" href="https://www.vimeo.com/calmatic/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/calmatic" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/user/calmatic1" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/calmatic" target="_blank"></a>
