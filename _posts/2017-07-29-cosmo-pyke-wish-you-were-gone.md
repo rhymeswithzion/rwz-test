@@ -11,8 +11,7 @@ subtitle: >-
 image: 'http://img.youtube.com/vi/pSLpTftj5S4/mqdefault.jpg'
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/pSLpTftj5S4?rel=0" width="560"></iframe></div>
+{% include youtube.html url="pSLpTftj5S4" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Cosmo Pyke <br>
@@ -36,8 +35,8 @@ Thank you to the lovely person this song was written about for influencing Cosmo
 #### Connect with Cosmo Pyke
 
 
-<a class="fa fa-facebook" href="https://www.facebook.com/cosmopykemusic" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/cosmopyke" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UC7yJwfM_D7K40crQLIHeHjA" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/cosmo_pyke" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/cosmopyke" target="_blank"> Soundcloud </a>
+<a class="fa fa-facebook" href="https://www.facebook.com/cosmopykemusic" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/cosmopyke" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UC7yJwfM_D7K40crQLIHeHjA" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/cosmo_pyke" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/cosmopyke" target="_blank"></a>
