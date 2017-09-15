@@ -12,8 +12,7 @@ subtitle: >-
   contemporary audio-visual work of art.
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/zKJdW07BR7U?rel=0" width="560"></iframe></div>
+{% include youtube.html url="zKJdW07BR7U" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Ross From Friends <br>
@@ -39,25 +38,25 @@ Shout out to Felix for producing the amazing lo-fi and spacey track, Matt Woodha
 
 #### Connect with Ross From Friends
 
-<a class="fa fa-facebook" href="https://www.facebook.com/RossFromFriendsMusic" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/russfrumfrunds" target="_blank"> Twitter </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/rossfromfrens" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/rossfromfriends" target="_blank"> Soundcloud </a> 
+<a class="fa fa-facebook" href="https://www.facebook.com/RossFromFriendsMusic" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/russfrumfrunds" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/rossfromfrens" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/rossfromfriends" target="_blank"></a> 
 
 #### Connect with Magicwire Recordings 
 
-<a class="fa fa-globe" href="http://www.magicwirerecordings.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/magicwirematerials" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/_magicwire_" target="_blank"> Twitter </a> |
-<a class="fa fa-bandcamp" href="https://magicwire.bandcamp.com/" target="_blank"> Bandcamp </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/magicwirematerials" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/magicwire" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="http://www.magicwirerecordings.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/magicwirematerials" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/_magicwire_" target="_blank"></a> | 
+<a class="fa fa-bandcamp" href="https://magicwire.bandcamp.com/" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/magicwirematerials" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/magicwire" target="_blank"></a> 
 
 
 #### Connect with Matt Woodham 
 
-<a class="fa fa-globe" href="http://mdoubl.eu/info/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/matt.woodham" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/mattwoodham" target="_blank"> Twitter </a> |
-<a class="fa fa-vimeo" href="https://vimeo.com/mwmw" target="_blank"> Vimeo </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/mattwoodham" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://mdoubl.eu/info/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/matt.woodham" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/mattwoodham" target="_blank"></a> | 
+<a class="fa fa-vimeo" href="https://vimeo.com/mwmw" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/mattwoodham" target="_blank"></a>
