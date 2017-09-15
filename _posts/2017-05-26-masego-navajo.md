@@ -11,8 +11,7 @@ image: 'http://img.youtube.com/vi/fuAE3U1NvOs/mqdefault.jpg'
 author: brian
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/fuAE3U1NvOs?rel=0" width="560"></iframe></div>
+{% include youtube.html url="fuAE3U1NvOs" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Masego <br>
@@ -38,18 +37,18 @@ Shout out to Masego and the Trap House Jazz collective for producing this smooth
 
 #### Connect with Masego
 
-<a class="fa fa-globe" href="https://masegomusic.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/UncleSego/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/Unclesego" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/KingzKid24" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/unclesego/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/MasegoMusic" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="https://masegomusic.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/UncleSego/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/Unclesego" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/user/KingzKid24" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/unclesego/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/MasegoMusic" target="_blank"></a> 
 
 
 #### Connect with ColorsBerlin
 
-<a class="fa fa-globe" href="http://www.colorsberlin.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/colorsberlinofficial/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/colorsberlin" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/c/colorsberlinofficial" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/COLORSBERLIN/" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://www.colorsberlin.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/colorsberlinofficial/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/colorsberlin" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/c/colorsberlinofficial" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/COLORSBERLIN/" target="_blank"></a>
