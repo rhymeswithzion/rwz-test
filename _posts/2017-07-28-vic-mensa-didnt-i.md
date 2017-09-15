@@ -11,8 +11,7 @@ subtitle: >-
   'Didn't I'
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/HSiRxK6ka3g?rel=0" width="560"></iframe></div>
+{% include youtube.html url="HSiRxK6ka3g" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Vic Mensa <br>
@@ -58,9 +57,9 @@ Producers: Jayson Rodriguez, Emily Louick
 
 #### Connect with Vic Mensa
 
-<a class="fa fa-globe" href="http://www.vicmensa.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/vicmensa1" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/vicmensa" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/vicmensavevo" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/vicmensa" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/vicmensa" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://www.vicmensa.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/vicmensa1" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/vicmensa" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/vicmensavevo" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/vicmensa" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/vicmensa" target="_blank"></a>
