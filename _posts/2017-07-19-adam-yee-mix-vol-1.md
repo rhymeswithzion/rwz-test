@@ -10,9 +10,8 @@ subtitle: >-
   true to the sounds of London. Enjoy 30 minutes of sound accompanied by
   minimalistic yet mesmerising visuals.
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/gfOTUoSWums" width="560"></iframe></div>
+<br>
+{% include youtube.html url="gfOTUoSWums" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Adam Yee <br>
@@ -47,7 +46,7 @@ Andres - New For You
 
 #### Connect with Adam Yee
 
-<a class="fa fa-facebook" href="https://www.facebook.com/adam.yee1" target="_blank"> Facebook </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/adamyee92" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/adam-yee1" target="_blank"> Soundcloud </a>
+<a class="fa fa-facebook" href="https://www.facebook.com/adam.yee1" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/adamyee92" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/adam-yee1" target="_blank"></a>
