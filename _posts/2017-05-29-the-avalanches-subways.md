@@ -12,8 +12,7 @@ image: 'http://img.youtube.com/vi/bPIMfOIuEe4/mqdefault.jpg'
 author: brian
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/bPIMfOIuEe4?rel=0&am;showinfo=0" width="560"></iframe></div>
+{% include youtube.html url="bPIMfOIuEe4" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: The Avalanches <br>
@@ -21,9 +20,7 @@ Album: Wildflower <br>
 Location: Melbourne <br>
 Year: 2016
 </h5>
-
 <br>
-
 
 #### The Avalanches Bio
 
@@ -37,31 +34,31 @@ Year: 2016
 
 Special thanks to everyone credited in the production of this song and the accompanying visuals:
 
-**Video Credits**:
-*Directed by Mrzyk & Moriceau,
+**Video Credits**: <br>
+*Directed by Mrzyk & Moriceau,<br>
 Produced by Jules de Chateleux & Clemence Cuvelier @ Division*
 
-**Song Credits**:
-*Produced by Robbie Chater
-Mixed by Robbie Chater and Tony Espie
-Engineer Aaron Dobos, Michael O’Connell, Matthew Neighbour
-Recorded at Sing Sing Studios, Melbourne
-Mixed at Sing Sing Studios, Melbourne 
-Master by Joe LaPorta at Sterling Sound NYC*
+**Song Credits**:<br>
+Produced by Robbie Chater <br>
+Mixed by Robbie Chater and Tony Espie<br>
+Engineer Aaron Dobos, Michael O’Connell, Matthew Neighbour <br>
+Recorded at Sing Sing Studios, Melbourne <br>
+Mixed at Sing Sing Studios, Melbourne <br>
+Master by Joe LaPorta at Sterling Sound NYC* 
 
 
 #### Connect with The Avalanches
 
-<a class="fa fa-globe" href="http://theavalanches.com" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/theavalanches" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/theavalanches" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/avalanchesofficial" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/theavalanches" target="_blank"> Instagram </a> | 
-<a class="fa fa-soundcloud" href="https://soundcloud.com/theavalanches" target="_blank"> Soundcloud </a>
+<a class="fa fa-globe" href="http://theavalanches.com" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/theavalanches" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/theavalanches" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/user/avalanchesofficial" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/theavalanches" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/theavalanches" target="_blank"></a>
 
 
 #### Connect with Mrzyk & Moriceau
 
-<a class="fa fa-globe" href="http://1000dessins.com/" target="_blank"> Website </a> | 
-<a class="fa fa-tumblr" href="https://mrzykmoriceau.tumblr.com/" target="_blank"> Tumblr </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/mrzyk_moriceau/" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://1000dessins.com/" target="_blank"></a> | 
+<a class="fa fa-tumblr" href="https://mrzykmoriceau.tumblr.com/" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/mrzyk_moriceau/" target="_blank"></a>
