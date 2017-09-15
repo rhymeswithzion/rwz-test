@@ -10,8 +10,7 @@ image: 'http://img.youtube.com/vi/8fnMhKIqS3o/mqdefault.jpg'
 author: brian
 ---
 <br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/8fnMhKIqS3o?rel=0" width="560"></iframe></div>
+{% include youtube.html url="8fnMhKIqS3o" %} 
  <br>
 <h5 style="text-align: center;">
 Artist: Chance the Rapper and the Social Experiment <br>
@@ -37,18 +36,18 @@ Special thanks to Chancellor Bennett on the vocals, Nico Segal (a.k.a Donnie Tru
 
 #### Connect with Chance the Rapper
 
-<a class="fa fa-globe" href="http://chanceraps.com/" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/chancetherapper/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/chancetherapper" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCeXp3EC97_rUl_e2vgM3gLg" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/chancetherapper/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/chancetherapper" target="_blank"> Soundcloud </a> 
+<a class="fa fa-globe" href="http://chanceraps.com/" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/chancetherapper/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/chancetherapper" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCeXp3EC97_rUl_e2vgM3gLg" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/chancetherapper/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/chancetherapper" target="_blank"></a> 
 
 
 #### Connect with BBC Radio 1
 
-<a class="fa fa-globe" href="http://www.bbc.co.uk/programmes/p01029mq" target="_blank"> Website </a> |
-<a class="fa fa-facebook" href="https://www.facebook.com/bbcradio1/" target="_blank"> Facebook </a> |
-<a class="fa fa-twitter" href="https://twitter.com/1XTRA" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/user/bbcradio1" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/bbcradio1/" target="_blank"> Instagram </a>
+<a class="fa fa-globe" href="http://www.bbc.co.uk/programmes/p01029mq" target="_blank"></a> | 
+<a class="fa fa-facebook" href="https://www.facebook.com/bbcradio1/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/1XTRA" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/user/bbcradio1" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/bbcradio1/" target="_blank">/a>
