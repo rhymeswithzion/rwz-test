@@ -10,9 +10,8 @@ subtitle: >-
   provides a vicarious experience of a night out in London witnessing top UK up
   and coming talent
 ---
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><br />
-<div class="embed-container">
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/YqEBW0QPxQQ?rel=0" width="560"></iframe></div>
+<br>
+{% include youtube.html url="YqEBW0QPxQQ" %}
 <br>
 <h5 style="text-align: center;">
 Artist: Ross From Friends <br>
