@@ -1,7 +1,8 @@
 ---
 layout: page
 title: bríÎìan
-subtitle: Iron like a Lion in Zion... The brainchild behind rwz.io 
+subtitle: Iron like a Lion in Zion... The human behind rwz.io
+published: true
 ---
 <br>
 <div style="text-align:center">
@@ -21,12 +22,12 @@ Also, as a Canadian living in the UK I have an unconscious bias to predominantly
 
 #### Connect 
 
-<a class="fa fa-facebook" href="https://www.facebook.com/rhymeswithzion" target="_blank"> Facebook </a> |
-<a class="fa fa-github" href="https://www.github.com/rhymeswithzion" target="_blank"> GitHub </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/rhymeswithzion" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/rhymeswithzion" target="_blank"> Soundcloud </a> |
-<a class="fa fa-twitter" href="https://www.twitter.com/rhymeswithzion" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCdh4VkJeIQRJulkKqEFQwsA" target="_blank"> Youtube </a> 
+<a class="fa fa-facebook" href="https://www.facebook.com/rhymeswithzion" target="_blank"></a> | 
+<a class="fa fa-github" href="https://www.github.com/rhymeswithzion" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/rhymeswithzion" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/rhymeswithzion" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://www.twitter.com/rhymeswithzion" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCdh4VkJeIQRJulkKqEFQwsA" target="_blank"></a> 
 
 #### Posts Curated by bríÎìan
 
