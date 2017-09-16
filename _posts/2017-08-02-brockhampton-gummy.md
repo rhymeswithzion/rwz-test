@@ -9,6 +9,7 @@ subtitle: >-
   with their music video for GUMMY. Everything about this is awesome; epic
   instrumental production, eccentric and diverse lyrical game, and the creative
   visuals. Expect nothing but prosperity and progression for the brckhmptn crew
+author: brian
 ---
 <br />
 {% include youtube.html url="vWhPimx07H0" %}
