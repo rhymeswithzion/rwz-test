@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Vulfpeck - Birds of a Feather
 image: 'http://img.youtube.com/vi/WQm4R0LM2mE/mqdefault.jpg'
-date: '2016-09-17'
+date: '2017-09-17'
 author: kurgatz
 ---
 <br />
