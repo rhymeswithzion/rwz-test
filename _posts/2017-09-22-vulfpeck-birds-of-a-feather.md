@@ -35,7 +35,6 @@ Special thanks to the Vulfpeck members and Antwan Stanley for the amazing tune, 
 <a class="fa fa-bandcamp" href="https://vulfpeck.bandcamp.com/" target="_blank"></a> | 
 <a class="fa fa-facebook" href="https://www.facebook.com/vulfpeck" target="_blank"></a> | 
 <a class="fa fa-instagram" href="https://www.instagram.com/vulfpeck" target="_blank"></a> | 
-
 <a class="fa fa-soundcloud" href="https://soundcloud.com/vulfpeck" target="_blank"></a> | 
 <a class="fa fa-twitter" href="https://twitter.com/vulfpeck" target="_blank"></a> | 
 <a class="fa fa-youtube" href="https://www.youtube.com/channel/UCtWuB1D_E3mcyYThA9iKggQ" target="_blank"></a>
