@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Vulfpeck - Birds of a Feather
+title: 'Vulfpeck - Birds of a Feather, We Rock Together'
 image: 'http://img.youtube.com/vi/WQm4R0LM2mE/mqdefault.jpg'
 date: '2017-09-17'
 author: kurgatz
