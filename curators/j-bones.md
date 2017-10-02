@@ -25,7 +25,7 @@ Some other genres that have definitely helped shape my musical taste include Low
 <a class="fa fa-facebook" href="https://www.facebook.com/jonah.swartz.3" target="_blank"></a> | 
 <a class="fa fa-instagram" href="https://www.instagram.com/j_bones93" target="_blank"></a> | 
 <a class="fa fa-soundcloud" href="https://soundcloud.com/j-bones93" target="_blank"></a> | 
-<a class="fa fa-spotify" href="https://open.spotify.com/user/j-bones93" target="_blank"></a> | 
+<a class="fa fa-spotify" href="https://open.spotify.com/user/j-bones93" target="_blank"></a>
 
 #### Posts Curated by J-Bones
 
