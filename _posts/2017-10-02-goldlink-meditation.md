@@ -32,7 +32,7 @@ Tracks like “Meditation” highlight an impressive debut album for a versatile
 
 The DMV rapper makes an emphatic statement with his second video from his studio debut, *At What Cost* (2017) which continues his unique and wavy “Future Bounce” sound while also expanding into less typical or expected musical territory with the help of some very timely guest features including Montreal’s Kaytranada and The Internet’s Matt Martians and Steve Lacy. 
 
-<a href="https://en.wikipedia.org/wiki/GoldLink" target="_blank">Read more about Goldlink on Wikipedia</a> and check out his interview with <a href="https://www.wikipedia.org/" target="_blank">The Fader</a>
+<a href="https://en.wikipedia.org/wiki/GoldLink" target="_blank">Read more about Goldlink on Wikipedia</a> and check out <a href="https://www.wikipedia.org/" target="_blank">his interview with The Fader</a>
 
 #### Attributions
 
