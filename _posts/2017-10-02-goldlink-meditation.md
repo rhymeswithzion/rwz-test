@@ -59,5 +59,5 @@ Shoutouts to LA-based director Christine Yuan for providing the apt setting of a
 #### Connect with Christine Yuan 
 
 <a class="fa fa-globe" href="http://www.christineyuan.com/" target="_blank"></a> | 
-<a class="fa fa-instagram" href="https://www.instagram.com/christineyuan" target="_blank"></a> |  
+<a class="fa fa-instagram" href="https://www.instagram.com/christineyuan" target="_blank"></a> | 
 <a class="fa fa-vimeo" href="https://vimeo.com/christineyuan" target="_blank"></a> 
