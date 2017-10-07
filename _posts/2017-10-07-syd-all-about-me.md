@@ -51,11 +51,11 @@ Shoutouts to South Central L.A. Director Calmatic for filming the shadowy video 
 
 #### Connect with Steve Lacy
 
-<a class="fa fa-tumblr" href="http://steve-lacy.tumblr.com/" target="_blank"> Tumblr </a> |
-<a class="fa fa-twitter" href="https://twitter.com/stevelacys" target="_blank"> Twitter </a> |
-<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCRt1A0W4iZfvsOhAH1yft2Q" target="_blank"> Youtube </a> |
-<a class="fa fa-instagram" href="https://www.instagram.com/steve.lacy/" target="_blank"> Instagram </a> |
-<a class="fa fa-soundcloud" href="https://soundcloud.com/steevlacy" target="_blank"> Soundcloud </a> 
+<a class="fa fa-tumblr" href="http://steve-lacy.tumblr.com/" target="_blank"></a> | 
+<a class="fa fa-twitter" href="https://twitter.com/stevelacys" target="_blank"></a> | 
+<a class="fa fa-youtube" href="https://www.youtube.com/channel/UCRt1A0W4iZfvsOhAH1yft2Q" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/steve.lacy/" target="_blank"></a> | 
+<a class="fa fa-soundcloud" href="https://soundcloud.com/steevlacy" target="_blank"></a> 
 
 #### Connect with Calmatic
 
