@@ -11,7 +11,7 @@ subtitle: >-
 image: 'http://img.youtube.com/vi/ZNIOrsxsa0A/mqdefault.jpg'
 ---
 <br>
-{% include youtube.html url="=ZNIOrsxsa0A" %} 
+{% include youtube.html url="ZNIOrsxsa0A" %} 
 <br>
 <h5 style="text-align: center;">
 Artist: Syd <br>
