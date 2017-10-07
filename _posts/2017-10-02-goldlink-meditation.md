@@ -13,7 +13,7 @@ subtitle: >-
 {% include youtube.html url="Y-OqT5Po8KQ" %} 
 <br>
 <h5 style="text-align: center;">
-Title: Meditation
+Title: Meditation <br>
 Artist: Goldlink feat Jazmine Sullivan <br>
 Producer: Kaytranada <br>
 Director: Christine Yuan<br>
