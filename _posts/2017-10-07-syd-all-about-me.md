@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Syd - All About ME
+title: Syd - All About Me
 date: '2017-02-08'
 author: j-bones
 subtitle: >-
