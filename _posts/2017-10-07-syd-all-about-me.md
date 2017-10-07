@@ -33,7 +33,7 @@ It’s important to note that sonically this single greatly varies from The Inte
 
 **Sydney Bennett** (born April 23, 1992) is an American singer, songwriter, record producer, disc jockey, and audio engineer from Los Angeles, California.Aside from her solo career, Syd was a member of the Los Angeles alternative hip hop collective Odd Future and is the lead vocalist for the soul band The Internet. She is the older sister of Odd Future member Travis "Taco" Bennett. She is currently signed to Columbia Records.
 
-<a href=”https://en.wikipedia.org/wiki/Syd_(singer)” target=”_blank”>read more about Artist on Wikipedia</a>
+<a href="https://en.wikipedia.org/wiki/Syd_(singer)" target="_blank">read more about Artist on Wikipedia</a>
 
 #### Attributions
 
