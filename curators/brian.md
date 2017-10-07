@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bríÎìan
+title: bríîìan
 subtitle: Iron like a Lion in Zion... The human behind rwz.io
 published: true
 ---
