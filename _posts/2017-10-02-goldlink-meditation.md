@@ -13,12 +13,12 @@ subtitle: >-
 {% include youtube.html url="Y-OqT5Po8KQ" %} 
 <br>
 <h5 style="text-align: center;">
+Title: Meditation
 Artist: Goldlink feat Jazmine Sullivan <br>
 Producer: Kaytranada <br>
 Director: Christine Yuan<br>
-Label: RCA Records (a division of Sony Music Entertainment) <br>
-Location: Born in Washington D.C., currently based in the DMV (D.C., Maryland, Virginia area) <br>
-Year: Video released August 21, 2017 | Album released March 21, 2017
+Location: Born in Washington D.C., based in the DMV <br>
+Year: 2017
 </h5>
 <br>
 
