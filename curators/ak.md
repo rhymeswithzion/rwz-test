@@ -31,9 +31,13 @@ Personal Fave: Prince is the greatest ever.
 <a class="fa fa-facebook" href="https://www.facebook.com/adam.krausz" target="_blank"></a> | 
 <a class="fa fa-instagram" href="https://www.instagram.com/akrausz" target="_blank"></a>
 
-#### Connect with Almost Art <a class="fa fa-facebook" href="https://www.facebook.com/almostart" target="_blank"></a>
+#### Connect with Almost Art 
 
-#### Connect with BodyWorks <a class="fa fa-facebook" href="https://www.facebook.com/bodyworksto" target="_blank"></a>
+<a class="fa fa-facebook" href="https://www.facebook.com/almostart" target="_blank"></a>
+
+#### Connect with BodyWorks 
+
+<a class="fa fa-facebook" href="https://www.facebook.com/bodyworksto" target="_blank"></a>
 
 #### Posts Curated by Adam
 
