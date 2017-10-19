@@ -26,18 +26,14 @@ Rock, Jazz, Funk, Disco, House, Hip-Hop, Neo-Soul; anything with a groove. <br>
 INTERNATIONAL MUSIC! <br>
 Personal Fave: Prince is the greatest ever.
 
-#### Connect 
+#### Connect with Adam
 
 <a class="fa fa-facebook" href="https://www.facebook.com/adam.krausz" target="_blank"></a> | 
-<a class="fa fa-instagram" href="https://www.instagram.com/akrausz" target="_blank"></a> | 
+<a class="fa fa-instagram" href="https://www.instagram.com/akrausz" target="_blank"></a>
 
-#### Connect with Almost Art
+#### Connect with Almost Art <a class="fa fa-facebook" href="https://www.facebook.com/almostart" target="_blank"></a>
 
-<a class="fa fa-facebook" href="https://www.facebook.com/almostart" target="_blank"></a>
-
-#### Connect with BodyWorks
-
-<a class="fa fa-facebook" href="https://www.facebook.com/bodyworksto" target="_blank"></a>
+#### Connect with BodyWorks <a class="fa fa-facebook" href="https://www.facebook.com/bodyworksto" target="_blank"></a>
 
 #### Posts Curated by Adam
 
