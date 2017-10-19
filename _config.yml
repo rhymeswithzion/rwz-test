@@ -71,6 +71,9 @@ authors:
   msz:
     name: Ms. Z
     web: https://rwz.io/curators/msz
+  ak:
+    name: Adam Krausz
+    web: https://rwz.io/curatos/ak
 
 # Select which links to show in the footer
 footer-links-active:
