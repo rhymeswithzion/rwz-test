@@ -9,7 +9,7 @@ subtitle: >-
   rooftops of Morocco come to life. Toronto’s very own Grandson & Son and Tommy,
   are able to transform a dream into reality using psychedelic and breathtaking
   technique that will now make acid in Morocco friendly for all ;)
-author: krausz
+author: ak
 ---
 <br />
 {% include youtube.html url="6Dj14UqY1kY" %} 
