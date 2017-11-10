@@ -39,6 +39,8 @@ avatar: "/img/rwz-icon.png"
 # then specify the following parameter
 # title-img: /path/to/image
 
+navbar-img: "/img/reverse-triangles.png"
+footer-img: "/img/dark-triangle.png"
 
 # --- Background colour/image options --- #
 
