@@ -47,9 +47,6 @@ avatar: "/img/rwz-icon.png"
 # for the navigation bar, the main page, and the footer.
 
 
-navbar-img: "/img/reverse-triangles.png"
-footer-img: "/img/dark-triangle.png"
-
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
